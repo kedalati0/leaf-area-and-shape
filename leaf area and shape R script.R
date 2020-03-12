@@ -18,3 +18,18 @@ class (f)
 c $plant.ID = f
 head (c)
 tail (c)
+getwd
+getwd()
+g = c[219:nrow(c),]
+## to crop the rows into new table
+read.csv("architect.csv")
+getwd()
+setwd("leaf area and shape")
+getwd()
+read.csv("architect.csv")
+read.csv("traits.csv")
+traits = read.csv("traits.csv")
+architect = read.csv("architect.csv")
+merge = merge(x=traits[,c("plantID", "spcod", "cii")],y=architect[,c("plantID", "dbh", "tnlc")],by= "plantID")
+names(g)[3] = "plantID"
+k = aggregate(Area.real..px.2.~plantID,g,mean)

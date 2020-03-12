@@ -1,0 +1,1115 @@
+trip,yyyy,mm,dd,rhtimei,plantID,fam,gen,epi,ssp,spcod,mtime,rhtimef,ltype,scan,nleaf,nlunit,npet,muf,mup,cii,ef,ttype,td,tl,tmu,tv,tdm,ldm,pdm,prob,checkID
+8,2017,8,20,1630,80769,Myristicaceae,Virola,guggenheimii,,MYRI_Virgug,4437,2807,simple,ok,2,2,2,1292,69,1.25,152,branch,587,102,328,359,126,512,13,,
+8,2017,8,20,1630,80793,Lecythidaceae,Lecythis,prancei,,LECY_Lecpra,4113,2483,simple,ok,4,4,4,1118,60,1.25,188,branch,NA,NA,NA,NA,NA,488,21,,ok
+8,2017,8,19,1630,80854,Burseraceae,Protium,hebetatum,forma B FITO,BURS_Proheb-B,4356,2726,simple,ok,5,5,5,1325,68,1.5,267,branch,601,104,340,314,172,253,6,,YES
+8,2017,8,19,1630,80874,Sapotaceae,Pouteria,brachyandra,,SAPO_Poubra,4502,2872,simple,ok,3,3,3,152,16,1,155,branch,625,91,336,304,178,173,4,,YES
+8,2017,8,20,1630,81241,Fabaceae,Zygia,racemosa,,FABA_Zygrac,4514,2884,bipinnate,ok?,1,,1,376,51,1,205,branch,494,105,259,220,143,140,19,,ok
+8,2017,8,20,1630,81244,Apocynaceae,Malouetia,duckei,,APOC_Malduc,4440,2810,simple,ok,5,5,5,502,13,1,207,branch,685,96,381,355,194,182,4,,ok
+8,2017,8,19,1630,90356,Lauraceae,Aniba,sp.p4.PP,,LAUR_Anisp4,3925,2295,simple,ok,5,5,5,273,19,1.25,203,branch,377,87,112,104,55,126,7,qr,
+8,2017,8,19,1630,90373,Chrysobalanaceae,Hirtella,obidensis,,CHRY_Hirobi,3546,1916,simple,ok,5,5,5,710,20,2.5,161,branch,560,102,297,260,171,315,5,trait,ok
+8,2017,8,19,1630,90381,Burseraceae,Protium,tenuifolium,var.1 FITO,BURS_Proten-1,4214,2584,odd-pinnate,"ok?, but image 002 with wrong id (381)",1,,1,521,164,2.5,163,branch,486,108,216,217,88,305,84,,ok
+8,2017,8,19,1630,90393,Sapotaceae,Micropholis,guyanensis,,SAPO_Micguy,3919,2289,simple,ok,3,3,3,1263,60,2,253,branch,390,91,136,128,63,574,22,,
+8,2017,8,19,1630,90444,Fabaceae,Inga,sp.30.FITO,,FABA_Ings30,4220,2590,even-pinnate,ok?,0.5,,1,1272,766,1.75,208,branch,NA,NA,NA,NA,NA,546,327,,
+8,2017,8,19,1630,90445,Dichapetalaceae,Tapura,guianensis,,DICH_Tapgui,4456,2826,simple,ok,5,5,5,1212,30,1.75,414,branch,558,103,341,302,164,369,8,qr;rgr,
+8,2017,8,18,1300,90470,Elaeocarpaceae,Sloanea,pubescens,,ELAE_Slopub,3523,2223,simple,ok,1,1,1,1346,146,1.25,270,branch,NA,NA,NA,NA,NA,660,54,,ok
+8,2017,8,19,1630,90472,Simaroubaceae,Simaba,polyphylla,,SIMA_Simpol,4331,2701,compound,ok?,0.5,,1,294,191,1.25,162,branch,NA,NA,NA,NA,NA,131,72,rgr,ok
+8,2017,8,19,1630,90548,Lecythidaceae,Eschweilera,atropetiolata,,LECY_Escatr,4403,2773,simple,ok,5,5,5,1633,93,1.5,189,branch,573,103,308,270,155,758,36,,
+8,2017,8,19,1630,90550,Elaeocarpaceae,Sloanea,pubescens,,ELAE_Slopub,4432,2802,simple,ok,2,2,2,807,51,1.25,336,branch,618,98,379,326,191,385,16,,ok
+8,2017,8,19,1630,90553,Burseraceae,Protium,hebetatum,forma B FITO,BURS_Proheb-B,4208,2578,odd-pinnate,ok?,0.5,,1,748,702,1.25,157,branch,751,102,479,411,282,429,347,,
+8,2017,8,19,1630,90558,Lauraceae,Aniba,terminalis,,LAUR_Aniter,4458,2828,simple,ok,5,5,5,502,28,1,179,branch,374,116,163,142,74,203,9,rgr,
+8,2017,8,19,1630,90563,Sapotaceae,Pouteria,resinosa,,SAPO_Poures,4428,2798,simple,ok,5,5,5,374,20,1,152,branch,595,75,286,247,179,187,8,,
+8,2017,8,19,1630,90575,Urticaceae,Pourouma,sp.A.PP,,URTI_PouspA,4158,2528,simple,ok,1,1,1,2453,1289,1.25,266,branch,NA,NA,NA,NA,NA,1026,364,,
+8,2017,8,19,1630,90576,Lecythidaceae,Eschweilera,romeu-cardosoi,,LECY_Escrom,3450,1820,simple,ok,5,5,5,356,15,1,182,branch,474,97,233,201,135,182,6,,
+8,2017,8,19,1630,90578,Rubiaceae,Ixora,intensa,,RUBI_Ixoint,3938,2308,simple,ok,4,4,4,1029,216,1,53,branch,561,95,322,278,183,487,23,,ok
+8,2017,8,19,1630,90585,Lecythidaceae,Eschweilera,atropetiolata,,LECY_Escatr,3857,2227,simple,ok,5,5,5,1497,108,1.25,185,branch,481,89,202,170,97,763,43,qr,
+8,2017,8,19,1630,90603,Annonaceae,Onychopetalum,amazonicum,,ANNO_Onyama,3906,2276,simple,ok,5,5,5,1320,86,1.25,166,branch,NA,NA,NA,NA,NA,652,26,rgr,ok
+8,2017,8,19,1630,90617,Sapotaceae,Micropholis,venulosa,,SAPO_Micven,3912,2282,simple,ok,20,20,20,166,5,1.25,111,branch,322,86,85,78,50,77,2,,
+8,2017,8,19,1630,90620,Myristicaceae,Virola,sebifera,Forma A PP,MYRI_Virseb,3847,2217,simple,ok,5,5,5,1037,36,NA,158,branch,422,85,150,157,54,400,9,,
+8,2017,8,19,1630,90628,Ochnaceae,Ouratea,odora,,OCHN_Ourodo,3602,1972,simple,ok,2,2,2,619,48,1,166,branch,228,106,258,217,145,318,23,,ok
+8,2017,8,19,1630,90629,Lecythidaceae,Eschweilera,pseudodecolorans,,LECY_Escpse,4037,2407,simple,ok,10,10,10,396,14,1,135,branch,370,81,109,92,60,180,4,,
+8,2017,8,19,1630,90645,Olacaceae,Minquartia,guianensis,verde MV,OLAC_Mingui-V,4412,2782,simple,ok,6,6,6,477,26,1,180,branch,456,95,184,166,99,217,8,,ok
+8,2017,8,19,1630,90646,Clusiaceae,Tovomita,sp.3.FITO,,CLUS_Tovsp3,4410,2780,simple,ok,3,3,3,1692,145,1.25,255,branch,630,100,390,324,214,425,29,,ok
+8,2017,8,19,1630,90647,Sapotaceae,Pouteria,retinervis,,SAPO_Pouren,3853,2223,simple,ok,5,5,5,964,140,1,170,branch,430,75,141,126,64,362,43,,
+8,2017,8,19,1630,90654,Lecythidaceae,Corythophora,alta,,LECY_Coralt,3559,1929,simple,ok,5,5,5,717,24,2,146,branch,570,98,270,240,147,356,10,,
+8,2017,8,20,1630,90658,Myristicaceae,Compsoneura,ulei,,MYRI_Comule,4434,2804,simple,ok,5,5,5,550,30,1.25,205,branch,425,103,156,151,72,210,7,,
+8,2017,8,20,1630,90660,Humiriaceae,Duckesia,verrucosa,,HUMI_Ducver,4101,2471,simple,ok,20,20,20,76,1,1.25,71,branch,242,91,61,52,30,31,0,,
+8,2017,8,20,1630,90665,Lecythidaceae,Eschweilera,pseudodecolorans,,LECY_Escpse,4043,2413,simple,ok,5,5,5,617,19,1.25,155,branch,411,80,135,114,74,282,7,,
+8,2017,8,20,1630,90669,Myrtaceae,Eugenia,sp.13.FITO,,MYRT_Eugs13,4056,2426,simple,ok,5,5,5,654,32,1.25,155,branch,345,85,108,92,56,272,11,,
+8,2017,8,20,1630,90672,Chrysobalanaceae,Licania,reticulata,,CHRY_Licret,3527,1897,simple,ok,5,5,5,817,29,1,163,branch,320,83,81,71,37,333,9,arch;qr,ok
+8,2017,8,20,1630,90673,Violaceae,Paypayrola,grandiflora,,VIOL_Paygra,4123,2493,simple,ok,2,2,2,1329,69,1,237,branch,566,87,260,237,102,404,16,,
+8,2017,8,20,1630,90675,Myristicaceae,Virola,sebifera,Forma A PP,MYRI_Virseb,4110,2480,simple,ok,5,5,5,604,28,1,151,branch,417,83,118,120,50,240,8,,
+8,2017,8,20,1630,90678,Annonaceae,Duguetia,flagellaris,,ANNO_Dugfla,4525,2895,simple,ok,5,5,5,459,15,1,182,branch,593,97,339,315,154,199,6,,
+8,2017,8,20,1630,90679,Fabaceae,Andira,parviflora,,FABA_Andpar,4516,2886,compound,ok?,1,,2,209,131,1,191,branch,524,113,316,271,153,92,42,,
+8,2017,8,20,1630,90684,Burseraceae,Protium,paniculatum,modestum,BURS_Propan-M,4349,2719,odd-pinnate,ok?,0.5,,1,307,135,1,163,branch,744,99,443,469,260,159,61,,ok
+8,2017,8,20,1630,90685,Sapindaceae,Cupania,hispida,,SAPI_Cuphis,4225,2595,compound,ok?,0.5,,1,501,331,1,228,branch,NA,NA,NA,NA,NA,202,107,,ok
+8,2017,8,20,1630,90687,Lauraceae,Ocotea,cernua,,LAUR_Ococer,4528,2898,simple,ok,5,5,5,130,6,1,154,branch,534,107,328,292,168,66,3,,
+8,2017,8,20,1630,90692,Meliaceae,Trichilia,schomburgkii,,MELI_Trisch,4245,2615,compound,ok?,0.5,,1,799,305,1,176,branch,NA,NA,NA,NA,NA,323,123,,ok
+8,2017,8,20,1630,90694,Rubiaceae,Psychotria,pacimonica,,RUBI_Psypac,4046,2416,simple,ok,5,5,5,1455,106,1,315,branch,723,84,427,395,154,326,18,arch;qr,
+8,2017,8,20,1630,90696,Lecythidaceae,Eschweilera,romeu-cardosoi,,LECY_Escrom,3519,1889,simple,ok,5,5,5,381,9,1,179,branch,540,97,220,190,126,182,5,,
+8,2017,8,20,1630,90697,Lecythidaceae,Eschweilera,atropetiolata,,LECY_Escatr,3647,2017,simple,ok,2,2,2,486,24,1,171,branch,741,110,578,518,294,236,9,,
+8,2017,8,20,1630,90698,Moraceae,Sorocea,muriculata,muriculata,MORA_Sormur-m,3751,2121,simple,ok,10,10,10,357,6,1,139,branch,332,82,81,66,42,167,2,,yes
+8,2017,8,20,1630,90700,Myristicaceae,Iryanthera,juruensis,,MYRI_Iryjur,3503,1873,simple,ok,5,5,5,363,19,1,162,branch,394,108,165,154,89,147,6,,
+8,2017,8,20,1630,90702,Sapotaceae,Pouteria,minima,,SAPO_Poumin,3740,2110,simple,ok,5,5,5,1588,83,1,200,branch,682,96,395,354,228,675,31,,
+8,2017,8,20,1630,90703,Burseraceae,Protium,opacum,,BURS_Proopa,3620,1990,odd-pinnate,ok?,1,,2,402,166,1,147,branch,486,108,240,221,127,194,67,qr;rgr,
+8,2017,8,20,1630,90742,Picramniaceae,Picramnia,juniniana,,PICR_Picjun,3458,1828,compound,ok?,2,,2,226,40,1,134,branch,531,95,240,206,149,118,18,,
+8,2017,8,20,1630,90747,Rubiaceae,Coussarea,sp.9.FITO,,RUBI_Cousp9,3640,2010,simple,ok,5,5,5,657,46,1.25,173,branch,712,95,468,415,220,223,10,,
+8,2017,8,20,1630,90754,Burseraceae,Protium,altsonii/laxiflorum.FITO,,BURS_Proall,3416,1786,odd-pinnate,ok?,2,,2,333,68,1.25,134,branch,NA,NA,NA,NA,NA,165,25,,ok
+8,2017,8,20,1630,90756,,,,,,3804,2174,simple,ok,5,5,5,477,17,1.25,142,branch,392,91,136,120,66,191,6,,yes
+8,2017,8,20,1630,90759,Humiriaceae,Vantanea,guianensis,,HUMI_Vangui,4118,2488,simple,ok,5,5,5,492,22,1,169,branch,267,89,72,62,34,208,7,,yes
+8,2017,8,20,1630,90760,Sapotaceae,Pouteria,guianensis,,SAPO_Pougui,3637,2007,simple,ok,5,5,5,667,32,1,139,branch,595,93,328,284,189,309,10,,ok
+8,2017,8,20,1630,90763,Salicaceae,Casearia,javitensis,Forma A PP,SALI_Casjav-A,3328,1698,simple,ok,6,6,6,532,15,1,183,branch,288,89,67,58,35,254,8,,YES
+8,2017,8,20,1630,90766,Melastomataceae,Mouriri,huberi,,MELA_Mouhub,3454,1824,simple,ok,4,4,4,859,27,1,259,branch,478,99,233,201,139,394,9,,ok
+8,2017,8,20,1630,90791,Myrtaceae,Myrcia,paivae,,MYRT_Myrpai,3434,1804,simple,ok,10,10,10,409,11,1.25,134,branch,438,99,158,147,79,206,4,,
+8,2017,8,20,1630,90792,Phyllanthaceae,Phyllanthus,manausensis,,PHYL_Phyman,3509,1879,simple,ok,5,5,5,524,27,1.25,194,branch,474,100,219,181,134,214,9,,
+8,2017,8,20,1630,90793,Urticaceae,Pourouma,myrmecophila,,URTI_Poumyr,3757,2127,simple,ok,1,1,1,1183,320,1.25,261,branch,413,80,136,122,57,422,89,,
+8,2017,8,20,1630,90796,Sapotaceae,Pouteria,cuspidata,,SAPO_Poucus,3606,1976,simple,ok,15,15,15,403,32,1,165,branch,506,94,194,163,120,175,12,,ok
+8,2017,8,20,1630,90800,Salicaceae,Casearia,javitensis,Forma B PP,SALI_Casjav-B,3805,2175,simple,ok,6,6,6,547,8,1,156,branch,489,107,289,248,174,86,2,,
+8,2017,8,20,1630,90802,Rubiaceae,Psychotria,pacimonica,,RUBI_Psypac,3544,1914,simple,ok,5,5,5,1167,69,1,290,branch,862,99,628,570,259,287,12,rgr,
+8,2017,8,20,1630,90809,Lecythidaceae,Eschweilera,wachenheimii,,LECY_Escwac,3550,1920,simple,ok,5,5,5,421,10,1,149,branch,495,92,242,217,128,201,4,,
+8,2017,8,20,1630,90811,Burseraceae,Protium,sagotianum,,BURS_Prosag,4029,2399,odd-pinnate,ok?,2,,2,280,53,1,85,branch,590,88,283,261,182,132,23,,ok
+8,2017,8,20,1630,90812,Sapotaceae,Pouteria,retinervis,,SAPO_Pouren,3408,1778,simple,ok,2,2,2,747,54,1,181,branch,NA,NA,NA,NA,NA,242,13,,
+8,2017,8,20,1630,90813,Rhizophoraceae,Cassipourea,guianensis,,RHIZ_Casgui,3755,2125,simple,ok,5,5,5,444,16,1,201,branch,380,107,162,137,88,177,6,,
+8,2017,8,19,1630,90816,Melastomataceae,Mouriri,eugeniaefolia/nervosa.FITO,,MELA_Moueug,4451,2821,simple,ok,4,4,4,2258,16,1.25,294,branch,564,106,376,313,243,1040,8,,ok
+8,2017,8,19,1630,90817,Connaraceae,Connarus,erianthus,,CONN_Coneri,4504,2874,compound,ok?,1,,1,216,42,1,135,branch,513,108,253,222,127,129,21,,ok
+8,2017,8,19,1630,90819,Myrtaceae,Eugenia,illepida,,MYRT_Eugill,4352,2722,simple,ok,2,2,2,1122,71,1,352,branch,611,98,387,336,201,422,25,,ok
+8,2017,8,19,1630,90820,Sapotaceae,Pouteria,reticulata,ssp. 2 FITO,SAPO_Pouret-2,4357,2727,simple,ok,5,5,5,626,28,1,195,branch,447,101,217,186,114,332,12,,
+8,2017,8,19,1630,90821,Fabaceae,Eperua,glabriflora,,FABA_Epegla,4530,2900,compound,ok?,1,,2,516,133,1,205,branch,619,105,387,341,247,231,60,,
+8,2017,8,19,1630,90829,Myristicaceae,Virola,venosa,,MYRI_Virven,4533,2903,simple,"ok, but image 1 had wrong id (96829)",5,5,5,453,30,1,125,branch,395,91,125,128,55,202,10,,
+8,2017,8,19,1630,90830,Elaeocarpaceae,Sloanea,guianensis,,ELAE_Slogui,4537,2907,simple,"ok, but image 1 had wrong id (96829)",5,5,5,511,29,1.25,146,branch,416,94,152,132,74,255,10,,
+8,2017,8,19,1630,90832,Melastomataceae,Mouriri,angulicosta,,MELA_Mouang,4447,2817,simple,"ok, but images with wrong id (96832)",7,7,7,173,3,1,202,branch,287,89,79,63,51,79,0,,ok
+8,2017,8,19,1630,90835,Fabaceae,Inga,sp.30.FITO,,FABA_Ings30,4338,2708,even-pinnate,"ok?, but images with wrong id except for 001 (90385)",0.5,,1,1402,679,1.25,177,branch,NA,NA,NA,NA,NA,580,266,q,
+8,2017,8,19,1630,90836,Annonaceae,Guatteria,discolor,,ANNO_Guadis,4231,2601,simple,"ok, but images with wrong id (96836)",2,2,2,1418,36,NA,268,branch,NA,NA,NA,NA,NA,403,10,,ok
+8,2017,8,20,1630,90851,Violaceae,Rinorea,guianensis,,VIOL_Ringui,3538,1908,simple,ok,5,5,5,246,4,1,149,branch,595,97,400,347,220,92,1,qr;rgr,
+8,2017,8,20,1630,90854,Ochnaceae,Ouratea,odora,,OCHN_Ourodo,4051,2421,simple,ok,5,5,5,580,20,1,131,branch,342,80,92,81,43,261,6,,ok
+8,2017,8,20,1630,90857,Annonaceae,Guatteria,procera,Forma A PP,ANNO_Guapro,3926,2296,simple,ok,10,10,10,259,6,1,151,branch,419,93,140,140,46,86,2,,ok
+8,2017,8,20,1630,90864,Annonaceae,Duguetia,calycina,,ANNO_Dugcal,4521,2891,simple,ok,5,5,5,628,25,1,232,branch,373,96,131,118,67,308,11,,ok
+8,2017,8,19,1630,90867,Nyctaginaceae,Neea,sp.3.FITO,,NYCT_Neesp3,3554,1924,simple,ok,5,5,5,397,26,1.25,232,branch,452,106,201,190,91,152,7,,
+8,2017,8,19,1630,90870,Chrysobalanaceae,Licania,octandra,pallida,CHRY_Licoct,3516,1886,simple,ok,10,10,10,306,8,1.5,149,branch,324,92,103,84,59,135,0,trait,ok
+8,2017,8,19,1630,90871,Nyctaginaceae,Neea,sp.14.FITO,,NYCT_Nees14,4511,2881,simple,ok,5,5,5,1201,40,1.5,395,branch,616,93,295,278,104,231,7,,
+8,2017,8,19,1630,90874,Sapotaceae,Pouteria,anomala,,SAPO_Pouano,4424,2794,simple,ok,5,5,5,330,14,1,127,branch,472,94,182,258,115,181,6,,
+8,2017,8,19,1630,90875,Myrtaceae,Eugenia,patrisii,,MYRT_Eugpat,4419,2789,simple,ok,10,10,10,336,12,1,211,branch,502,100,226,194,119,130,3,,
+8,2017,8,19,1630,90879,Euphorbiaceae,Pausandra,macropetala,,EUPH_Paumac,4329,2699,simple,ok,1,1,1,1804,180,1.5,219,branch,512,96,234,210,104,881,71,,
+8,2017,8,19,1630,90883,Sapotaceae,Micropholis,venulosa,,SAPO_Micven,3623,1993,simple,ok,30,30,30,103,3,1,106,branch,311,94,86,78,49,43,0,qr,YES
+8,2017,8,19,NA,90887,Sapotaceae,Micropholis,guyanensis,,SAPO_Micguy,NA,NA,simple,NA,NA,NA,NA,NA,NA,1,NA,branch,NA,NA,NA,NA,NA,NA,NA,,
+8,2017,8,19,1630,90889,Fabaceae,Dicorynia,guianensis,,FABA_Dicgui,4024,2394,compound,ok?,1,,2,488,133,1,158,branch,364,83,129,114,60,183,48,,
+8,2017,8,19,1630,90893,Sapotaceae,Pouteria,jariensis,,SAPO_Poujar,4443,2813,simple,ok,5,5,5,958,46,1,233,branch,497,90,214,189,133,451,16,,
+8,2017,8,20,1630,90904,Chrysobalanaceae,Licania,heteromorpha,prismatocarpa FITO,CHRY_Lichet-p,4019,2389,simple,image 003 missing,5,5,5,1041,38,1,176,branch,444,87,191,165,101,442,15,,
+8,2017,8,20,1630,90914,Burseraceae,Protium,opacum,,BURS_Proopa,4506,2876,odd-pinnate,ok?,1,,2,359,103,1,158,branch,584,95,309,275,164,170,41,,
+8,2017,8,20,1630,90916,Moraceae,Naucleopsis,caloneura,não escabra PP,MORA_Naucal-n,4405,2775,simple,ok,3,3,3,844,44,1,174,branch,764,103,502,468,214,386,12,qr,yes
+8,2017,8,20,1630,90972,Annonaceae,Bocageopsis,multiflora,,ANNO_Bocmul,3441,1811,simple,ok,10,10,10,145,3,1,117,branch,NA,NA,NA,NA,NA,68,2,,ok
+8,2017,8,20,1630,90973,Salicaceae,Indet,sp.2.FITO,,SALI_Indsp2,3644,2014,simple,ok,5,5,5,548,22,1,193,branch,400,103,215,202,95,180,5,,YES
+8,2017,8,20,1630,90979,Myrtaceae,Eugenia,agathopoda,,MYRT_Eugaga,4035,2405,simple,ok,5,5,5,2867,147,1,438,branch,601,80,280,256,121,1100,63,,
+8,2017,8,20,1630,90981,Urticaceae,Pourouma,tomentosa,apiculata,URTI_Poutom-a,4128,2498,simple,ok,2,2,2,2278,647,1,208,branch,NA,NA,NA,NA,NA,888,179,,yes
+8,2017,8,20,1630,90982,Chrysobalanaceae,Licania,membranacea,,CHRY_Licmem,3752,2122,simple,ok,5,5,5,551,38,1,148,branch,441,98,178,143,110,266,12,,ok
+8,2017,8,20,1630,91123,Sapotaceae,Pouteria,sp.4.FITO,,SAPO_Pousp4,3744,2114,simple,ok,3,3,3,539,48,1,135,branch,601,104,384,350,215,217,13,,
+8,2017,8,20,1630,91124,Rubiaceae,Coussarea,sp.1.FITO,,RUBI_Cousp1,3617,1987,simple,ok,6,6,6,570,43,1,173,branch,710,94,381,372,210,208,12,,
+8,2017,8,19,NA,96387,NA,NA,NA,,NA_NANA,NA,NA,simple,NA,NA,NA,NA,NA,NA,1,NA,branch,NA,NA,NA,NA,NA,NA,NA,rgr,yes
+8,2017,8,19,1630,96416,NA,NA,NA,,NA_NANA,4422,2792,simple,ok,5,5,5,252,9,1,134,branch,394,104,155,141,80,113,3,q;rgr,yes
+8,2017,8,18,1300,100305,Annonaceae,Fusaea,longifolia,,ANNO_Fuslon,2134,834,simple,ok,5,5,5,632,14,1.5,192,branch,445,92,202,180,100,320,5,,
+8,2017,8,18,1300,100306,Sapotaceae,Pouteria,retinervis,,SAPO_Pouren,2109,809,simple,ok,5,5,5,1272,98,1.75,198,branch,486,92,245,225,106,449,26,,
+8,2017,8,17,1300,100326,Lecythidaceae,Couratari,guianensis,,LECY_Cougui,3216,1916,simple,ok,5,5,5,2113,61,1.25,201,branch,1036,89,725,738,370,843,20,,
+8,2017,8,17,1300,100377,Chrysobalanaceae,Couepia,canomensis,,CHRY_Coucan,3430,2130,simple,ok,5,5,5,262,9,1,187,branch,526,92,242,205,134,126,5,rgr,ok
+8,2017,8,17,1300,100390,Nyctaginaceae,Neea,sp.A.PP,,NYCT_NeespA,2128,828,simple,ok,4,4,4,3033,154,1.5,488,branch,954,92,561,604,136,551,25,,
+8,2017,8,18,1300,100473,Sapotaceae,Chrysophyllum,wilsonii,,SAPO_Chrwil,2017,717,simple,ok,3,3,3,877,84,1.5,218,branch,487,97,183,177,51,268,15,,
+8,2017,8,18,1300,100479,Sapotaceae,Chrysophyllum,wilsonii,,SAPO_Chrwil,2132,832,simple,ok,5,5,5,970,61,1.5,207,branch,500,97,221,200,98,379,18,rgr,
+8,2017,8,18,1300,100486,Lecythidaceae,Corythophora,alta,,LECY_Coralt,2137,837,simple,ok,5,5,5,806,27,1.5,145,branch,500,96,251,219,137,422,12,,
+8,2017,8,18,1300,100488,Burseraceae,Protium,paniculatum,modestum,BURS_Propan-M,2209,909,odd-pinnate,"ok?, but image 001 had wrong id (10488)",1,,2,382,166,1.75,170,branch,378,96,117,108,62,204,75,,ok
+8,2017,8,17,1300,100489,Burseraceae,Protium,hebetatum,forma A FITO,BURS_Proheb-A,3532,2232,odd-pinnate,ok?,0.5,,1,503,394,1.5,130,branch,444,97,159,157,74,262,167,,
+8,2017,8,17,1300,100490,Myristicaceae,Iryanthera,dialyandra/ulei.FITO,,MYRI_Irydia,3434,2134,simple,ok,5,5,5,1571,89,1.5,251,branch,546,96,262,246,145,814,30,qr;light;arch,
+8,2017,8,18,1300,100494,Chrysobalanaceae,Licania,sandwithii,,CHRY_Licsan,3235,1935,simple,ok,7,7,7,437,12,1.25,178,branch,368,97,126,107,72,217,5,,
+8,2017,8,18,1300,100495,Lecythidaceae,Eschweilera,grandiflora,,LECY_Escgra,3408,2108,simple,ok,3,3,3,1372,98,1.5,197,branch,598,103,403,357,168,661,34,q,
+8,2017,8,18,1300,100503,Lecythidaceae,Lecythis,prancei,,LECY_Lecpra,3257,1957,simple,ok,5,5,5,1006,52,1.25,186,branch,523,103,265,240,129,418,20,,ok
+8,2017,8,18,1300,100504,Annonaceae,Duguetia,calycina,,ANNO_Dugcal,2023,723,simple,ok,5,5,5,659,25,1,253,branch,286,98,83,76,39,311,11,,ok
+8,2017,8,18,1300,100508,,,,,,3249,1949,simple,ok,10,10,10,288,4,1,110,branch,455,94,192,171,92,147,1,q;rgr,YES
+8,2017,8,18,1300,100509,Rubiaceae,Amaioua,guianensis,,RUBI_Amagui,3242,1942,simple,ok,4,4,4,714,28,1,173,branch,552,100,293,266,176,304,9,,
+8,2017,8,18,1300,100510,Myrtaceae,Myrcia,paivae,,MYRT_Myrpai,2113,813,simple,ok,10,10,10,334,10,1,148,branch,439,102,231,211,106,169,5,,
+8,2017,8,18,1300,100514,Burseraceae,Protium,paniculatum,modestum,BURS_Propan-M,2151,851,odd-pinnate,ok?,1,,2,587,179,1,198,branch,500,91,203,182,113,325,88,,ok
+8,2017,8,18,1300,100518,Burseraceae,Protium,robustum,,BURS_Prorob,2155,855,odd-pinnate,ok?,0.5,,1,978,692,1.25,133,branch,589,112,353,337,182,493,324,,ok
+8,2017,8,18,1300,100519,Burseraceae,Protium,apiculatum,,BURS_Proapi,3537,2237,odd-pinnate,ok?,0.5,,1,932,451,1.5,123,branch,NA,NA,NA,NA,NA,448,172,qr,ok
+8,2017,8,18,1300,100520,Burseraceae,Protium,decandrum,,BURS_Prodec,2012,712,odd-pinnate,ok?,0.5,,1,418,197,1.5,149,branch,402,94,181,163,77,202,77,,
+8,2017,8,18,1300,100521,Burseraceae,Protium,decandrum,,BURS_Prodec,3428,2128,simple,ok,4,4,4,1101,62,1.5,268,branch,725,97,447,406,205,496,18,,YES
+8,2017,8,18,1300,100526,Lecythidaceae,Eschweilera,romeu-cardosoi,,LECY_Escrom,3320,2020,simple,ok,8,8,8,704,28,1.25,185,branch,381,98,130,114,76,339,13,light;arch,
+8,2017,8,18,1300,100532,Elaeocarpaceae,Sloanea,brachytepala,,ELAE_Slobra,3442,2142,simple,ok,2,2,2,913,122,1,174,branch,NA,NA,NA,NA,NA,470,50,,
+8,2017,8,18,1300,100533,Annonaceae,Duguetia,flagellaris,,ANNO_Dugfla,3357,2057,simple,ok,5,5,5,359,13,1,146,branch,675,98,419,388,193,166,7,,
+8,2017,8,17,1300,100539,Sapotaceae,Pouteria,retinervis,,SAPO_Pouren,1951,651,simple,ok,3,3,3,708,43,1.25,189,branch,421,66,111,104,38,239,12,qr;rgr,
+8,2017,8,18,1300,100543,Sapotaceae,Pouteria,guianensis,,SAPO_Pougui,3454,2154,simple,ok,3,3,3,1411,113,1.25,210,branch,NA,NA,NA,NA,NA,610,31,rgr;qr,yes
+8,2017,8,19,1300,100550,Sapotaceae,Micropholis,venulosa,,SAPO_Micven,3420,2120,simple,ok,5,5,5,525,18,1.25,240,branch,584,104,301,290,167,219,6,,yes
+8,2017,8,17,1300,100551,Lecythidaceae,Corythophora,alta,,LECY_Coralt,3423,2123,simple,ok,5,5,5,454,10,1,127,branch,428,96,163,146,89,235,5,,
+8,2017,8,18,1300,100569,Sapindaceae,Allophylus,latifolius,,SAPI_Alllat,2030,730,compound,ok?,3,,3,491,53,1,154,branch,345,90,115,114,50,204,21,,
+8,2017,8,18,1300,100573,Melastomataceae,Miconia,punctata,,MELA_Micpun,2106,806,simple,ok,5,5,5,430,31,1,189,branch,464,89,178,152,91,189,11,,
+8,2017,8,18,1300,100577,Rubiaceae,Amaioua,guianensis,,RUBI_Amagui,2039,739,simple,ok,5,5,5,697,29,1,201,branch,575,107,319,275,179,307,3,,
+8,2017,8,18,1300,100590,Violaceae,Rinorea,racemosa,,VIOL_Rinrac,3333,2033,simple,ok,3,3,3,563,24,1.25,123,branch,339,99,112,98,53,216,7,,
+8,2017,8,18,1300,100592,Chrysobalanaceae,Licania,sp.10.FITO,,CHRY_Lics10,3336,2036,simple,ok,6,6,6,393,14,1,153,branch,687,99,449,364,263,150,5,,ok
+8,2017,8,18,1300,100593,Quiinaceae,Quiina,obovata,,QUII_Quiobo,3446,2146,simple,ok,2,2,2,1861,145,1,222,branch,NA,NA,NA,NA,NA,786,39,,
+8,2017,8,18,1300,100598,Melastomataceae,Mouriri,huberi,,MELA_Mouhub,2057,757,simple,ok,5,5,5,1121,21,1,238,branch,530,105,308,256,199,533,8,qr,ok
+8,2017,8,18,1300,100600,Fabaceae,Inga,capitata,,FABA_Ingcap,2042,742,even-pinnate,ok?,1,,2,709,209,1,216,branch,627,94,269,262,130,246,63,qr,
+8,2017,8,18,1300,100601,Chrysobalanaceae,Hirtella,myrmecophila,,CHRY_Hirmyr,2102,802,simple,ok,5,5,5,551,15,1,145,branch,376,102,146,125,76,260,6,qr;rgr,
+8,2017,8,18,1300,100612,Chrysobalanaceae,Licania,bracteata,,CHRY_Licbra,3359,2059,simple,ok,3,3,3,1876,103,1,231,branch,519,99,270,230,156,1028,35,,ok
+8,2017,8,18,1300,100614,Violaceae,Rinorea,amapensis,,VIOL_Rinama,3145,1845,simple,ok,5,5,5,280,9,1,149,branch,542,91,287,246,162,108,3,,
+8,2017,8,19,1300,100632,Meliaceae,Guarea,humaitensis,,MELI_Guahum,3529,2229,compound,ok?,0.5,,1,1058,663,1,232,branch,NA,NA,NA,NA,NA,394,227,,
+8,2017,8,18,1300,100637,Sapotaceae,Micropholis,guyanensis,,SAPO_Micguy,2119,819,simple,ok,8,8,8,430,15,1,229,branch,593,107,369,338,229,211,5,,
+8,2017,8,18,1300,100641,Rubiaceae,Ixora,ulei,,RUBI_Ixoule,3326,2026,simple,ok,2,2,2,1368,44,1,247,branch,870,91,603,543,333,595,15,arch;q,
+8,2017,8,18,1300,100647,Sapotaceae,Pouteria,filipes,,SAPO_Poufil,3330,2030,simple,ok,5,5,5,637,31,1.5,220,branch,442,114,259,228,148,314,13,,yes
+8,2017,8,18,1300,100648,Annonaceae,Guatteria,sp.2.PFRD,,ANNO_Guasp2,3230,1930,simple,ok,10,10,10,406,9,2,139,branch,566,97,237,241,97,146,3,rgr,
+8,2017,8,18,1300,100651,Elaeocarpaceae,Sloanea,brachytepala,,ELAE_Slobra,2026,726,simple,ok,5,5,5,617,59,1.5,143,branch,394,86,138,117,73,315,26,,
+8,2017,8,18,1300,100653,Burseraceae,Protium,occultum,,BURS_Proocc,2204,904,simple,ok,6,6,6,458,34,1.5,150,branch,391,96,148,128,91,262,16,,ok
+8,2017,8,18,1300,100654,Myrtaceae,Eugenia,pseudopsidium,,MYRT_Eugpse,2143,843,simple,ok,6,6,6,311,14,1.5,189,branch,533,102,266,222,164,152,6,,
+8,2017,8,18,1300,100660,Sapotaceae,Pouteria,reticulata,ssp. 2 FITO,SAPO_Pouret-2,2008,708,simple,ok,7,7,7,580,26,1.25,193,branch,393,106,168,142,93,314,12,,
+8,2017,8,18,1300,100662,Salicaceae,Ryania,speciosa,,SALI_Ryaspe,2124,824,simple,ok,6,6,6,243,5,1.25,133,branch,361,106,132,114,70,108,2,,
+8,2017,8,18,1300,100663,Clusiaceae,Dystovomita,brasiliensis,,CLUS_Dysbra,3502,2202,simple,ok,2,2,2,3166,357,1.5,348,branch,NA,NA,NA,NA,NA,1219,82,,
+8,2017,8,18,1300,100665,Fabaceae,Inga,umbratica,,FABA_Ingumr,2032,732,even-pinnate,ok?,0.5,,1,535,131,NA,171,branch,NA,NA,NA,NA,NA,226,51,,
+8,2017,8,19,1300,100681,Sapindaceae,Talisia,veraluciana,,SAPI_Talver,3505,2205,compound,ok?,0.5,,1,640,326,1,134,branch,NA,NA,NA,NA,NA,288,130,qr;rgr,
+8,2017,8,19,1300,100690,Boraginaceae,Cordia,trachyphylla,,BORA_Cortra,2004,704,simple,ok,2,2,2,854,19,1.25,311,branch,NA,NA,NA,NA,NA,175,3,,ok
+8,2017,8,19,1300,100691,Salicaceae,Casearia,javitensis,Forma B PP,SALI_Casjav-B,3140,1840,simple,ok,5,5,5,3191,7,1,143,branch,536,100,284,232,171,165,2,,YES
+8,2017,8,17,1300,100705,Sapotaceae,Pouteria,platyphylla,,SAPO_Poupla,3224,1924,simple,ok,5,5,5,1942,199,1,175,branch,620,90,322,289,139,803,53,,
+8,2017,8,17,1300,100707,Rubiaceae,Coussarea,sp.4.FITO,,RUBI_Cousp4,3221,1921,simple,ok,5,5,5,1742,148,1,236,branch,615,100,354,346,91,495,36,,
+8,2017,8,17,1300,100708,Olacaceae,Minquartia,guianensis,verde MV,OLAC_Mingui-V,3404,2104,simple,ok,5,5,5,503,28,1,155,branch,300,95,75,64,38,234,9,,ok
+8,2017,8,17,1300,100709,Clusiaceae,Tovomita,caloneura,,CLUS_Tovcal,3136,1836,simple,ok,5,5,5,4224,363,1,363,branch,749,103,546,453,301,1108,79,,ok
+8,2017,8,17,1300,100713,Fabaceae,Swartzia,reticulata,,FABA_Swaret,3517,2217,compound,ok?,0.5,,1,570,315,1,191,branch,NA,NA,NA,NA,NA,266,134,,
+8,2017,8,17,1300,100714,Annonaceae,Pseudoxandra,obscurinervis,,ANNO_Pseobs,3131,1831,simple,ok,5,5,5,281,7,1,208,branch,346,96,120,114,57,122,2,,ok
+8,2017,8,17,1300,100715,Myristicaceae,Virola,guggenheimii,,MYRI_Virgug,3205,1905,simple,ok,5,5,5,666,37,1,119,branch,513,100,200,225,68,239,7,,YES
+8,2017,8,17,1300,100717,Quiinaceae,Quiina,amazonica,,QUII_Quiama,3211,1911,simple,ok,8,8,8,288,11,1,130,branch,647,85,321,269,202,157,5,,
+8,2017,8,17,1300,100724,Sapotaceae,Chrysophyllum,durifructum,,SAPO_Chrdur,3450,2150,simple,ok,2,2,2,2000,232,1.5,202,branch,NA,NA,NA,NA,NA,662,45,,YES
+8,2017,8,17,1300,100725,Humiriaceae,Duckesia,verrucosa,,HUMI_Ducver,3148,1848,simple,ok,15,15,15,155,0,1.5,90,branch,498,104,274,234,158,75,0,,
+8,2017,8,18,1300,100727,Burseraceae,Protium,spruceanum,,BURS_Prospr,3508,2208,odd-pinnate,ok?,0.5,,1,491,372,1.25,142,branch,NA,NA,NA,NA,NA,286,179,,ok
+8,2017,8,18,1300,100728,Sapotaceae,Pouteria,reticulata,ssp. 2 FITO,SAPO_Pouret-2,1948,648,simple,ok,5,5,5,310,12,1.25,191,branch,292,96,84,72,43,163,5,,
+8,2017,8,17,1300,100735,Fabaceae,Inga,capitata,,FABA_Ingcap,3200,1900,compound,ok?,1,,2,783,180,1,202,branch,630,96,305,309,159,287,61,light;arch,
+8,2017,8,17,1300,100738,Sapotaceae,Pouteria,guianensis,,SAPO_Pougui,3402,2102,simple,ok,2,2,2,1164,115,1.25,244,branch,679,98,481,450,248,524,37,rgr,ok
+8,2017,8,19,1300,100751,Chrysobalanaceae,Licania,unguiculata,,CHRY_Licung,3130,1830,simple,ok,4,4,4,543,32,1.25,126,branch,514,104,309,260,177,261,13,,ok
+8,2017,8,17,1300,100766,Fabaceae,Swartzia,reticulata,,FABA_Swaret,3526,2226,compound,ok?,0.5,,1,1131,813,1,206,branch,NA,NA,NA,NA,NA,517,369,trait;arch,
+8,2017,8,17,1300,100769,Lecythidaceae,Eschweilera,atropetiolata,,LECY_Escatr,2117,817,simple,"ok, but image 002 had wrong id (100767)",4,4,4,753,27,1,186,branch,479,113,290,253,148,343,11,qr,
+8,2017,8,18,1300,100773,Fabaceae,Eperua,glabriflora,,FABA_Epegla,2020,720,compound,ok?,1,,2,782,239,1,211,branch,583,91,299,274,167,378,112,,
+8,2017,8,18,1300,100790,Combretaceae,Buchenavia,parvifolia,,COMB_Bucpar,2047,747,simple,ok,30,30,30,114,3,1,133,branch,289,99,93,84,41,40,1,,
+8,2017,8,18,1300,100826,Sapotaceae,Micropholis,splendens,,SAPO_Micspl,3341,2041,simple,ok,5,5,5,670,40,1,239,branch,456,95,176,161,101,307,13,,
+8,2017,8,18,1300,100844,Sapotaceae,Pouteria,rostrata,Forma B PP,SAPO_Pouros,3345,2045,simple,ok,5,5,5,1100,98,1,242,branch,709,100,438,403,197,443,28,,
+8,2017,8,18,1300,100977,Chrysobalanaceae,Licania,reticulata,,CHRY_Licret,2213,913,simple,ok,2,2,2,346,12,2,178,branch,551,83,231,206,121,144,3,,ok
+8,2017,8,18,1300,101043,Fabaceae,Ormosia,paraensis,,FABA_Ormpar,3516,2216,compound,ok?,0.5,,1,1699,784,1,249,branch,NA,NA,NA,NA,NA,745,319,,
+8,2017,8,18,1300,101052,Chrysobalanaceae,Licania,membranacea,,CHRY_Licmem,3411,2111,simple,"ok, but image 002 with wrong id (100052)",5,5,5,1217,62,1.75,158,branch,491,96,203,202,106,657,24,,ok
+8,2017,8,16,1315,111346,Connaraceae,Connarus,erianthus,,CONN_Coneri,9303,7988,compound,ok?,3,,3,256,93,1.5,117,branch,619,106,415,357,231,153,45,qr,ok
+8,2017,8,16,1315,111381,Olacaceae,Minquartia,guianensis,ferruginea MV,OLAC_Mingui-F,9300,7985,simple,ok,5,5,5,571,47,1.5,162,branch,678,114,526,507,294,288,16,qr,ok
+8,2017,8,16,1315,111393,Clusiaceae,Tovomita,caloneura,,CLUS_Tovcal,11239,9924,simple,ok,5,5,5,2455,168,1,253,branch,630,99,372,321,174,632,35,,ok
+8,2017,8,16,1315,111404,Myristicaceae,Virola,guggenheimii,,MYRI_Virgug,9158,7843,simple,ok,1,1,1,473,36,1.5,144,branch,627,96,338,344,154,204,8,,
+8,2017,8,16,1315,111411,Fabaceae,Ormosia,paraensis,,FABA_Ormpar,11623,10308,simple,ok,0.5,0.5,1,1258,888,1,248,branch,NA,NA,NA,NA,NA,641,402,,
+8,2017,8,16,1315,111419,Siparunaceae,Siparuna,decipiens,,SIPA_Sipdec,11554,10239,simple,ok,10,10,10,304,15,1.25,192,branch,494,107,286,248,148,100,4,,
+8,2017,8,17,1315,111508,Meliaceae,Guarea,carinata,,MELI_Guacar,9210,7895,even-pinnate,ok?,1,,1,756,265,1,183,branch,NA,NA,NA,NA,NA,234,81,,ok
+8,2017,8,17,1315,111510,Fabaceae,Inga,suberosa,,FABA_Ingsub,10640,9325,even-pinnate,ok?,0.5,,1,1069,518,1.5,206,branch,NA,NA,NA,NA,NA,480,163,,
+8,2017,8,17,1315,111514,Salicaceae,Casearia,javitensis,Forma B PP,SALI_Casjav-B,9320,8005,simple,ok,6,6,6,385,9,1,174,branch,443,100,185,156,106,164,4,,
+8,2017,8,17,1315,111517,Meliaceae,Trichilia,schomburgkii,,MELI_Trisch,10636,9321,compound,ok?,0.5,,1,600,295,1,162,branch,NA,NA,NA,NA,NA,224,117,,ok
+8,2017,8,17,1315,111518,Violaceae,Amphirrhox,longifolia,,VIOL_Amplon,11233,9918,simple,ok,5,5,5,751,31,1,207,branch,466,94,193,172,104,306,12,,
+8,2017,8,17,1315,111523,Lecythidaceae,Eschweilera,pseudodecolorans,,LECY_Escpse,10607,9292,simple,ok,6,6,6,319,8,1,161,branch,387,97,168,147,96,151,3,,
+8,2017,8,17,1315,111525,Lecythidaceae,Eschweilera,grandiflora,,LECY_Escgra,11543,10228,simple,ok,3,3,3,928,66,1,181,branch,504,100,278,254,132,486,29,,
+8,2017,8,17,1315,111534,Rubiaceae,Palicourea,corymbifera/virens PP,,RUBI_Palcov,9152,7837,simple,ok,5,5,5,343,23,1,161,branch,545,95,303,270,131,157,7,qr,
+8,2017,8,17,1315,111536,Fabaceae,Sclerolobium,melanocarpum,,FABA_Sclmel,11404,10089,even-pinnate,ok?,0.5,,1,865,564,1,181,branch,NA,NA,NA,NA,NA,438,272,,YES
+8,2017,8,17,1315,111538,Melastomataceae,Mouriri,huberi,,MELA_Mouhub,11226,9911,simple,ok,5,5,5,1277,26,1,326,branch,456,106,225,194,138,623,11,,ok
+8,2017,8,17,1315,111539,Lauraceae,Aniba,canelilla,,LAUR_Anican,10743,9428,simple,ok,5,5,5,574,25,1,203,branch,458,96,182,175,98,257,8,,
+8,2017,8,17,1315,111540,Moraceae,Naucleopsis,stipularis,,MORA_Nausti,10754,9439,simple,ok,1,1,1,1534,117,1.25,312,branch,NA,NA,NA,NA,NA,621,36,,
+8,2017,8,17,1315,111541,Melastomataceae,Miconia,punctata,,MELA_Micpun,10719,9404,simple,ok,5,5,5,586,31,1,193,branch,356,100,128,110,58,214,8,,
+8,2017,8,17,1315,111542,Moraceae,Naucleopsis,caloneura,não escabra PP,MORA_Naucal-n,10618,9303,simple,ok,5,5,5,687,35,1,269,branch,503,98,227,206,108,332,13,,ok
+8,2017,8,17,1315,111545,Annonaceae,Unonopsis,duckei,,ANNO_Unoduc,10731,9416,simple,ok,6,6,6,329,12,1,184,branch,749,104,654,187,347,144,5,,YES
+8,2017,8,16,1315,111546,Fabaceae,Sclerolobium,melinonii,,FABA_Sclmen,11222,9907,even-pinnate,ok?,1,,2,141,82,1,87,branch,805,106,653,550,430,86,48,,ok
+8,2017,8,16,1315,111548,Rubiaceae,Psychotria,pacimonica,,RUBI_Psypac,10546,9231,simple,ok,6,6,6,1303,93,1,294,branch,601,90,292,268,87,284,14,,
+8,2017,8,16,1315,111550,Lauraceae,Licaria,pachycarpa,,LAUR_Licpac,9202,7887,simple,ok,6,6,6,283,17,1,187,branch,445,91,210,175,120,154,9,,
+8,2017,8,17,1315,111566,Urticaceae,NA,NA,,NA_NANA,3403,2088,simple,ok,5,5,5,1692,141,1,204,branch,530,97,254,222,124,835,53,qr,YES
+8,2017,8,17,1315,111590,Sapotaceae,Pouteria,transparente PP,,SAPO_Poutra,10554,9239,simple,ok,8,8,8,386,28,1.25,151,branch,403,93,119,107,47,145,7,,
+8,2017,8,17,1315,111591,Rubiaceae,Ixora,ulei,,RUBI_Ixoule,10623,9308,simple,ok,2,2,2,1572,88,1.25,277,branch,546,87,244,223,122,707,34,qr,YES
+8,2017,8,17,1315,111592,Meliaceae,Guarea,,,,10550,9235,compound,ok?,1,,1,913,343,1.25,252,branch,NA,NA,NA,NA,NA,307,103,,YES
+8,2017,8,17,1315,111593,Fabaceae,Inga,sp.29.FITO,,FABA_Ings29,11549,10234,even-pinnate,ok?,1.5,,3,700,152,1.25,297,branch,523,96,248,224,129,291,54,,ok
+8,2017,8,17,1315,111594,Violaceae,Leonia,glycycarpa,,VIOL_Leogly,10613,9298,simple,ok,5,5,5,887,73,1,NA,branch,438,71,145,128,68,308,23,,YES
+8,2017,8,17,1315,111598,Rubiaceae,Psychotria,pacimonica,,RUBI_Psypac,11609,10294,simple,ok,5,5,5,1736,127,1,333,branch,805,94,553,491,244,424,25,,
+8,2017,8,17,1315,111599,Meliaceae,Guarea,sp.5.FITO,,MELI_Guasp5,10627,9312,compound,ok?,1,,2,681,301,1.5,208,branch,436,93,174,157,69,225,103,,ok
+8,2017,8,17,1315,111602,Sapindaceae,Talisia,cerasina,,SAPI_Talcer,11640,10325,compound,ok?,0.5,,1,345,546,1.25,164,branch,894,111,1004,820,604,566,323,trait,
+8,2017,8,17,1315,111613,Myristicaceae,Iryanthera,coriacea,,MYRI_Irycor,9332,8017,simple,ok,5,5,5,1214,88,1,315,branch,432,106,197,197,91,618,31,,
+8,2017,8,17,1315,111615,Melastomataceae,Miconia,punctata,,MELA_Micpun,11428,10113,simple,ok,5,5,5,944,44,2,219,branch,516,105,248,208,126,424,15,,
+8,2017,8,17,1315,111617,Clusiaceae,Tovomita,sp.4.FITO,,CLUS_Tovsp4,11431,10116,simple,ok,5,5,5,876,54,1,228,branch,437,104,193,164,97,289,12,qr,ok
+8,2017,8,17,1315,111630,Nyctaginaceae,Neea,sp.14.FITO,,NYCT_Nees14,9240,7925,simple,ok,6,6,6,741,17,1.25,300,branch,421,103,222,204,76,172,4,,
+8,2017,8,17,1315,111641,Rubiaceae,Coussarea,sp.4.FITO,,RUBI_Cousp4,11558,10243,simple,ok,5,5,5,1350,88,2,264,branch,747,91,425,386,164,360,20,,
+8,2017,8,17,1315,111651,Rubiaceae,Psychotria,sp.4.FITO,,RUBI_Psysp4,11435,10120,simple,ok,10,10,10,371,30,1.5,138,branch,355.5,111,168,144,78,151,10,rgr;mstem,
+8,2017,8,17,1315,111653,Fabaceae,Inga,grandiflora,Forma B PP,FABA_Inggrn-B,9347,8032,even-pinnate,ok?,1,,1,566,129,1.25,169,branch,431,104,210,190,87,211,43,,ok
+8,2017,8,17,1315,111655,Humiriaceae,Vantanea,micrantha,,HUMI_Vanmic,9245,7930,simple,ok,5,5,5,297,3,1.5,169,branch,311,92,89,72,53,154,2,arch,
+8,2017,8,17,1315,111656,Burseraceae,Protium,,,,11247,9932,odd-pinnate,ok?,2,,2,628,73,1.5,163,branch,486,118,304,275,162,274,25,,yes
+8,2017,8,17,1315,111660,Melastomataceae,Miconia,sp.5.FITO,,MELA_Micsp5,10700,9385,simple,ok,5,5,5,581,78,1,228,branch,478,105,224,195,93,222,22,,ok
+8,2017,8,17,1315,111662,Vochysiaceae,Qualea,paraensis,,VOCH_Quapar,9325,8010,simple,ok,10,10,10,593,30,1.25,219,branch,330,96,114,98,55,244,9,,
+8,2017,8,17,1315,111663,Burseraceae,Protium,pilosissimum,,BURS_Propil,10712,9397,odd-pinnate,ok?,1.5,,3,253,59,1.5,162,branch,447,97,177,165,93,143,25,,ok
+8,2017,8,17,1315,111666,Lecythidaceae,Eschweilera,coriacea,,LECY_Esccor,11424,10109,simple,ok,1,1,1,1858,195,1.25,213,branch,NA,NA,NA,NA,NA,844,67,,YES
+8,2017,8,17,1315,111667,Burseraceae,Protium,trifoliolatum,,BURS_Protri,10707,9392,odd-pinnate,ok?,1,,2,241,81,1.25,190,branch,357,109,134,121,70,122,34,,ok
+8,2017,8,17,1315,111672,Meliaceae,Guarea,convergens,,MELI_Guacon,11202,9887,compound,ok?,0.5,,1,1074,960,1.25,287,branch,NA,NA,NA,NA,NA,429,451,,
+8,2017,8,16,1315,111675,Myrsinaceae,Cybianthus,amplus,,MYRS_Cybamp,11441,10126,simple,image 002 missing,4,4,4,1958,191,1,302,branch,762,105,556,476,288,872,62,,
+8,2017,8,16,1315,111676,Sapotaceae,Pouteria,guianensis,,SAPO_Pougui,11524,10209,simple,ok,5,5,5,941,58,1,166,branch,506,99,237,211,122,417,15,,ok
+8,2017,8,16,1315,111680,Melastomataceae,Mouriri,angulicosta,,MELA_Mouang,11206,9891,simple,ok,10,10,10,103,2,1,184,branch,589,98,315,251,218,47,1,,ok
+8,2017,8,16,1315,111683,Dichapetalaceae,Tapura,amazonica,manausensis,DICH_Tapama,9148,7833,simple,ok,5,5,5,581,38,1,234,branch,402,98,116,110,53,221,12,,
+8,2017,8,16,1315,111684,Burseraceae,Protium,pilosissimum,,BURS_Propil,10727,9412,odd-pinnate,ok?,2,,2,235,39,1,143,branch,386,110,154,134,87,128,16,,ok
+8,2017,8,17,1315,111685,Melastomataceae,Miconia,tomentosa,,MELA_Mictom,10759,9444,simple,ok,1,1,1,1908,82,1,226,branch,NA,NA,NA,NA,NA,557,16,,
+8,2017,8,16,1315,111686,Lecythidaceae,Eschweilera,truncata,,LECY_Esctru,10738,9423,simple,ok,10,10,10,566,8,1,153,branch,406,97,180,158,75,232,3,rgr,YES
+8,2017,8,16,1315,111710,Lecythidaceae,Eschweilera,wachenheimii,,LECY_Escwac,11539,10224,simple,ok,5,5,5,625,15,3,179,branch,492,97,244,216,124,308,6,,
+8,2017,8,16,1315,111711,Sapotaceae,Pouteria,campanulata,,SAPO_Poucam,9344,8029,simple,ok,4,4,4,1351,125,2,230,branch,538,99,257,237,92,640,45,,ok
+8,2017,8,16,1315,111754,Araliaceae,Schefflera,morototoni,,ARAL_Schmor,11212,9897,compound,ok?,2,,2,1232,674,1,167,branch,NA,NA,NA,NA,NA,380,226,,ok
+8,2017,8,16,1315,111755,Burseraceae,Protium,robustum,,BURS_Prorob,10749,9434,odd-pinnate,ok?,0.5,,1,587,364,1,124,branch,NA,NA,NA,NA,NA,274,153,,ok
+8,2017,8,16,1315,111763,Burseraceae,Protium,krukoffii,,BURS_Prokru,9254,7939,odd-pinnate,ok?,1,,1,284,55,1,153,branch,395,100,145,125,67,158,24,qr;rgr,ok
+8,2017,8,16,1315,111765,Apocynaceae,Tabernaemontana,angulata,,APOC_Tabang,9312,7997,simple,ok,3,3,3,993,37,1,210,branch,555,102,288,281,108,366,11,,
+8,2017,8,16,1315,111773,Rubiaceae,Faramea,sp.5.FITO,,RUBI_Farsp5,10631,9316,simple,ok,5,5,5,827,13,1,227,branch,356,101,124,111,62,393,4,,
+8,2017,8,16,1315,111774,Myrtaceae,Myrcia,grandis,,MYRT_Myrgra,9230,7915,simple,ok,10,10,10,240,5,1,248,branch,393,107,182,153,110,126,2,,
+8,2017,8,16,1315,111775,Fabaceae,Peltogyne,venosa/catingae PP,,FABA_Pelven,10541,9226,geminate,ok?,2,,2,729,74,1,185,branch,413,94,155,141,89,344,33,,yes
+8,2017,8,16,1315,111776,Chrysobalanaceae,Couepia,obovata,,CHRY_Couobo,11533,10218,simple,ok,10,10,10,236,11,1,136,branch,383,107,157,133,84,99,4,qr,ok
+8,2017,8,16,1315,111778,Violaceae,Paypayrola,sp.nova.PP,,VIOL_Payspn,9341,8026,simple,first image missing,5,5,5,579,20,1.25,252,branch,559,110,324,290,168,205,6,,
+8,2017,8,16,1315,111787,Sapotaceae,Micropholis,casiquiarensis/mensalis.FITO,Forma A PP,SAPO_Miccas,9338,8023,simple,ok,5,5,5,654,31,1.75,234,branch,560,92,278,258,141,286,11,,
+8,2017,8,16,1315,111796,Chrysobalanaceae,Licania,reticulata,,CHRY_Licret,10715,9400,simple,ok,3,3,3,1125,53,1.5,207,branch,596,97,372,333,211,510,17,,ok
+8,2017,8,16,1315,111797,Euphorbiaceae,Pausandra,macropetala,,EUPH_Paumac,11412,10097,compound,ok?,1,,2,509,128,1.75,193,branch,512,96,181,211,75,205,44,,YES
+8,2017,8,16,1315,111798,Sapotaceae,Chrysophyllum,sparsiflorum,,SAPO_Chrspa,9225,7910,simple,ok,10,10,10,445,14,1,195,branch,385,105,172,157,83,170,4,,
+8,2017,8,16,1315,111805,Lauraceae,Mezilaurus,duckei,,LAUR_Mezduc,9140,7825,simple,ok,2,2,2,699,44,1,155,branch,NA,NA,NA,NA,NA,420,14,,
+8,2017,8,16,1315,111806,Apocynaceae,Aspidosperma,carapanauba,Forma B PP,APOC_Aspcar,11155,9840,simple,ok,3,3,3,1574,42,1,291,branch,653,101,420,374,208,666,14,,ok
+8,2017,8,16,1315,111809,,,,,,11229,9914,simple,ok,5,5,5,664,21,1,259,branch,459,106,207,185,103,202,7,,YES
+8,2017,8,16,1315,111811,Moraceae,Sorocea,muriculata,muriculata,MORA_Sormur-m,9308,7993,simple,ok,10,10,10,257,3,1,134,branch,420,104,200,175,109,127,2,,yes
+8,2017,8,16,1315,112020,Siparunaceae,Siparuna,decipiens,,SIPA_Sipdec,9322,8007,simple,ok,5,5,5,363,9,2,226,branch,340,116,118,100,61,124,3,,
+9,2017,9,22,1530,112881,Lecythidaceae,Eschweilera,bracteosa,,LECY_Escbra,4050,2520,simple,ok,5,5,5,1905,81,1.5,187,branch,548,97,286,251,160,884,39,rgr,ok
+9,2017,9,22,1530,112894,Rubiaceae,Psychotria,sp.1.FITO,,RUBI_Psysp1,4103,2573,simple,ok,6,6,6,265,12,1,149,branch,398,93,138,146,50,92,3,qr;rgr,
+9,2017,9,22,1530,112901,Sapotaceae,Sarcaulus,brasiliensis,,SAPO_Sarbra,4150,2620,simple,ok,11,11,11,553,23,1.25,216,branch,512,97,227,215,128,276,12,,
+9,2017,9,22,1530,112905,Peraceae,Pera,glabrata,,PERA_Pergla,4142,2612,simple,"ok, but images have wrong id (112693)",6,6,6,331,14,1,157,branch,305,57,55,51,28,131,4,,
+9,2017,9,22,1530,112906,Fabaceae,Swartzia,schomburgkii,,FABA_Swasch,4208,2678,compound,"ok?, but images except for 001 had wrong id (112106)",0.5,,1,1927,632,1.125,243,branch,NA,NA,NA,NA,NA,711,232,,
+9,2017,9,22,1335,112915,Ebenaceae,Diospyros,capreifolia,,EBEN_Diocap,3538,2203,NA,ok,10,,10,477,15,NA,170,branch,260,93,66,59,32,208,6,,
+9,2017,9,22,1530,112918,Fabaceae,Derris,negrensis,,FABA_Derneg,4035,2505,compound,ok?,1,,1,865,200,1,137,branch,NA,NA,NA,NA,NA,368,85,qr,
+9,2017,9,22,1530,112938,Lauraceae,Ocotea,sp.D.PFRD,Forma A PP,LAUR_OcospD,4124,2594,simple,ok,7,7,7,1147,51,1,266,branch,468,82,146,154,80,565,22,,
+9,2017,9,22,1530,112940,Fabaceae,Inga,sp.11.FITO,,FABA_Ings11,4106,2576,bifoliolate,ok?,4,,4,732,46,1,235,branch,587,92,298,262,180,294,18,,ok
+9,2017,9,22,1530,112946,Fabaceae,Sclerolobium,sp.A.PP,,FABA_SclspA,4042,2512,compound,ok?,2,,2,634,147,1,177,branch,628,93,345,290,216,316,71,,
+9,2017,9,22,1530,112950,Lecythidaceae,Eschweilera,truncata,,LECY_Esctru,4145,2615,simple,ok,5,5,5,1437,63,1,182,branch,545,100,278,246,142,756,27,,
+9,2017,9,22,1530,112961,,,,,,4117,2587,compound,ok?,1,,1,1108,132,1,280,branch,741,98,462,450,286,530,66,,yes
+9,2017,9,22,1530,112963,Lauraceae,Ocotea,percurrens,,LAUR_Ocoper,4130,2600,simple,"ok, but images have wrong id (112693)",9,9,9,458,16,1,224,branch,381,95,133,126,83,231,7,qr,ok
+9,2017,9,22,1530,112976,Chrysobalanaceae,Couepia,guianensis,guianensis,CHRY_Cougui,4027,2497,simple,ok,5,5,5,475,16,1,134,branch,594,93,310,271,187,243,6,,ok
+9,2017,9,22,1530,112986,Violaceae,Rinoreocarpus,ulei,,VIOL_Rinule,4120,2590,simple,ok,5,5,5,468,14,1,160,branch,649,85,357,321,182,142,5,,
+9,2017,9,22,1530,113019,Elaeocarpaceae,Sloanea,eichleri,,ELAE_Sloeic,4033,2503,simple,ok,4,4,4,1332,123,1,185,branch,NA,NA,NA,NA,NA,625,49,,ok
+9,2017,9,22,1530,113022,Fabaceae,Enterolobium,schomburgkii,,FABA_Entsch,4214,2684,bipinnate,ok?,1.5,,3,322,169,1,43,branch,431,92,149,139,81,165,81,qr,
+9,2017,9,22,1530,113041,Lecythidaceae,Eschweilera,truncata,,LECY_Esctru,4039,2509,simple,ok,5,5,5,980,49,1.125,202,branch,576,97,324,289,174,462,19,,
+9,2017,9,22,1335,113044,Moraceae,Maquira,calophylla,,MORA_Maqcal,3940,2605,NA,ok,5,,5,2359,96,NA,324,branch,687,88,406,388,229,956,23,,
+9,2017,9,22,1530,113045,Chrysobalanaceae,Licania,occultans,,CHRY_Licocc,3802,2272,simple,ok,15,15,15,411,16,NA,137,branch,665,101,422,344,288,233,8,,ok
+9,2017,9,22,1530,113050,Myrtaceae,Calyptranthes,cuspidata,,MYRT_Calcus,4046,2516,simple,ok,15,15,15,660,23,1,201,branch,449,89,203,168,130,295,10,,
+9,2017,9,22,1530,113070,,,,,,4133,2603,simple,ok,6,6,6,582,22,1.125,179,branch,442,80,163,145,79,250,8,,yes
+9,2017,9,22,1530,113106,Sapotaceae,Micropholis,splendens,,SAPO_Micspl,4111,2581,simple,ok,5,5,5,1649,75,1,271,branch,662,87,304,289,177,832,29,light;arch,
+9,2017,9,22,1530,113108,Lecythidaceae,Eschweilera,bracteosa,,LECY_Escbra,4200,2670,simple,ok,5,5,5,1195,52,1.125,187,branch,381,77,105,93,51,560,21,,ok
+9,2017,9,22,1530,113113,Burseraceae,Protium,trifoliolatum,,BURS_Protri,4137,2607,compound,ok?,2,,2,396,51,1,135,branch,330,87,97,83,54,210,23,,ok
+9,2017,9,22,1530,113115,Fabaceae,Peltogyne,paniculata,,FABA_Pelpan,4055,2525,bifoliolate,ok?,3,,3,563,31,1,162,branch,393,96,161,135,91,254,13,,
+9,2017,9,22,1530,113116,Rubiaceae,Coussarea,sp.6.FITO,,RUBI_Cousp6,4100,2570,simple,ok,5,5,5,459,18,1,201,branch,486,100,232,201,121,175,6,,
+9,2017,9,22,1530,113124,Annonaceae,,,,,4154,2624,simple,ok,5,5,5,509,11,1,151,branch,475,78,176,161,79,257,5,,yes
+9,2017,9,22,1530,113146,Moraceae,Helianthostylis,sprucei,,MORA_Helspr,4204,2674,simple,ok,5,5,5,864,58,1.25,222,branch,491,93,211,191,106,314,20,,
+9,2017,9,22,1530,113158,Sapotaceae,Chrysophyllum,manaosense,B PP,SAPO_Chrman,4031,2501,simple,ok,2,2,2,542,62,1.75,129,branch,NA,NA,NA,NA,NA,249,18,trait,ok
+9,2017,9,15,1530,113173,Chrysobalanaceae,Licania,heteromorpha,,CHRY_Lichet,3858,2328,simple,ok,5,5,5,813,58,1,185,branch,632,100,398,340,242,448,26,,
+9,2017,9,15,1530,113178,Lauraceae,Mezilaurus,duckei,,LAUR_Mezduc,3706,2176,simple,ok,2,2,2,667,25,1,159,branch,NA,NA,NA,NA,NA,324,8,,ok
+9,2017,9,15,1530,113186,Chrysobalanaceae,Licania,membranacea,,CHRY_Licmem,3729,2199,simple,ok,5,5,5,354,11,1,168,branch,485,111,245,200,161,171,3,,ok
+9,2017,9,15,1530,113189,Violaceae,Rinorea,guianensis,,VIOL_Ringui,3739,2209,simple,ok,5,5,5,1296,59,1.25,230,branch,634,111,455,400,246,510,19,rgr,
+9,2017,9,15,1530,113190,Moraceae,Perebea,guianensis,guianensis,MORA_Pergui,3715,2185,simple,ok,3,3,3,1368,114,1.25,205,branch,819,101,588,613,305,601,29,,
+9,2017,9,15,1530,113192,Malvaceae,Theobroma,,,,3900,2370,simple,ok,6,6,6,1618,96,1.25,223,branch,427,91,135,144,57,727,28,,yes
+9,2017,9,15,1530,113195,Fabaceae,Andira,micrantha,,FABA_Andmic,3922,2392,compound,ok?,1,,1,538,225,1,121,branch,NA,NA,NA,NA,NA,273,72,,
+9,2017,9,15,1530,113206,Quiinaceae,Lacunaria,jenmanii,,QUII_Lacjen,3817,2287,???,ok?,6,,6,720,21,1,164,branch,612,97,313,290,151,360,10,,
+9,2017,9,15,1530,113213,Rubiaceae,Coussarea,sp.6.FITO,,RUBI_Cousp6,3747,2217,simple,ok,10,10,10,614,25,1,197,branch,494,100,217,196,106,265,8,,
+9,2017,9,15,1530,113230,Fabaceae,Tachigali,myrmecophila,,FABA_Tacmyr,3700,2170,compound,ok?,1,,1,657,155,1,172,branch,NA,NA,NA,NA,NA,271,62,,
+9,2017,9,15,1530,113254,Sapotaceae,Pouteria,fimbriata,,SAPO_Poufim,3914,2384,simple,"ok, but image had wrong id (113245)",5,5,5,366,29,1,158,branch,NA,NA,NA,NA,NA,183,12,,
+9,2017,9,15,1530,113256,Rubiaceae,Psychotria,sp.3.FITO,B PP,RUBI_Psysp3-B,3752,2222,simple,ok,10,10,10,656,34,1,324,branch,532,103,259,236,100,224,9,,
+9,2017,9,15,1530,113271,Meliaceae,Trichilia,rubra,,MELI_Trirub,3916,2386,compound,ok?,1,,1,1112,317,1,165,branch,NA,NA,NA,NA,NA,548,149,qr,
+9,2017,9,15,1530,113281,Siparunaceae,Siparuna,pachyantha,,SIPA_Sippac,3927,2397,simple,ok,2,2,2,2795,308,1,209,branch,NA,NA,NA,NA,NA,548,36,,
+9,2017,9,15,1530,113283,Sapotaceae,Pouteria,macrophylla,,SAPO_Poumac,3709,2179,simple,ok,4,4,4,1245,95,1,172,branch,622,100,390,347,188,514,28,qr,
+9,2017,9,15,1530,113287,Ebenaceae,Diospyros,tarim,,EBEN_Diotar,3848,2318,simple,ok,6,6,6,1680,81,1,190,branch,431,91,168,158,92,729,26,,ok
+9,2017,9,15,1530,113291,Fabaceae,Swartzia,tessmannii,,FABA_Swates,3711,2181,compound,ok?,3,,3,412,32,1,197,branch,851,97,696,613,431,168,12,,
+9,2017,9,15,1530,113292,Sapotaceae,Manilkara,huberi,,SAPO_Manhub,3717,2187,simple,"ok, but image 001 with wrong id (112292)",3,3,3,894,93,1,239,branch,548,87,260,231,137,400,34,,yes
+9,2017,9,15,1530,113296,Rubiaceae,Amaioua,sp.1.FITO,,RUBI_Amasp1,3810,2280,simple,ok,10,10,10,388,17,1,157,branch,405,82,146,127,85,186,7,q,
+9,2017,9,15,1530,113311,Ochnaceae,Ouratea,discophora,,OCHN_Ourdis,3742,2212,simple,ok,3,3,3,986,34,1,253,branch,607,100,391,352,228,457,15,,
+9,2017,9,15,1530,113313,Rubiaceae,Kutchubaea,insignis,,RUBI_Kutins,3852,2322,simple,ok,5,5,5,1354,112,1,229,branch,481,85,168,152,60,524,30,,ok
+9,2017,9,15,1530,113317,Annonaceae,Unonopsis,duckei,,ANNO_Unoduc,3825,2295,simple,ok,5,5,5,567,22,1,140,branch,415,96,180,157,103,309,10,q,
+9,2017,9,15,1530,113320,Burseraceae,Protium,strumosum,,BURS_Prostr,3731,2201,compound,ok?,1,,1,345,71,1,136,branch,737,101,489,471,281,182,32,,ok
+9,2017,9,15,1530,113328,Rubiaceae,Chimarrhis,sp.A.PP,,RUBI_ChispA,3806,2276,simple,ok,2,2,2,2299,124,1.25,210,branch,854,95,640,655,300,612,28,trait,
+9,2017,9,15,1530,113334,Chrysobalanaceae,Parinari,montana,,CHRY_Parmon,3833,2303,simple,ok,10,10,10,465,12,1.25,167,branch,291,79,50,46,26,229,5,arch;qr,ok
+9,2017,9,15,1530,113373,Lauraceae,Aniba,sp.p5.PP,,LAUR_Anisp5,3842,2312,simple,ok,10,10,10,488,26,1,161,branch,369,89,103,96,51,260,12,qr,
+9,2017,9,15,1530,113382,Sapotaceae,Pouteria,coriacea,,SAPO_Poucor,3837,2307,simple,ok,7,7,7,425,24,1,174,branch,380,95,150,125,92,192,11,,
+9,2017,9,15,1530,113384,Combretaceae,Buchenavia,congesta,,COMB_Buccon,3754,2224,simple,ok,15,15,15,386,22,1,145,branch,683,100,397,367,258,154,10,arch,
+9,2017,9,15,1530,113400,Sapotaceae,Pouteria,macrophylla,,SAPO_Poumac,3734,2204,simple,ok,3,3,3,777,74,1,154,branch,421,93,162,147,64,317,20,,
+9,2017,9,15,1530,113410,,,,,,3908,2378,simple,ok,5,5,5,861,54,1,164,branch,370,90,123,109,67,399,20,qr,yes
+9,2017,9,15,1530,113421,Sapotaceae,Chromolucuma,rubriflora,,SAPO_Chrrub,3721,2191,simple,ok,3,3,3,943,46,1,181,branch,589,87,259,245,114,380,12,,
+9,2017,9,15,1530,113424,Annonaceae,Ephedranthus,amazonicus,,ANNO_Ephama,3844,2314,simple,ok,5,5,5,750,42,1,236,branch,829,92,594,518,351,384,17,,
+9,2017,9,15,1530,113425,Burseraceae,Protium,strumosum,,BURS_Prostr,3724,2194,compound,ok?,1,,1,511,127,1,132,branch,790,95,523,507,298,270,57,,ok
+9,2017,9,15,1530,113440,Ochnaceae,Ouratea,leprieuri,,OCHN_Ourlep,3827,2297,simple,ok,7,7,7,375,15,1,177,branch,349,91,103,91,57,207,7,,
+9,2017,9,15,1530,113455,Malvaceae,Theobroma,subincanum,,MALV_Thesub,3820,2290,simple,ok,4,4,4,1320,142,1.25,214,branch,687,81,338,323,133,636,35,trait,
+9,2017,9,15,1530,113460,Lecythidaceae,Eschweilera,bracteosa,,LECY_Escbra,3835,2305,simple,ok,5,5,5,1677,84,1,187,branch,483,83,170,150,89,833,42,,ok
+9,2017,9,15,1530,113461,Sapotaceae,Pouteria,freitasii,,SAPO_Poufre,3813,2283,simple,ok,7,7,7,669,43,1,197,branch,457,101,218,186,132,390,17,,
+9,2017,9,15,1530,113462,Burseraceae,Protium,guianense,guianense,BURS_Progui,3744,2214,compound,ok?,2,,2,264,40,1.25,161,branch,690,97,394,383,241,137,18,,ok
+9,2017,9,15,1530,113469,Malvaceae,Theobroma,subincanum,,MALV_Thesub,3704,2174,simple,ok,2,2,2,393,30,1,172,branch,317,53,51,47,15,168,7,,
+9,2017,9,14,1335,113507,Lecythidaceae,Eschweilera,truncata,,LECY_Esctru,3326,1991,simple,"ok, but image 001 unnamed",5,5,5,735,26,1,196,branch,538,96,309,270,166,345,11,qr,
+9,2017,9,14,1335,113512,Violaceae,Amphirrhox,longifolia,,VIOL_Amplon,3337,2002,simple,ok,5,5,5,778,71,1,183,branch,486,102,236,209,124,314,25,,
+9,2017,9,14,1335,113515,Burseraceae,Protium,pilosissimum,,BURS_Propil,3346,2011,compound,"ok?, but image 001 unnamed",2,,2,194,29,1,138,branch,370,94,148,128,81,107,11,,ok
+9,2017,9,14,1335,113517,Chrysobalanaceae,Hirtella,physophora,,CHRY_Hirphy,3211,1876,simple,ok,5,5,5,952,45,1,106,branch,NA,NA,NA,NA,NA,383,13,q,ok
+9,2017,9,14,1335,113518,Lauraceae,Aniba,terminalis,,LAUR_Aniter,3333,1998,simple,ok,5,5,5,854,79,1,215,branch,742,102,503,475,270,395,26,,
+9,2017,9,14,1335,113520,Quiinaceae,Quiina,negrensis,,QUII_Quineg,3344,2009,simple,ok,6,6,6,278,8,1.5,181,branch,393,99,161,133,93,152,5,,
+9,2017,9,14,1335,113528,Ochnaceae,Ouratea,discophora,,OCHN_Ourdis,3303,1968,simple,ok,3,3,3,1545,77,1,294,branch,526,91,263,243,139,703,29,,
+9,2017,9,14,1335,113541,Boraginaceae,Cordia,sp.9.FITO,,BORA_Corsp9,3207,1872,simple,ok,2,2,2,1823,87,1,285,branch,646,115,383,431,137,606,16,,ok
+9,2017,9,14,1335,113548,,,,,,3150,1815,simple,ok,2,2,2,1812,174,1.5,202,branch,934,93,677,663,300,784,52,,yes
+9,2017,9,14,1335,113571,Sapotaceae,Chrysophyllum,amazonicum,,SAPO_Chrama,3147,1812,simple,ok,2,2,2,2092,308,1,219,branch,974,98,670,705,352,913,90,arch,
+9,2017,9,14,1335,113580,Sapotaceae,Chrysophyllum,pomiferum,,SAPO_Chrpom,3250,1915,simple,ok,5,5,5,837,51,1,226,branch,528,93,239,210,116,357,17,,
+9,2017,9,14,1335,113598,Lauraceae,Ocotea,cujumary,,LAUR_Ococuj,3226,1891,simple,ok,7,7,7,676,30,1.25,205,branch,NA,NA,NA,NA,NA,347,15,,ok
+9,2017,9,14,1335,113614,Euphorbiaceae,Aparisthmium,cordatum,,EUPH_Apacor,3141,1806,simple,ok,2,2,2,351,78,1,153,branch,NA,NA,NA,NA,NA,156,24,trait,
+9,2017,9,14,1335,113617,Rubiaceae,Margaritopsis,cephalantha,,RUBI_Marcep,3319,1984,simple,ok,10,10,10,586,34,1,200,branch,547,100,324,297,163,220,9,,
+9,2017,9,14,1335,113621,Fabaceae,Inga,grandiflora,Forma B PP,FABA_Inggrn-B,3359,2024,compound,ok?,1,,1,1191,231,1,185,branch,539,95,327,291,160,460,84,arch;light,ok
+9,2017,9,14,1335,113624,Lauraceae,Aniba,williamsii,,LAUR_Aniwil,3247,1912,simple,ok,5,5,5,776,44,1,216,branch,725,99,457,427,216,309,12,,yes
+9,2017,9,14,1335,113649,Violaceae,Amphirrhox,longifolia,,VIOL_Amplon,3300,1965,simple,ok,5,5,5,1096,53,1,236,branch,559,103,319,292,155,399,19,qr,
+9,2017,9,14,1335,113654,Olacaceae,Minquartia,guianensis,verde MV,OLAC_Mingui-V,3223,1888,simple,ok,6,6,6,229,12,1,163,branch,400,75,141,118,77,102,3,,ok
+9,2017,9,14,1335,113668,Myrtaceae,Myrcia,rufipila,,MYRT_Myrruf,3352,2017,simple,ok,15,15,15,236,6,1,233,branch,370,97,165,133,105,101,2,,ok
+9,2017,9,14,1335,113670,Lauraceae,Rhodostemonodaphne,sp.1.FITO,,LAUR_Rhosp1,3216,1881,simple,ok,5,5,5,836,54,1,200,branch,NA,NA,NA,NA,NA,353,16,,
+9,2017,9,14,1335,113681,Lauraceae,Ocotea,cujumary,,LAUR_Ococuj,3213,1878,simple,"ok, but image 001 was unnamed",5,5,5,576,22,1,201,branch,NA,NA,NA,NA,NA,276,12,,ok
+9,2017,9,14,1335,113686,Fabaceae,Swartzia,recurva,,FABA_Swarec,3231,1896,compound,image 001 missing,1,,2,810,202,1,185,branch,NA,NA,NA,NA,NA,377,97,,ok
+9,2017,9,14,1335,113692,Moraceae,Perebea,mollis,serrilhada PP,MORA_Permol,3242,1907,simple,ok,5,5,5,1100,45,2,173,branch,815,103,431,486,216,465,9,,
+9,2017,9,14,1335,113696,Sapotaceae,Pouteria,sp.9.FITO,,SAPO_Pousp9,3212,1877,simple,ok,5,5,5,766,48,1.5,163,branch,NA,NA,NA,NA,NA,292,14,,
+9,2017,9,14,1335,113700,Sapotaceae,Manilkara,sp.2.FITO,,SAPO_Mansp2,3239,1904,simple,ok,3,3,3,443,42,1.5,251,branch,636,102,356,325,193,193,14,,
+9,2017,9,14,1335,113701,Annonaceae,Annona,foetida,,ANNO_Annfoe,3339,2004,simple,ok,5,5,5,434,22,1.25,225,branch,570,99,281,277,120,186,8,light,
+9,2017,9,14,1335,113702,Myrtaceae,Eugenia,tapacumensis,,MYRT_Eugtap,3305,1970,simple,ok,5,5,5,1413,77,1.5,258,branch,674,111,470,415,233,610,28,,
+9,2017,9,14,1335,113715,Anacardiaceae,Anacardium,parvifolium,,ANAC_Anapar,3325,1990,simple,ok,5,5,5,407,34,1.25,142,branch,466,92,173,160,86,193,11,,
+9,2017,9,14,1335,113716,Anacardiaceae,Anacardium,parvifolium,,ANAC_Anapar,3316,1981,simple,ok,5,5,5,588,22,1.25,153,branch,644,101,399,372,172,274,10,,yes
+9,2017,9,14,1335,113721,Humiriaceae,Vantanea,guianensis,,HUMI_Vangui,3221,1886,simple,ok,3,3,3,389,8,1.5,157,branch,NA,NA,NA,NA,NA,173,3,,yes
+9,2017,9,14,1335,113749,Lauraceae,Aniba,megaphylla,,LAUR_Animeg,3310,1975,simple,ok,5,5,5,468,19,1.75,209,branch,944,95,656,643,344,183,6,,
+9,2017,9,14,1335,113763,Lecythidaceae,Eschweilera,pedicellata,,LECY_Escped,3355,2020,simple,ok,6,6,6,339,14,1.25,178,branch,396,93,155,137,77,144,5,,
+9,2017,9,14,1335,113765,Violaceae,Rinoreocarpus,ulei,,VIOL_Rinule,3314,1979,simple,ok,5,5,5,500,14,1.25,160,branch,686,99,470,398,249,148,4,,
+9,2017,9,14,1335,113766,Lecythidaceae,Eschweilera,coriacea,,LECY_Esccor,3330,1995,simple,ok,5,5,5,887,50,1.25,184,branch,577,100,329,292,157,381,19,,
+9,2017,9,22,1530,117632,NA,NA,NA,,NA_NANA,4023,2493,compound,ok?,4,,4,193,11,1.25,131,branch,212,79,41,35,24,90,5,rgr,yes
+8,2017,8,16,1315,120339,Sapindaceae,Talisia,mollis,,SAPI_Talmol,11616,10301,compound,ok?,0.5,,1,714,464,1,243,branch,NA,NA,NA,NA,NA,398,245,,ok
+8,2017,8,16,1315,120340,Fabaceae,Indet,sp.13.FITO,,FABA_Inds13,11417,10102,compound,ok?,0.5,,1,727,580,1,119,branch,NA,NA,NA,NA,NA,347,226,qr;rgr,YES
+8,2017,8,16,1315,120344,Anacardiaceae,Anacardium,parvifolium,,ANAC_Anapar,11546,10231,simple,ok,5,5,5,982,73,1,131,branch,520,119,297,278,157,464,27,,
+8,2017,8,16,1315,120494,Burseraceae,Protium,tenuifolium,var.1 FITO,BURS_Proten-1,10657,9342,odd-pinnate,ok?,1,,1,513,105,1,138,branch,613,87,305,292,194,285,54,,ok
+8,2017,8,16,1315,120495,Fabaceae,Inga,capitata,,FABA_Ingcap,11603,10288,simple,ok,5,5,5,1608,72,1,205,branch,511,97,233,220,113,794,31,qr;light;arch,YES
+8,2017,8,16,1315,120499,Sapotaceae,Pouteria,retinervis,,SAPO_Pouren,9143,7828,simple,ok,4,4,4,896,71,1,192,branch,443,91,181,171,76,365,24,,
+8,2017,8,16,1315,120579,Rubiaceae,Cordiera,myrciifolia,,RUBI_Cormyr,10724,9409,simple,ok,10,10,10,443,16,1,184,branch,492.5,94,232,194,154,224,7,,
+8,2017,8,16,1315,120586,Meliaceae,Trichilia,schomburgkii,,MELI_Trisch,11242,9927,compound,"ok?, but image has wrong id (111586)",0.5,,1,862,335,2,192,branch,790,96,503,480,252,372,146,,ok
+8,2017,8,16,1315,120767,Sapotaceae,Pouteria,retinervis,,SAPO_Pouren,11401,10086,simple,ok,3,3,3,402,39,1.5,209,branch,NA,NA,NA,NA,NA,164,12,qr;rgr,
+8,2017,8,16,1315,120769,Sapindaceae,Talisia,cerasina,,SAPI_Talcer,11627,10312,compound,ok?,0.5,,1,756,447,2,167,branch,NA,NA,NA,NA,NA,400,265,,
+8,2017,8,16,1315,120770,Elaeocarpaceae,Sloanea,schomburgkii,,ELAE_Slosch,9213,7898,simple,ok,5,5,5,1173,101,1.25,189,branch,NA,NA,NA,NA,NA,690,56,qr,
+8,2017,8,16,1315,120771,Sapindaceae,Cupania,sp.1/rubiginosa/scrobicula.PFRD,,SAPI_Cupsrs,11634,10319,compound,ok?,0.5,,1,961,703,1.75,222,branch,822,101,616,553,312,420,278,,ok
+8,2017,8,16,1315,120772,Fabaceae,Inga,sp.30.FITO,,FABA_Ings30,9250,7935,even-pinnate,ok?,1,,1,603,204,2,180,branch,NA,NA,NA,NA,NA,273,80,,
+8,2017,8,16,1315,120776,Rubiaceae,Duroia,macrophylla,,RUBI_Durmac,10538,9223,simple,ok,2,2,2,1711,264,1,252,branch,NA,NA,NA,NA,NA,670,77,,ok
+10,2017,10,6,1500,121957,Moraceae,Brosimum,sp.1.PP,,MORA_Brosp1,3944,2444,simple,ok,15,15,15,482,9,1,176,branch,441,93,162,147,98,178,3,,
+10,2017,10,6,1500,122049,Moraceae,Brosimum,rubescens,,MORA_Brorub,4021,2521,simple,ok,10,10,10,349,9,1,194,branch,495,96,182,172,114,146,3,,ok
+10,2017,10,6,1500,122068,Sapotaceae,Pouteria,fimbriata,,SAPO_Poufim,4043,2543,simple,"ok, but image 002 had wrong id (122086)",5,5,5,442,44,1.25,121,branch,319,87,94,92,46,172,12,,
+10,2017,10,6,1500,122146,Euphorbiaceae,Pausandra,macropetala,,EUPH_Paumac,4025,2525,simple,ok,2,2,2,1426,109,2.5,197,branch,972,91,764,707,336,672,39,,ok
+10,2017,10,6,1500,122158,Melastomataceae,Mouriri,trunciflora,,MELA_Moutru,4017,2517,simple,ok,10,10,10,573,10,2.5,188,branch,276,93,72,59,44,237,4,,
+10,2017,10,6,1500,122172,Siparunaceae,Siparuna,sarmentosa,,SIPA_Sipsar,3934,2434,simple,ok,6,6,6,1124,84,3.5,256,branch,472,78,134,120,65,386,28,,
+9,2017,9,14,1530,122498,Sapindaceae,Toulicia,guianensis/pulvinata PP,,SAPI_Tougui,3529,1999,compound,ok?,0.5,,1,833,489,1,140,branch,NA,NA,NA,NA,NA,374,227,,ok
+9,2017,9,14,1530,122499,Boraginaceae,Cordia,nodosa,,BORA_Cornod,3314,1784,simple,ok,5,5,5,1387,36,1,177,branch,394,88,124,135,39,511,8,,yes
+9,2017,9,14,1530,122508,Fabaceae,Zygia,juruana,,FABA_Zygjur,3427,1897,bipinnate,ok?,1,,1,836,143,1.5,175,branch,444,95,183,162,113,372,64,,
+9,2017,9,14,1530,122513,Fabaceae,Inga,sp.11.FITO,,FABA_Ings11,3451,1921,compound,ok?,3,,3,885,43,1.25,267,branch,630,101,371,344,228,363,17,trait,ok
+9,2017,9,14,1530,122518,Moraceae,Brosimum,sp.3.FITO,,MORA_Brosp3,3439,1909,simple,ok,5,5,5,493,16,1.25,147,branch,413,96,162,142,93,251,4,,
+9,2017,9,14,1530,122532,Melastomataceae,Miconia,regelii,,MELA_Micreg,3419,1889,simple,ok,5,5,5,195,11,1,188,branch,576,94,322,272,195,91,5,,
+9,2017,9,14,1530,122538,Rubiaceae,Ixora,intensa,,RUBI_Ixoint,3436,1906,simple,ok,5,5,5,1669,139,1,253,branch,560,96,312,269,177,904,67,,ok
+9,2017,9,14,1530,122551,Fabaceae,Swartzia,reticulata,,FABA_Swaret,3508,1978,compound,ok?,1,,1,1436,433,1,181,branch,NA,NA,NA,NA,NA,520,160,qr,
+9,2017,9,14,1530,122555,Lauraceae,Ocotea,sp.8.PP,,LAUR_Ocosp8,3425,1895,simple,ok,10,10,10,283,12,1.25,159,branch,465,99,192,196,104,138,4,,
+9,2017,9,14,1530,122559,Salicaceae,Casearia,javitensis,,SALI_Casjav,3318,1788,???,ok?,5,,5,314,12,1,147,branch,230,83,50,42,24,168,5,,
+9,2017,9,14,1530,122566,Rubiaceae,Ixora,intensa,,RUBI_Ixoint,3459,1929,simple,ok,5,5,5,696,36,1,216,branch,354,90,116,100,66,371,18,,ok
+9,2017,9,14,1530,122580,Myrtaceae,Eugenia,feijoi,,MYRT_Eugfei,3505,1975,simple,ok,8,8,8,223,5,1,149,branch,373,97,137,114,81,104,3,trait,
+9,2017,9,14,1530,122615,Dichapetalaceae,Tapura,guianensis,,DICH_Tapgui,3342,1812,simple,ok,5,5,5,860,36,1.25,317,branch,655,102,427,400,214,286,11,,
+9,2017,9,14,1530,122624,Burseraceae,Protium,strumosum,,BURS_Prostr,3517,1987,compound,ok?,1,,1,254,71,1.5,114,branch,439,88,181,156,87,142,31,trait,ok
+9,2017,9,14,1530,122626,Lecythidaceae,Eschweilera,bracteosa,,LECY_Escbra,3433,1903,simple,ok?,10,10,10,535,22,1,155,branch,595,95,341,308,184,NA,NA,,
+9,2017,9,14,1530,122651,Moraceae,Brosimum,guianense,,MORA_Brogui,3412,1882,simple,ok,10,10,10,183,7,1,126,branch,481,95,197,184,113,87,2,,
+9,2017,9,14,1530,122656,Malvaceae,Scleronema,micranthum,,MALV_Sclmic,3340,1810,simple,ok,5,5,5,725,140,1,182,branch,529,86,216,193,105,318,45,,
+9,2017,9,14,1530,122658,Chrysobalanaceae,Couepia,guianensis,guianensis,CHRY_Cougui,3356,1826,simple,ok,7,7,7,354,13,1,149,branch,504,99,243,211,144,173,5,,ok
+9,2017,9,15,1530,122671,Lauraceae,Ocotea,nigrescens,,LAUR_Oconig,3444,1914,simple,ok,10,10,10,329,11,1,174,branch,365,94,135,116,70,151,5,qr,ok
+9,2017,9,15,1530,122672,Fabaceae,Tachigali,myrmecophila,,FABA_Tacmyr,3521,1991,compound,ok?,0.5,,1,1221,414,1,199,branch,NA,NA,NA,NA,NA,489,183,,
+9,2017,9,15,1530,122680,Lauraceae,Ocotea,cujumary,,LAUR_Ococuj,3515,1985,simple,ok,6,6,6,460,21,1,178,branch,372,93,109,117,64,242,11,,ok
+9,2017,9,15,1530,122690,Lauraceae,Ocotea,boissieriana,,LAUR_Ocoboi,3321,1791,simple,ok,5,5,5,386,14,1,178,branch,226,90,54,49,23,167,4,,
+9,2017,9,15,1530,122693,Lauraceae,Ocotea,aff.pauciflora.PFRD,,LAUR_Ocoaff,3408,1878,simple,ok,8,8,8,525,35,1,216,branch,567,93,317,291,176,266,16,,
+9,2017,9,15,1530,122701,Rubiaceae,Psychotria,sp.3.FITO,A PP,RUBI_Psysp3-A,3401,1871,simple,ok,6,6,6,786,33,1.25,176,branch,532,96,277,252,103,300,8,,
+9,2017,9,15,1530,122705,Burseraceae,Protium,hebetatum,forma B FITO,BURS_Proheb-B,3446,1916,compound,ok?,0.5,,1,208,139,1.25,140,branch,862,99,664,650,364,123,70,trait,
+9,2017,9,15,1530,122721,Annonaceae,Duguetia,manausensis,,ANNO_Dugman,3307,1777,simple,ok,5,5,5,830,37,1,182,branch,324,89,101,94,32,371,10,trait,
+9,2017,9,14,1530,122731,Fabaceae,Swartzia,reticulata,,FABA_Swaret,3526,1996,compound,ok?,0.5,,1,642,330,1.5,203,branch,597,106,369,326,215,230,129,,
+9,2017,9,15,1530,122745,Apocynaceae,Aspidosperma,carapanauba,Forma B PP,APOC_Aspcar,3329,1799,simple,ok,5,5,5,1918,52,1,271,branch,619,93,343,301,197,833,17,,ok
+9,2017,9,15,1530,122751,Humiriaceae,Sacoglottis,mattogrossensis,subintegra,HUMI_Sacmat,3351,1821,simple,ok,10,10,10,407,6,1,183,branch,622,94,394,338,248,183,3,,
+9,2017,9,14,1530,122753,Quiinaceae,Quiina,paraensis,,QUII_Quipar,3340,1810,simple,ok,5,5,5,992,45,1.5,235,branch,410,93,161,137,96,515,21,,
+8,2017,8,22,1335,122757,Clusiaceae,Tovomita,sp.2.FITO,,CLUS_Tovsp2,6622,5287,simple,ok,5,5,5,814,57,1.25,254,branch,612,101,349,292,196,303,17,,ok
+9,2017,9,15,1530,122758,Salicaceae,Casearia,javitensis,,SALI_Casjav,3337,1807,simple,ok,6,6,6,955,70,1.5,151,branch,616,94,332,300,177,404,19,,
+8,2017,8,22,1335,122759,Violaceae,Rinorea,racemosa,,VIOL_Rinrac,6859,5524,simple,ok,5,5,5,568,35,1.5,157,branch,510,96,240,205,127,242,12,,
+8,2017,8,22,1335,122762,Burseraceae,Tetragastris,panamensis,,BURS_Tetpan,3459,2124,simple,"ok, but image 002 had wrong id (12762)",1,1,2,353,216,1.25,142,branch,890,91,629,559,376,185,104,,ok
+8,2017,8,22,1335,122774,Lauraceae,Mezilaurus,duckei,,LAUR_Mezduc,6902,5567,simple,ok,2,2,2,679,33,1,177,branch,708,92,446,384,252,349,13,,
+8,2017,8,22,1335,122776,Fabaceae,Swartzia,reticulata,,FABA_Swaret,3801,2466,compound,ok?,1,,2,867,543,1.25,210,branch,454,83,228,198,119,383,240,trait,
+8,2017,8,22,1335,122782,Malvaceae,Scleronema,micranthum,,MALV_Sclmic,6919,5584,simple,ok,4,4,4,659,155,1,155,branch,547,85,247,226,116,263,49,,
+9,2017,9,15,1530,122785,Myristicaceae,Virola,calophylla,calophylloidea,MYRI_Vircal,3407,1877,simple,"ok, but image 001 with wrong id (12785)",5,5,5,1488,60,1,223,branch,460,103,240,240,125,592,16,,
+9,2017,9,15,1530,122794,Lauraceae,Aniba,terminalis,,LAUR_Aniter,3334,1804,simple,ok,5,5,5,760,66,1.25,192,branch,654,90,366,347,191,346,24,trait,
+9,2017,9,14,1530,126547,Olacaceae,Minquartia,guianensis,verde MV,OLAC_Mingui-V,3416,1886,simple,ok,5,5,5,904,60,1.5,187,branch,491,87,185,161,99,434,20,rgr,ok
+8,2017,8,22,1335,132285,Rubiaceae,Palicourea,corymbifera/virens PP,,RUBI_Palcov,6907,5572,simple,ok,5,5,5,540,31,1,131,branch,474,90,190,168,83,236,9,,
+8,2017,8,22,1335,132286,Lecythidaceae,Eschweilera,grandiflora,,LECY_Escgra,6917,5582,simple,ok,2,2,2,531,37,1,174,branch,597,89,335,292,177,263,15,,
+8,2017,8,23,1335,132290,Meliaceae,Trichilia,pleeana,,MELI_Triple,3734,2399,compound,ok?,0.5,,1,852,343,1,196,branch,329,98,112,98,53,376,149,,
+8,2017,8,22,1335,132296,Myrtaceae,Eugenia,ramiflora,,MYRT_Eugram,6759,5424,simple,ok,10,10,10,428,16,1,155,branch,446,83,165,138,100,231,7,,
+8,2017,8,22,1335,132301,Moraceae,Sorocea,muriculata,muriculata,MORA_Sormur-m,3550,2215,simple,ok,10,10,10,567,7,1,155,branch,451,73,147,127,72,266,0,,yes
+8,2017,8,22,1335,132302,Nyctaginaceae,Neea,sp.7.FITO,,NYCT_Neesp7,3530,2195,simple,ok,5,5,5,1748,75,1,401,branch,474,82,155,146,65,460,19,qr;rgr;mstem,
+8,2017,8,22,1335,132304,Sapotaceae,Pouteria,jariensis,,SAPO_Poujar,3536,2201,simple,"ok, but image 001 with wrong id (13230)",5,5,5,612,35,1,203,branch,548,94,250,220,148,266,11,,
+8,2017,8,22,1335,132307,Burseraceae,Tetragastris,panamensis,,BURS_Tetpan,3502,2167,compound,ok?,1,,2,390,188,1,172,branch,384,46,74,66,34,204,89,,ok
+8,2017,8,23,1335,132320,Burseraceae,Protium,,,,3737,2402,odd-pinnate,ok?,1,,1,194,45,1,124,branch,286,84,75,63,40,108,21,,yes
+8,2017,8,22,1335,132322,Elaeocarpaceae,Sloanea,sp.9.FITO,,ELAE_Slosp9,3559,2224,simple,ok,5,5,5,861,79,1,130,branch,410,82,144,127,64,414,25,qr,ok
+8,2017,8,22,1335,132323,Burseraceae,Protium,aracouchini,,BURS_Proara,3932,2597,odd-pinnate,ok?,1,,1,242,29,1,160,branch,597,94,362,309,229,118,12,rgr,
+8,2017,8,22,1335,132503,Sapotaceae,Pouteria,erythrochrysa,,SAPO_Pouery,6804,5469,simple,ok,7,7,7,364,21,1,163,branch,602,97,355,306,207,177,7,,
+8,2017,8,22,1335,132504,Lauraceae,Ocotea,nigrescens,,LAUR_Oconig,3545,2210,simple,ok,10,10,10,465,17,1,176,branch,397,101,127,118,65,216,9,qr,
+8,2017,8,22,1335,132508,Moraceae,Naucleopsis,caloneura,não escabra PP,MORA_Naucal-n,6815,5480,simple,ok,5,5,5,985,42,1,228,branch,576,97,269,252,125,446,15,trait,ok
+8,2017,8,22,1335,132511,Sapindaceae,Talisia,cerasina,,SAPI_Talcer,3729,2394,compound,ok?,0.5,,1,637,291,1.25,165,branch,NA,NA,NA,NA,NA,350,169,,
+8,2017,8,22,1335,132514,Sapotaceae,Pouteria,filipes,,SAPO_Poufil,3607,2272,simple,ok,6,6,6,1034,59,1,218,branch,409,93,181,155,103,521,26,,yes
+8,2017,8,22,1335,132516,Violaceae,Rinorea,amapensis,,VIOL_Rinama,6850,5515,simple,ok,9,9,9,463,19,1.25,208,branch,530,92,286,244,153,188,6,,
+8,2017,8,22,1335,132517,Lecythidaceae,Eschweilera,truncata,,LECY_Esctru,4058,2723,simple,ok,5,5,5,303,10,1.25,161,branch,314,87,80,71,32,145,4,trait,
+8,2017,8,22,1335,132518,Euphorbiaceae,Pausandra,macropetala,,EUPH_Paumac,3850,2515,simple,ok,2,2,2,1434,138,1.25,230,branch,561,84,241,226,96,677,54,,
+8,2017,8,22,1335,132520,Sapindaceae,Talisia,mollis,,SAPI_Talmol,3900,2565,compound,ok?,1,,1,936,169,1.25,211,branch,NA,NA,NA,NA,NA,515,98,,ok
+8,2017,8,22,1335,132521,Lecythidaceae,Eschweilera,pedicellata,,LECY_Escped,3956,2621,simple,ok,5,5,5,399,12,1,182,branch,615,100,327,293,172,169,4,,
+8,2017,8,22,1335,132527,Bignoniaceae,Tabebuia,incana,,BIGN_Tabinc,3514,2179,compound,ok?,1,,1,417,169,1,86,branch,NA,NA,NA,NA,NA,133,55,,
+8,2017,8,22,1335,132528,Chrysobalanaceae,Licania,blackii,,CHRY_Licbla,4101,2766,simple,ok,5,5,5,628,20,1.5,203,branch,545,89,252,209,155,291,9,,ok
+8,2017,8,24,1335,132530,Chrysobalanaceae,Parinari,montana,,CHRY_Parmon,3508,2173,simple,ok,10,10,10,374,10,1.25,183,branch,260,70,51,47,23,178,3,,ok
+8,2017,8,22,1335,132531,Sapotaceae,Pouteria,hispida,1,SAPO_Pouhis-1,6913,5578,simple,ok,5,5,5,287,18,1,126,branch,345,83,95,95,NA,132,5,,yes
+8,2017,8,22,1335,132532,Sapotaceae,Manilkara,bidentata,,SAPO_Manbid,6929,5594,simple,"ok, but image 003 left unnamed",5,5,5,2509,312,1,263,branch,589,87,304,277,162,1126,102,,yes
+8,2017,8,22,1335,132534,Sapindaceae,Talisia,cerasina,,SAPI_Talcer,3732,2397,compound,ok?,0.5,,1,571,339,1.25,197,branch,NA,NA,NA,NA,NA,318,200,qr,
+8,2017,8,22,1335,132535,Annonaceae,Bocageopsis,multiflora,,ANNO_Bocmul,3521,2186,simple,ok,15,15,15,105,5,1,128,branch,161,79,21,20,9,45,0,,ok
+8,2017,8,22,1335,132541,Celastraceae,Maytenus,sp.2.FITO,,CELA_Maysp2,6747,5412,simple,ok,3,3,3,1529,39,1,211,branch,627,96,370,317,184,598,15,,ok
+8,2017,8,22,1335,132552,Annonaceae,Duguetia,flagellaris,,ANNO_Dugfla,3942,2607,simple,ok,5,5,5,499,16,1,173,branch,555,93,270,252,116,229,5,,
+8,2017,8,22,1335,132554,Lauraceae,Ocotea,nigrescens,,LAUR_Oconig,3602,2267,simple,ok,7,7,7,508,23,1.25,180,branch,428,81,138,117,74,238,11,,
+8,2017,8,23,1335,132556,Fabaceae,Paramachaerium,ormosioides,forma A FITO,FABA_Parorm,6831,5496,compound,ok?,1,,1,122,18,1,135,branch,439,90,157,152,87,57,8,,ok
+8,2017,8,23,1335,132561,Violaceae,Paypayrola,sp.nova.PP,,VIOL_Payspn,6856,5521,simple,ok,5,5,5,678,21,1,237,branch,568,94,280,245,146,231,6,,
+8,2017,8,23,1335,132566,Rubiaceae,Coussarea,sp.9.FITO,,RUBI_Cousp9,4000,2665,simple,ok,4,4,4,521,38,1,171,branch,804,103,604,545,271,174,10,,
+8,2017,8,23,1335,132570,Burseraceae,Protium,hebetatum,,BURS_Proheb,3746,2411,odd-pinnate,ok?,0.5,,1,590,345,1,170,branch,339,83,82,80,34,305,137,trait,
+8,2017,8,23,1335,132571,Rubiaceae,Coussarea,ampla,,RUBI_Couamp,3456,2121,simple,ok,2,2,2,1390,182,1,232,branch,752,99,474,443,129,338,32,,ok
+8,2017,8,23,1335,132576,Ochnaceae,Ouratea,coccinea,,OCHN_Ourcoc,3927,2592,simple,ok,5,5,5,377,11,1,190,branch,326,93,125,108,74,195,6,,
+8,2017,8,23,1335,132579,Violaceae,Rinorea,amapensis,,VIOL_Rinama,4053,2718,simple,ok,5,5,5,293,8,1,167,branch,370,93,160,136,78,106,2,,
+8,2017,8,22,1335,132581,Hypericaceae,Vismia,sp.A.PP,,HYPE_VisspA,4104,2769,simple,ok,2,2,2,1516,127,1.25,204,branch,644,80,296,256,173,613,32,,ok
+8,2017,8,22,1335,132584,Lauraceae,Indet,sp.12.PP,,LAUR_Inds12,3754,2419,simple,ok,3,3,3,1000,97,1,222,branch,290,79,67,61,35,473,37,,ok
+8,2017,8,22,1335,132585,Nyctaginaceae,Neea,sp.3.FITO,,NYCT_Neesp3,6841,5506,simple,ok,6,6,6,692,23,1,243,branch,950,92,675,632,336,233,6,,
+8,2017,8,22,1335,132589,Boraginaceae,Cordia,nodosa,,BORA_Cornod,3741,2406,simple,ok,5,5,5,714,26,1,175,branch,243,89,48,50,NA,199,4,rgr,yes
+8,2017,8,24,1335,132593,Sapotaceae,Pouteria,aff. engleri,,SAPO_Pouaen,6834,5499,simple,ok,4,4,4,612,31,1.25,217,branch,636,90,331,284,176,236,10,,
+8,2017,8,22,1335,132596,Violaceae,Rinorea,amapensis,,VIOL_Rinama,6812,5477,simple,ok,7,7,7,299,9,1.5,143,branch,537,92,331,285,178,112,3,,
+8,2017,8,22,1335,132602,Melastomataceae,Mouriri,huberi,,MELA_Mouhub,4055,2720,simple,ok,5,5,5,901,18,1,303,branch,543,90,270,242,170,420,8,,ok
+8,2017,8,22,1335,132603,Araliaceae,Schefflera,morototoni,,ARAL_Schmor,3854,2519,compound,ok?,1,,1,1283,546,1.5,215,branch,NA,NA,NA,NA,NA,420,210,,ok
+8,2017,8,24,1530,132606,Rubiaceae,Kutchubaea,sericantha,,RUBI_Kutser,3324,1794,simple,ok,2,2,2,2824,444,1.25,233,branch,448,73,147,142,61,1219,126,trait,
+8,2017,8,22,1335,132607,Lauraceae,Aniba,canelilla,,LAUR_Anican,6854,5519,simple,ok,5,5,5,437,39,1.5,177,branch,421,96,187,165,93,199,13,,
+8,2017,8,22,1335,132642,Melastomataceae,Miconia,sp.7.FITO,,MELA_Micsp7,3610,2275,simple,ok,5,5,5,486,24,1,155,branch,317,83,90,75,49,189,7,,ok
+8,2017,8,22,1335,132649,Sapindaceae,Allophylus,latifolius,,SAPI_Alllat,4126,2791,compound,ok?,2,,2,222,21,1.25,146,branch,574,97,256,257,142,88,7,,
+8,2017,8,22,1335,132651,Chrysobalanaceae,Licania,membranacea,,CHRY_Licmem,6904,5569,simple,ok,5,5,5,340,11,1.25,172,branch,424,101,205,166,126,159,4,rgr,ok
+8,2017,8,22,1335,132653,Burseraceae,Protium,unifoliolatum,,BURS_Prouni,6836,5501,simple,ok,5,5,5,322,26,1.25,151,branch,459,100,202,182,121,179,12,,ok
+8,2017,8,22,1335,132657,Melastomataceae,Miconia,punctata,,MELA_Micpun,6827,5492,simple,ok,5,5,5,983,66,1.25,190,branch,547,101,292,248,140,398,19,,
+8,2017,8,22,1335,132658,Melastomataceae,Miconia,aff. hypoleuca,,MELA_Micaff,3517,2182,simple,ok,5,5,5,538,89,1,234,branch,281,81,65,57,26,252,27,,ok
+8,2017,8,22,1335,132660,Sapotaceae,Pouteria,reticulata,ssp. 1 FITO,SAPO_Pouret-1,4114,2779,simple,ok,10,10,10,479,22,1.25,159,branch,495,101,230,207,107,184,7,,
+8,2017,8,22,1335,132670,Lauraceae,Licaria,martiniana,,LAUR_Licmar,6830,5495,simple,ok,6,6,6,619,31,1,227,branch,563,93,272,254,148,307,12,trait,ok
+8,2017,8,22,1335,132673,Sapotaceae,Micropholis,mensaliforme PP,,SAPO_Micmen,6845,5510,simple,ok,10,10,10,362,14,1.25,200,branch,608,85,273,236,141,160,5,,
+8,2017,8,23,1335,132691,Annonaceae,Duguetia,stelechantha,,ANNO_Dugste,4133,2798,simple,ok,5,5,5,461,22,1,158,branch,497,103,246,215,130,240,9,trait,
+8,2017,8,22,1335,132698,Sapotaceae,Pouteria,guianensis,,SAPO_Pougui,3921,2586,simple,ok,5,5,5,1225,77,1.5,221,branch,985,98,859,752,536,567,25,,ok
+8,2017,8,21,1335,132699,Sapotaceae,Pouteria,stylifera,,SAPO_Pousty,6809,5474,simple,ok,8,8,8,362,15,1.25,132,branch,568,94,310,287,193,167,6,qr;rgr,
+8,2017,8,21,1335,132700,Lauraceae,Ocotea,rhynchophylla,,LAUR_Ocorhy,6819,5484,simple,ok,6,6,6,685,53,1,205,branch,438,90,133,128,68,328,18,,ok
+8,2017,8,21,1335,132702,Lauraceae,Licaria,martiniana,,LAUR_Licmar,6910,5575,simple,ok,5,5,5,747,40,1.25,214,branch,591,94,298,266,175,390,16,,ok
+8,2017,8,21,1335,132705,Moraceae,Naucleopsis,ulei,,MORA_Nauule,4303,2968,simple,ok,4,4,4,1474,69,1.25,212,branch,715,96,428,414,190,669,20,,ok
+8,2017,8,21,1335,132717,Lecythidaceae,Eschweilera,pedicellata,,LECY_Escped,4215,2880,simple,ok,5,5,5,429,15,1.75,197,branch,723,96,515,447,294,192,6,,
+8,2017,8,21,1335,132727,Goupiaceae,Goupia,glabra,,GOUP_Gougla,3504,2169,simple,ok,10,10,10,384,21,3,133,branch,386,110,141,128,81,173,6,,
+8,2017,8,23,1335,132754,Anacardiaceae,Anacardium,parvifolium,,ANAC_Anapar,4259,2924,simple,ok,5,5,5,894,137,1.75,129,branch,518,100,202,219,89,339,33,,
+8,2017,8,23,1335,132755,Sapindaceae,Cupania,sp.1/rubiginosa/scrobicula.PFRD,,SAPI_Cupsrs,3726,2391,compound,ok?,0.5,,1,452,248,1.5,194,branch,584,61,218,197,99,218,111,,ok
+8,2017,8,23,1335,132756,Anacardiaceae,Anacardium,parvifolium,,ANAC_Anapar,4310,2975,simple,ok,5,5,5,2186,157,1.75,244,branch,674,91,421,378,200,1150,59,,
+8,2017,8,22,1335,132767,Annonaceae,Duguetia,flagellaris,,ANNO_Dugfla,3918,2583,simple,ok,5,5,5,504,16,1.25,170,branch,733,90,437,412,196,221,8,,
+8,2017,8,22,1335,132769,Elaeocarpaceae,Sloanea,schomburgkii,,ELAE_Slosch,3453,2118,simple,ok,3,3,3,700,60,1,173,branch,NA,NA,NA,NA,NA,372,29,,
+8,2017,8,23,1335,132771,Fabaceae,Swartzia,reticulata,,FABA_Swaret,3830,2495,compound,"ok?, but image 001 was unnamed",1,,1,1209,307,1,204,branch,382,85,133,113,81,479,130,,
+8,2017,8,22,1335,132772,Ochnaceae,Ouratea,coccinea,,OCHN_Ourcoc,3916,2581,simple,ok,5,5,5,710,18,1,216,branch,565,81,255,220,162,328,9,,
+8,2017,8,23,1335,132773,Rubiaceae,Palicourea,sp.1.FITO,,RUBI_Palsp1,3934,2599,simple,ok,5,5,5,928,23,1,241,branch,494,99,274,260,123,214,5,,
+8,2017,8,23,1335,132776,Fabaceae,Swartzia,reticulata,,FABA_Swaret,3847,2512,compound,ok?,0.5,,1,608,346,1,204,branch,406,72,118,108,55,275,170,rgr;arch,
+8,2017,8,23,1335,132784,Annonaceae,Duguetia,echinophora,,ANNO_Dugech,3924,2589,simple,ok,6,6,6,257,7,1.25,136,branch,627,100,309,278,168,121,2,,ok
+8,2017,8,23,1335,132785,Moraceae,Naucleopsis,caloneura,escabra PP,MORA_Naucal-e,3929,2594,simple,ok,3,3,3,2217,203,1.25,300,branch,830,101,634,602,282,971,52,,ok
+8,2017,8,23,1335,132788,Sapotaceae,Pouteria,reticulata,ssp. 1 FITO,SAPO_Pouret-1,4220,2885,simple,ok,5,5,5,1416,47,1,181,branch,518,94,261,229,127,643,16,,
+8,2017,8,23,1335,132789,Olacaceae,Minquartia,guianensis,ferruginea MV,OLAC_Mingui-F,4143,2808,simple,ok,5,5,5,744,51,1,167,branch,560,99,304,260,178,348,17,,ok
+8,2017,8,23,1335,132790,Lauraceae,Ocotea,cujumary,,LAUR_Ococuj,3836,2501,simple,ok,6,6,6,465,22,1,170,branch,241,82,37,36,20,218,10,,ok
+8,2017,8,23,1335,132792,Sapotaceae,Pouteria,escalarinerve PP,,SAPO_Pouesc,4222,2887,simple,ok,5,5,5,410,29,1,166,branch,502,101,276,238,141,152,7,,
+8,2017,8,23,1335,132794,Burseraceae,Protium,subserratum,,BURS_Prosub,3756,2421,odd-pinnate,ok?,0.5,,1,323,286,1,134,branch,NA,NA,NA,NA,NA,156,105,,ok
+8,2017,8,23,1335,132796,Melastomataceae,Miconia,punctata,,MELA_Micpun,6751,5416,simple,"ok, but image 002 has wrong id (132769)",5,5,5,675,61,1,234,branch,466,91,193,163,106,309,20,,
+8,2017,8,23,1335,132800,Lauraceae,Mezilaurus,,,,3945,2610,simple,ok,2,2,2,1223,51,1,175,branch,869,100,618,555,360,656,19,,YES
+8,2017,8,23,1335,132808,Lecythidaceae,Eschweilera,romeu-cardosoi,,LECY_Escrom,4107,2772,simple,ok,6,6,6,387,16,1,160,branch,435,92,167,145,96,168,5,,
+8,2017,8,23,1335,132809,Nyctaginaceae,Neea,ovalifolia,B PP,NYCT_Neeova,6754,5419,simple,ok,10,10,10,503,14,1.5,199,branch,568,93,311,296,166,167,3,,
+8,2017,8,23,1335,132818,Annonaceae,Duguetia,echinophora,,ANNO_Dugech,4225,2890,simple,"ok, but image 002 had wrong id (132919)",5,5,5,259,5,1.25,131,branch,461,96,220,200,117,119,1,,ok
+8,2017,8,23,1335,132819,Myrtaceae,Eugenia,pseudopsidium,,MYRT_Eugpse,3950,2615,simple,ok,10,10,10,410,18,1.25,200,branch,318,96,112,94,65,190,6,,
+8,2017,8,23,1335,132823,Burseraceae,Protium,pilosissimum,,BURS_Propil,4122,2787,odd-pinnate,ok?,1,,2,236,115,1.25,147,branch,543,90,232,209,127,131,52,,YES
+8,2017,8,23,1335,132826,Lauraceae,Endlicheria,sp.2.PP,,LAUR_Endsp2,3556,2221,simple,ok,6,6,6,609,47,1.25,206,branch,336,86,92,87,47,331,18,,
+8,2017,8,23,1335,132827,Burseraceae,Protium,aracouchini,,BURS_Proara,4200,2865,odd-pinnate,images missing,2,,2,315,36,1.5,158,branch,576,91,355,309,223,172,14,,
+8,2017,8,23,1335,132829,Annonaceae,Duguetia,flagellaris,,ANNO_Dugfla,4130,2795,simple,ok,5,5,5,619,38,1.5,177,branch,519,103,290,261,146,321,15,,
+8,2017,8,23,1335,132831,Sapotaceae,Pouteria,jariensis,,SAPO_Poujar,4117,2782,simple,ok,5,5,5,1287,126,1.25,259,branch,549,88,273,240,147,599,44,,
+8,2017,8,23,1335,132844,Sapotaceae,Pouteria,hispida,1,SAPO_Pouhis-1,4139,2804,simple,ok,5,5,5,248,15,1.5,127,branch,387,89,138,120,87,114,5,,yes
+8,2017,8,23,1335,132847,Chrysobalanaceae,Licania,heteromorpha,prismatocarpa FITO,CHRY_Lichet-p,4212,2877,simple,ok,5,5,5,742,37,1.5,160,branch,374,91,134,117,67,356,13,,
+8,2017,8,23,1335,132848,Sapindaceae,Matayba,inelegans,,SAPI_Matine,4137,2802,compound,ok?,1,,2,243,60,1.25,142,branch,599,89,269,236,147,99,22,,
+8,2017,8,23,1335,142502,Lauraceae,Licaria,sp.2.FITO,,LAUR_Licsp2,3620,2285,simple,ok,15,15,15,219,11,1.25,140,branch,369,85,126,112,69,111,4,,YES
+8,2017,8,23,1335,142519,Malvaceae,Scleronema,micranthum,,MALV_Sclmic,3911,2576,simple,ok,5,5,5,723,130,1.5,200,branch,615,83,316,292,143,286,39,q,
+8,2017,8,23,1335,142522,Annonaceae,Duguetia,stelechantha,,ANNO_Dugste,4228,2893,simple,images missing,5,5,5,1295,72,1.5,190,branch,636,110,398,356,214,672,31,,
+8,2017,8,23,1335,142523,Olacaceae,Cathedra,acuminata,,OLAC_Catacu,4308,2973,simple,ok,4,4,4,1416,48,2,397,branch,503,101,293,252,150,555,14,,
+8,2017,8,23,1335,142524,Sapotaceae,Pouteria,transparente PP,,SAPO_Poutra,4306,2971,simple,ok,5,5,5,558,29,1.25,151,branch,610,92,323,285,154,254,8,,
+7,2017,8,2,1600,210193,Euphorbiaceae,Pausandra,macropetala,,EUPH_Paumac,4330,2730,simple,ok,2,2,2,1835,180,1.5,180,branch,NA,NA,NA,NA,NA,903,65,light;arch,
+7,2017,8,2,1630,210443,Burseraceae,Protium,opacum,opacum,BURS_Proopa-o,4329,2699,bipinnated,ok?,2,,2,922,216,1.5,173,branch,570,118,327,287,169,448,92,trait,
+7,2017,8,2,1630,210505,Annonaceae,Duguetia,surinamensis,,ANNO_Dugsur,4127,2497,simple,ok,10,10,10,254,6,1,146,branch,456,100,220,195,118,116,0,,YES
+7,2017,8,3,1630,210741,Apocynaceae,Tabernaemontana,undulata,,APOC_Tabund,3253,1623,simple,ok,7,7,7,258,9,1.25,254,branch,NA,NA,NA,NA,312,93,3,,ldm e pdm medidos a 22-9-2019 (eram 556 e 19)
+7,2017,8,3,1630,210743,Burseraceae,Protium,ferrugineum,,BURS_Profer,3405,1775,odd-pinnate,ok?,2,,2,1343,242,1,132,branch,625,116,342,309,207,698,116,,ok
+7,2017,8,5,1630,211101,Chrysobalanaceae,Couepia,longipendula,,CHRY_Coulon,3930,2300,simple,ok,6,6,6,580,32,1,228,branch,NA,NA,NA,NA,NA,247,11,,ok
+7,2017,8,5,1630,211103,Sapindaceae,Cupania,sp.1/rubiginosa/scrobicula.PFRD,,SAPI_Cupsrs,3948,2318,compound,ok?,1,,1,1348,544,1.5,201,branch,322,98,110,91,61,607,197,,ok
+7,2017,8,2,1600,220012,Annonaceae,Unonopsis,duckei,,ANNO_Unoduc,3818,2218,simple,ok,7,7,7,501,25,1,177,branch,635,97,333,310,180,222,10,,
+7,2017,8,2,1600,220020,Lecythidaceae,Eschweilera,pedicellata,,LECY_Escped,3342,1742,simple,ok,7,7,7,250,9,1,164,branch,418,102,154,139,82,109,3,,
+7,2017,8,2,1600,220023,Lecythidaceae,Eschweilera,pedicellata,,LECY_Escped,3933,2333,simple,ok,6,6,6,246,4,1.5,160,branch,523,109,261,245,137,89,0,qr,YES
+7,2017,8,2,1600,220028,Myrtaceae,Myrcia,paivae,,MYRT_Myrpai,3346,1746,simple,ok,3,3,3,74,0,1,144,branch,304,101,135,155,57,31,0,trait,
+7,2017,8,2,1600,220038,Burseraceae,Protium,opacum,opacum,BURS_Proopa-o,3339,1739,odd-pinnate,ok?,2,,2,702,100,1.5,166,branch,521,100,226,226,118,307,36,,
+7,2017,8,2,1600,220040,Lecythidaceae,Gustavia,elliptica,,LECY_Gusell,3305,1705,simple,ok,4,4,4,629,27,1,169,branch,438,103,184,160,98,271,11,,
+7,2017,8,2,1600,220041,Lecythidaceae,Gustavia,elliptica,,LECY_Gusell,4134,2534,simple,ok,4,4,4,531,13,1,226,branch,474,104,209,180,124,265,6,,YES
+7,2017,8,2,1600,220042,Annonaceae,Duguetia,flagellaris,,ANNO_Dugfla,3354,1754,simple,ok,5,5,5,545,18,1,195,branch,712,100,442,425,210,246,7,,
+7,2017,8,2,1600,220044,Siparunaceae,Siparuna,cuspidata,,SIPA_Sipcus,3300,1700,simple,ok,7,7,7,366,19,1,208,branch,345,92,129,113,68,126,5,,
+7,2017,8,2,1600,220046,Moraceae,Sorocea,muriculata,muriculata,MORA_Sormur-m,3808,2208,simple,ok,15,15,15,525,17,1,174,branch,487,83,172,163,100,258,5,,yes
+7,2017,8,2,1600,220047,Chrysobalanaceae,Hirtella,myrmecophila,,CHRY_Hirmyr,3949,2349,simple,ok,5,5,5,486,20,1.25,171,branch,306,93,94,81,61,252,11,trait,
+7,2017,8,2,1600,220048,Chrysobalanaceae,,,,,3425,1825,simple,ok,3,3,3,464,37,1.25,217,branch,271,92,69,59,43,219,14,trait,yes
+7,2017,8,2,1600,220052,Anisophylleaceae,Anisophyllea,manausensis,,ANIS_Animan,4245,2645,simple,ok,10,10,10,860,15,1,208,branch,477,103,301,251,173,387,5,light;arch,
+7,2017,8,2,1600,220058,Burseraceae,Protium,unifoliolatum,,BURS_Prouni,4123,2523,simple,ok,5,5,5,223,11,1,132,branch,340,105,108,103,63,113,6,,ok
+7,2017,8,2,1600,220063,Sapotaceae,Manilkara,,,,4315,2715,simple,ok,5,5,5,1676,119,1,269,branch,625,101,364,352,180,675,35,,yes
+7,2017,8,2,1600,220064,Myristicaceae,,,,,3803,2203,simple,ok,5,5,5,1201,66,1,208,branch,451,105,191,165,101,563,20,,yes
+7,2017,8,2,1600,220072,Apocynaceae,Tabernaemontana,muricata,,APOC_Tabmur,3829,2229,simple,image 002 missing,3,3,3,1850,94,1.5,248,branch,660,92,324,323,127,662,23,qr,
+7,2017,8,2,1600,220076,Annonaceae,Fusaea,longifolia,,ANNO_Fuslon,4242,2642,simple,ok,5,5,5,784,22,1.5,184,branch,492,117,342,221,123,408,9,,
+7,2017,8,2,1600,220078,Apocynaceae,Tabernaemontana,muricata,,APOC_Tabmur,3848,2248,simple,ok,5,5,5,1666,72,1.5,268,branch,656,106,440,449,162,590,17,,
+7,2017,8,2,1600,220079,Sapotaceae,Pouteria,erythrochrysa,,SAPO_Pouery,3853,2253,simple,ok,5,5,5,552,39,1,171,branch,396,95,156,136,89,284,12,,YES
+7,2017,8,2,1600,220082,Siparunaceae,Siparuna,decipiens,,SIPA_Sipdec,3349,1749,simple,ok,5,5,5,1524,92,1.5,312,branch,727,107,473,449,201,428,22,,
+7,2017,8,2,1600,220133,Myrtaceae,Eugenia,coffeifolia,,MYRT_Eugcof,3922,2322,simple,ok,5,5,5,234,9,1,226,branch,508,89,209,200,113,106,3,trait,
+7,2017,8,2,1600,220137,Lecythidaceae,Eschweilera,coriacea,,LECY_Esccor,4225,2625,simple,image 005 missing,5,5,5,2272,127,1.5,197,branch,557,83,246,224,103,1060,48,rgr,
+7,2017,8,2,1600,220138,Sapotaceae,Pouteria,campanulata,,SAPO_Poucam,4305,2705,simple,ok,5,5,5,802,59,1.5,199,branch,458,75,152,156,66,400,18,q,ok
+7,2017,8,2,1600,220146,Rubiaceae,Ixora,intensa,,RUBI_Ixoint,4230,2630,simple,ok,5,5,5,1656,66,1.5,264,branch,NA,NA,NA,NA,NA,783,23,light;arch;q,ok
+7,2017,8,2,1600,220164,Burseraceae,Protium,hebetatum,,BURS_Proheb,3420,1820,odd-pinnate,ok?,2,,2,960,87,1.25,279,branch,386,92,131,114,72,399,32,trait,YES
+7,2017,8,2,1600,220170,Euphorbiaceae,Micrandropsis,scleroxylon,,EUPH_Micscl,3703,2103,simple,ok,5,5,5,890,67,1,160,branch,479,109,218,197,109,397,25,,
+7,2017,8,2,1600,220174,Sapotaceae,Pouteria,sp.1.FITO,,SAPO_Pousp1,3700,2100,simple,ok,5,5,5,1221,135,1,148,branch,332,92,96,87,39,447,42,,
+7,2017,8,2,1600,220176,Burseraceae,Protium,hebetatum,,BURS_Proheb,3712,2112,odd-pinnate,ok?,0.5,,1,672,603,1,174,branch,601,115,365,353,198,383,263,,
+7,2017,8,2,1600,220177,,,,,,3708,2108,simple,ok,5,5,5,465,17,1,182,branch,312,106,108,94,58,210,5,,yes
+7,2017,8,2,1600,220178,Moraceae,Sorocea,muriculata,muriculata,MORA_Sormur-m,3650,2050,simple,ok,15,15,15,527,19,1,163,branch,570,93,267,251,159,265,7,,yes
+7,2017,8,2,1600,220184,Sapotaceae,Pouteria,ericoides,,SAPO_Poueri,3726,2126,simple,ok,5,5,5,375,29,1.5,239,branch,401,104,163,141,90,153,8,qr;rgr,
+7,2017,8,2,1600,220193,Burseraceae,Protium,trifoliolatum,,BURS_Protri,4120,2520,odd-pinnate,ok?,1,,2,500,108,1.5,149,branch,413,100,147,143,77,250,45,,ok
+7,2017,8,2,1600,220195,Myristicaceae,Virola,michelii,,MYRI_Virmic,3449,1849,simple,ok,5,5,5,453,22,1.5,123,branch,405,102,127,143,48,179,4,,
+7,2017,8,2,1600,220196,Sapotaceae,Pouteria,vernicosa,Forma B PP,SAPO_Pouver,4205,2605,simple,ok,6,6,6,839,45,1.5,340,branch,348,90,117,106,65,406,18,,
+7,2017,8,2,1600,220200,Sapotaceae,,,,,4147,2547,simple,ok,8,8,8,1694,118,1.5,269,branch,375,93,145,138,86,866,44,,yes
+7,2017,8,2,1600,220212,Sapotaceae,Pouteria,anomala,,SAPO_Pouano,3335,1735,simple,ok,10,10,10,596,19,1,141,branch,434,94,152,134,98,337,8,,
+7,2017,8,2,1600,220213,Fabaceae,Sclerolobium,melinonii,,FABA_Sclmen,3312,1712,even-pinnate,ok?,1,,2,339,164,1.5,110,branch,662,101,462,405,265,154,79,light,ok
+7,2017,8,2,1600,220214,Fabaceae,Inga,sp.27.FITO,,FABA_Ings27,3404,1804,even-pinnate,ok?,3,,3,790,48,1,154,branch,466,107,214,213,118,288,16,qr,
+7,2017,8,2,1600,220218,Meliaceae,Trichilia,areolata,,MELI_Triare,4323,2723,simple,ok,5,5,5,872,63,1,207,branch,528,93,236,217,140,356,23,,ok
+7,2017,8,2,1600,220220,Lecythidaceae,Eschweilera,pedicellata,,LECY_Escped,4139,2539,simple,ok,5,5,5,644,19,1,191,branch,820,100,609,541,335,295,7,,
+7,2017,8,2,1600,220226,Quiinaceae,Quiina,amazonica,,QUII_Quiama,3324,1724,simple,ok,10,10,10,828,33,1,201,branch,572,101,270,234,159,440,16,,
+7,2017,8,2,1600,220231,Annonaceae,Fusaea,longifolia,,ANNO_Fuslon,3735,2135,simple,ok,5,5,5,480,16,1,168,branch,332,104,119,105,56,239,6,,
+7,2017,8,2,1600,220285,Sapindaceae,Talisia,sp.6.FITO,,SAPI_Talsp6,3729,2129,compound,ok?,1,,1,565,182,1.5,159,branch,NA,NA,NA,NA,NA,325,111,arch;light,ok
+7,2017,8,2,1600,220286,Lecythidaceae,Eschweilera,grandiflora,,LECY_Escgra,4235,2635,simple,ok,5,5,5,1147,70,1.5,226,branch,577,104,346,317,150,512,24,trait,
+7,2017,8,2,1600,220288,Sapotaceae,Pouteria,filipes,,SAPO_Poufil,3655,2055,simple,ok,5,5,5,917,46,1.5,209,branch,465,87,170,156,102,426,18,,
+7,2017,8,2,1600,220291,Myrtaceae,Eugenia,coffeifolia,,MYRT_Eugcof,3857,2257,simple,ok,10,10,10,352,12,1.5,206,branch,409,100,163,149,92,149,4,rgr,
+7,2017,8,2,1600,220295,Fabaceae,Sclerolobium,large.foliaceous.stipules.FITO,,FABA_Scllar,3716,2116,even-pinnate,ok?,0.5,,1,512,489,1,164,branch,NA,NA,NA,NA,NA,291,275,qr;rgr,ok
+7,2017,8,2,1600,220296,Sapotaceae,Pouteria,erythrochrysa,,SAPO_Pouery,3434,1834,simple,ok,7,7,7,607,38,1.5,160,branch,788,106,667,575,391,324,15,,
+7,2017,8,2,1600,220297,Burseraceae,Protium,hebetatum,,BURS_Proheb,3746,2146,odd-pinnate,ok?,1,,1,468,140,1.5,177,branch,1010,106,799,717,406,257,59,,
+7,2017,8,2,1600,220298,Lauraceae,Licaria,cannella,cannella,LAUR_Liccan,4126,2526,simple,ok,5,5,5,550,48,1,262,branch,435,100,174,163,83,260,16,trait,ok
+7,2017,8,2,1600,220299,Moraceae,,,,,3906,2306,simple,ok,11,11,11,403,12,1.5,190,branch,NA,NA,NA,NA,NA,186,4,,yes
+7,2017,8,2,1600,220304,Elaeocarpaceae,Sloanea,schomburgkii,,ELAE_Slosch,3903,2303,simple,ok,7,7,7,971,75,1.5,245,branch,853,102,543,462,337,470,34,,
+7,2017,8,2,1600,220306,Fabaceae,Bocoa,viridiflora,,FABA_Bocvir,3815,2215,compound,ok?,1,,1,507,78,1,212,branch,789,94,564,492,375,277,41,,ok
+7,2017,8,2,1600,220307,Sapotaceae,Manilkara,bidentata,,SAPO_Manbid,3837,2237,simple,ok,5,5,5,2482,227,1.25,302,branch,748,91,450,414,259,1092,78,,YES
+7,2017,8,2,1600,220311,Dichapetalaceae,Tapura,guianensis,,DICH_Tapgui,4332,2732,simple,ok,5,5,5,1052,41,1,360,branch,536,104,277,274,139,429,13,,
+7,2017,8,2,1600,220315,Myrtaceae,Eugenia,sp.3.PFRD,,MYRT_Eugsp3,3445,1845,simple,ok,6,6,6,576,18,1,249,branch,448,93,172,160,90,180,5,,
+7,2017,8,2,1600,220321,Sapotaceae,,,,,3748,2148,simple,ok,3,3,3,1070,132,1.5,215,branch,718,106,497,470,223,402,35,,yes
+7,2017,8,2,1630,220323,Myrtaceae,Eugenia,cupulata,,MYRT_Eugcup,3510,1880,simple,ok,5,5,5,1418,94,2,202,branch,540,92,233,222,98,724,36,qr,
+7,2017,8,2,1600,220326,Annonaceae,Guatteria,sp.1.PFRD,,ANNO_Guasp1,3414,1814,simple,ok,6,6,6,670,27,2,197,branch,507,92,159,165,60,257,9,qr;arch,
+7,2017,8,2,1600,220332,Chrysobalanaceae,Licania,sp.1.FITO,,CHRY_Licsp1,4312,2712,simple,ok,5,5,5,1144,65,1.5,192,branch,579,103,251,220,137,552,24,,ok
+7,2017,8,2,1600,220334,Fabaceae,Zygia,juruana,,FABA_Zygjur,4214,2614,geminate-pinnate,ok?,1,,1,859,149,1.25,183,branch,356,105,137,123,82,415,67,,
+7,2017,8,2,1600,220335,Annonaceae,,,,,3835,2235,simple,image 001 missing,3,3,3,972,41,1,240,branch,604,100,302,309,120,453,14,,yes
+7,2017,8,2,1600,220339,Opiliaceae,Agonandra,silvatica,,OPIL_Agosil,3456,1856,simple,ok,8,8,8,496,6,1,186,branch,188,94,37,31,20,126,0,,
+7,2017,8,2,1630,220340,Malvaceae,Theobroma,sylvestre,,MALV_Thesyl,4305,2675,simple,ok,5,5,5,1685,104,1.5,209,branch,NA,NA,NA,NA,NA,708,26,,
+7,2017,8,2,1600,220342,Chrysobalanaceae,Couepia,longipendula,,CHRY_Coulon,3440,1840,simple,ok,7,7,7,675,37,1,189,branch,528,93,288,239,193,304,15,,ok
+7,2017,8,2,1600,220344,Sapotaceae,Micropholis,guyanensis,guyanensis,SAPO_Micguy-g,3318,1718,simple,ok,8,8,8,333,13,1,238,branch,368,93,138,127,81,162,6,,ok
+7,2017,8,2,1600,220345,Elaeocarpaceae,Sloanea,guianensis,,ELAE_Slogui,3738,2138,simple,image 003 missing,4,4,4,630,30,1,181,branch,432,102,195,176,96,329,13,,
+7,2017,8,2,1600,220351,Dichapetalaceae,Tapura,guianensis,,DICH_Tapgui,4254,2654,simple,ok,5,5,5,962,50,1.5,385,branch,643,87,290,292,153,365,16,,
+7,2017,8,2,1600,220357,Chrysobalanaceae,Couepia,guianensis,guianensis,CHRY_Cougui,4129,2529,simple,ok,5,5,5,792,36,1,196,branch,457,101,191,167,102,316,10,,ok
+7,2017,8,2,1600,220358,Fabaceae,Inga,stipularis,,FABA_Ingstp,3945,2345,even-pinnate,"ok?, but image 3 had wrong id (202358)",1,,2,1048,261,1,271,branch,576,94,243,244,131,403,100,,
+7,2017,8,2,1600,220371,Lauraceae,Aniba,canelilla,,LAUR_Anican,3941,2341,simple,ok,9,9,9,703,33,1,188,branch,276,95,74,69,31,305,12,,
+7,2017,8,2,1600,220372,Sapotaceae,Pouteria,campanulata,,SAPO_Poucam,3503,1903,simple,ok,4,4,4,772,70,1,213,branch,671,89,386,353,186,355,22,,ok
+7,2017,8,2,1600,220382,Rubiaceae,Palicourea,amapaensis,,RUBI_Palama,3914,2314,simple,ok,10,10,10,742,42,1.5,161,branch,815,93,437,475,172,258,9,qr,
+7,2017,8,2,1600,220386,Lecythidaceae,Eschweilera,coriacea,,LECY_Esccor,3824,2224,simple,ok,4,4,4,916,49,1,231,branch,485,107,241,226,87,381,17,rgr,
+7,2017,8,2,1600,220388,Sapindaceae,Talisia,mollis,,SAPI_Talmol,4200,2600,compound,ok?,2,,2,648,329,1.5,227,branch,NA,NA,NA,NA,NA,365,147,,ok
+7,2017,8,2,1600,220393,Chrysobalanaceae,Hirtella,myrmecophila,,CHRY_Hirmyr,3720,2120,simple,ok,5,5,5,466,24,1.5,139,branch,330,89,85,72,49,226,8,qr;rgr,
+7,2017,8,2,1600,220394,Apocynaceae,Tabernaemontana,muricata,,APOC_Tabmur,3500,1900,simple,ok,2,2,2,1034,41,1,245,branch,611,101,384,408,131,343,10,,
+7,2017,8,2,1600,220405,,,,,,3928,2328,simple,ok,2,2,2,1642,178,1,223,branch,NA,NA,NA,NA,NA,650,49,qr,yes
+7,2017,8,3,1630,220487,Sapindaceae,Talisia,cerasina,,SAPI_Talcer,3410,1780,compound,ok?,1,,1,1447,280,1,235,branch,NA,NA,NA,NA,NA,775,161,qr;rgr,
+7,2017,8,3,1630,220491,Lauraceae,,,,,4054,2424,simple,ok,10,10,10,579,36,1.5,195,branch,531,108,266,234,151,285,12,,yes
+7,2017,8,3,1630,220493,Clusiaceae,Dystovomita,brasiliensis,,CLUS_Dysbra,4405,2775,simple,ok,2,2,2,2509,203,1.5,313,branch,929,104,847,729,432,974,59,,
+7,2017,8,3,1630,220496,Burseraceae,Protium,opacum,,BURS_Proopa,3303,1673,odd-pinnate,ok?,1,,1,749,124,1.5,159,branch,411,108,180,161,87,338,42,trait,
+7,2017,8,3,1630,220507,Putranjivaceae,Drypetes,variabilis,,PUTR_Dryvar,3750,2120,simple,ok,5,5,5,757,27,1,200,branch,452,83,189,167,105,307,8,qr,
+7,2017,8,3,1630,220508,Sapotaceae,Pouteria,petiolata,,SAPO_Poupet,4325,2695,simple,ok,3,3,3,462,41,1,175,branch,560,99,278,244,150,231,15,trait,ok
+7,2017,8,3,1630,220510,Myrtaceae,Eugenia,cupulata,,MYRT_Eugcup,4310,2680,simple,ok,5,5,5,798,43,1.5,164,branch,588,101,335,284,170,386,14,,
+7,2017,8,3,1630,220512,Melastomataceae,Mouriri,duckeana/duckeanoides PP,,MELA_Mouduc,3202,1572,simple,ok,17,17,17,187,2,1.25,153,branch,NA,NA,NA,NA,NA,83,0,,ok
+7,2017,8,3,1630,220513,Euphorbiaceae,Micrandropsis,scleroxylon,,EUPH_Micscl,4210,2580,simple,ok,5,5,5,1079,75,1.5,206,branch,501,85,186,164,97,466,24,rgr;tap,
+7,2017,8,3,1630,220521,Fabaceae,Peltogyne,venosa/catingae PP,,FABA_Pelven,3808,2178,geminated,ok?,3,,3,719,81,1,155,branch,468,93,241,201,145,287,31,rgr,yes
+7,2017,8,3,1630,220523,Meliaceae,Trichilia,pallida,,MELI_Tripal,3725,2095,compound,ok?,1,,1,1432,331,1.25,165,branch,NA,NA,NA,NA,NA,548,117,,
+7,2017,8,3,1630,220526,Fabaceae,Tachigali,plumbea,,FABA_Tacplu,4005,2375,even-pinnate,ok?,1,,1,2731,772,1,178,branch,NA,NA,NA,NA,NA,1289,349,,
+7,2017,8,3,1630,220527,Myrtaceae,Myrcia,grandis,,MYRT_Myrgra,3852,2222,simple,ok,10,10,10,293,8,1,253,branch,595,113,409,334,248,153,4,,
+7,2017,8,5,1630,220533,Elaeocarpaceae,Sloanea,guianensis,,ELAE_Slogui,3310,1680,NA,ok,4,,4,459,35,NA,147,branch,379,105,147,128,71,238,15,trait,
+7,2017,8,5,1630,220535,Chrysobalanaceae,Licania,coriacea,,CHRY_Liccor,3840,2210,NA,ok,5,,5,372,11,NA,222,branch,484,96,188,182,118,170,5,,ok
+7,2017,8,3,1630,220538,Fabaceae,Inga,rubiginosa,,FABA_Ingrub,3420,1790,even-pinnate,ok?,1,,1,623,111,1,194,branch,NA,NA,NA,NA,NA,252,40,,
+7,2017,8,3,1630,220539,Burseraceae,Protium,ferrugineum,,BURS_Profer,3425,1795,odd-pinnate,ok?,1,,1,442,71,1,144,branch,594,108,332,316,202,209,31,,ok
+7,2017,8,3,1630,220540,Elaeocarpaceae,Sloanea,laxiflora,,ELAE_Slolax,4314,2684,simple,ok,5,5,5,646,47,1,183,branch,616,98,316,292,164,319,19,qr,
+7,2017,8,3,1630,220546,Sapotaceae,Pouteria,coriacea,,SAPO_Poucor,3734,2104,simple,ok,5,5,5,566,22,1.25,180,branch,337,100,122,102,61,242,7,,
+7,2017,8,3,1630,220556,Annonaceae,Duguetia,chrysea,,ANNO_Dugchr,4320,2690,simple,ok,7,7,7,324,9,1,140,branch,426,99,177,161,95,163,5,,ok
+7,2017,8,3,1630,220557,Sapindaceae,Talisia,cerasina,,SAPI_Talcer,3520,1890,compound,ok?,1,,1,1612,292,1,163,branch,NA,NA,NA,NA,NA,805,153,,
+7,2017,8,3,1630,220560,Sapotaceae,Pouteria,transparente PP,,SAPO_Poutra,3935,2305,simple,ok,5,5,5,304,25,1.25,149,branch,364,100,130,114,59,130,6,,
+7,2017,8,3,1630,220561,Violaceae,Amphirrhox,longifolia,,VIOL_Amplon,3900,2270,simple,ok,5,5,5,788,40,1.25,217,branch,485,110,248,220,123,294,12,,
+7,2017,8,3,1630,220566,Euphorbiaceae,Pausandra,macropetala,,EUPH_Paumac,3757,2127,simple,ok,1,1,1,1592,140,1.25,211,branch,NA,NA,NA,NA,NA,774,52,,
+7,2017,8,3,1630,220568,Fabaceae,Inga,capitata,,FABA_Ingcap,4115,2485,even-pinnate,ok?,2,,2,948,102,1.25,228,branch,610,100,292,278,150,288,28,,
+7,2017,8,3,1630,220574,Chrysobalanaceae,,,,,4423,2793,simple,ok,7,7,7,497,19,1,139,branch,653,94,365,310,211,258,6,light;arch,yes
+7,2017,8,3,1630,220576,Burseraceae,Protium,opacum,,BURS_Proopa,3400,1770,odd-pinnate,ok?,1,,1,484,142,1,153,branch,NA,NA,NA,NA,NA,218,51,,
+7,2017,8,3,1630,220578,Erythroxylaceae,Erythroxylum,macrophyllum,,ERYT_Erymac,4145,2515,simple,ok,3,3,3,819,31,1,321,branch,544,111,330,304,152,326,8,trait,ok
+7,2017,8,3,1630,220582,Sapindaceae,Cupania,sp.1/rubiginosa/scrobicula.PFRD,,SAPI_Cupsrs,3940,2310,compound,ok?,1,,1,822,415,1.25,163,branch,NA,NA,NA,NA,NA,390,159,,ok
+7,2017,8,3,1630,220596,Malvaceae,Lueheopsis,rosea,,MALV_Lueros,3457,1827,simple,ok,5,5,5,432,29,1,195,branch,424,102,170,154,69,197,8,qr;trait,ok
+7,2017,8,3,1630,220604,Ochnaceae,Ouratea,coccinea,,OCHN_Ourcoc,4142,2512,simple,ok,5,5,5,267,7,1,188,branch,474,86,212,184,131,140,2,trait,
+7,2017,8,3,1630,220605,Lecythidaceae,Eschweilera,pedicellata,,LECY_Escped,3321,1691,simple,ok,6,6,6,426,12,1,181,branch,702,99,454,402,240,193,4,,
+7,2017,8,3,1630,220609,Chrysobalanaceae,Hirtella,myrmecophila,,CHRY_Hirmyr,4137,2507,simple,ok,5,5,5,379,20,1,144,branch,429,107,199,170,112,176,6,rgr;mstem,
+7,2017,8,3,1630,220615,Myristicaceae,Virola,guggenheimii,,MYRI_Virgug,4446,2816,simple,ok,3,3,3,2603,155,1,117,branch,767,113,461,502,201,1066,34,,
+7,2017,8,3,1630,220620,Fabaceae,Peltogyne,venosa/catingae PP,,FABA_Pelven,3830,2200,geminated,ok?,3,,3,360,48,1,140,branch,313,98,103,86,54,166,20,,yes
+7,2017,8,3,1630,220635,Fabaceae,Zygia,racemosa,,FABA_Zygrac,3225,1595,bipinnated,ok?,2.5,,5,398,87,1,175,branch,386,89,147,128,80,171,33,rgr,ok
+7,2017,8,3,1630,220640,Sapotaceae,Pouteria,campanulata,,SAPO_Poucam,3335,1705,simple,ok,3,3,3,1262,112,1,222,branch,504,89,211,222,101,564,37,,ok
+7,2017,8,3,1630,220641,Sapotaceae,,,,,4034,2404,simple,ok,6,6,6,738,54,1,149,branch,493,113,317,282,182,377,20,qr,yes
+7,2017,8,3,1630,220656,Myrtaceae,Myrcia,magnoliifolia,,MYRT_Myrmag,4025,2395,simple,ok,5,5,5,802,36,1,218,branch,380,100,137,123,73,342,13,,
+7,2017,8,3,1630,220657,Annonaceae,Guatteria,olivacea,forma Plateau MV,ANNO_Guaoli,4023,2393,simple,ok,5,5,5,449,9,1,163,branch,402,100,137,123,68,168,2,trait,yes
+7,2017,8,3,1630,220658,Myristicaceae,Iryanthera,laevis,,MYRI_Irylae,3440,1810,simple,"ok, but image had wrong id (220656)",5,5,5,347,14,1,166,branch,433,98,154,146,71,151,5,,
+7,2017,8,3,1630,220660,Sapotaceae,Pouteria,campanulata,,SAPO_Poucam,3427,1797,simple,ok,5,5,5,1199,64,1,214,branch,365,92,133,118,61,492,18,rgr,ok
+7,2017,8,3,1630,220664,Myrtaceae,Myrcia,paivae,,MYRT_Myrpai,3450,1820,simple,ok,9,9,9,163,4,1,138,branch,206,101,48,46,24,76,1,,
+7,2017,8,3,1630,220667,Fabaceae,Dipteryx,odorata,,FABA_Dipodo,3525,1895,compound,ok?,1,,1,1154,345,1,152,branch,NA,NA,NA,NA,NA,486,118,qr,ok
+7,2017,8,3,1630,220677,Fabaceae,Inga,capitata,,FABA_Ingcap,3330,1700,even-pinnate,ok?,1.5,,3,531,154,1.5,214,branch,743,101,472,461,234,201,58,,
+7,2017,8,3,1630,220687,Myrtaceae,Myrcia,rufipila,,MYRT_Myrruf,3738,2108,simple,ok,20,20,20,415,10,1,185,branch,616,96,377,305,252,226,6,,ok
+7,2017,8,3,1630,220694,Myristicaceae,Iryanthera,laevis,,MYRI_Irylae,4105,2475,simple,ok,5,5,5,663,48,1.5,239,branch,474,101,216,216,106,300,14,qr;trait,
+7,2017,8,3,1630,220695,Burseraceae,Protium,paniculatum,modestum,BURS_Propan-M,3638,2008,odd-pinnate,ok?,1,,2,606,278,1.5,176,branch,NA,NA,NA,NA,NA,342,134,,ok
+7,2017,8,3,1630,220696,Burseraceae,Protium,,,,3630,2000,compound,ok?,0.5,,1,629,500,1.5,144,branch,NA,NA,NA,NA,NA,314,207,,YES
+7,2017,8,3,1630,220698,Sapotaceae,Micropholis,guyanensis,guyanensis,SAPO_Micguy-g,4048,2418,simple,ok,10,10,10,580,22,1,217,branch,507,109,236,215,125,256,6,qr,ok
+7,2017,8,3,1630,220699,Fabaceae,Hymenaea,parvifolia,,FABA_Hympar,4110,2480,geminated,ok?,8,,8,333,11,1.25,133,branch,503,86,249,203,164,155,4,,
+7,2017,8,3,1630,220710,Burseraceae,Protium,ferrugineum,,BURS_Profer,3730,2100,odd-pinnate,ok?,1,,1,861,259,1.5,128,branch,NA,NA,NA,NA,NA,452,132,,ok
+7,2017,8,5,1630,220712,Ochnaceae,Ouratea,coccinea,,OCHN_Ourcoc,4410,2780,simple,ok,5,5,5,1348,65,1.25,261,branch,549,111,327,297,176,653,27,rgr,
+7,2017,8,5,1630,220720,Lauraceae,Aniba,sp.1.FITO,,LAUR_Anisp1,4039,2409,simple,ok,10,10,10,236,12,1,175,branch,526,102,265,246,142,100,5,,
+7,2017,8,5,1630,220721,Moraceae,Naucleopsis,caloneura,escabra PP,MORA_Naucal-e,4200,2570,simple,ok,3,3,3,2269,192,1.5,326,branch,1040,110,970,932,430,940,49,,ok
+7,2017,8,5,1630,220727,Euphorbiaceae,Pausandra,macropetala,,EUPH_Paumac,3800,2170,simple,ok,2,2,2,1731,193,3,194,branch,NA,NA,NA,NA,NA,825,61,,
+7,2017,8,5,1630,220734,Lecythidaceae,Eschweilera,grandiflora,,LECY_Escgra,3319,1689,simple,ok,3,3,3,627,32,1,171,branch,522,94,264,235,112,277,11,,YES
+7,2017,8,5,1630,220736,Lecythidaceae,Eschweilera,grandiflora,,LECY_Escgra,3847,2217,simple,ok,5,5,5,1123,94,1,179,branch,791,99,585,527,306,533,37,,
+7,2017,8,5,1630,220738,Melastomataceae,Miconia,punctata,,MELA_Micpun,4429,2799,simple,"ok, but image 002 had wrong id (220378)",8,8,8,455,13,1,162,branch,389,108,155,137,84,249,4,,YES
+7,2017,8,5,1630,220739,Elaeocarpaceae,Sloanea,sp.12.FITO,,ELAE_Slos12,3340,1710,simple,ok,2,2,2,426,35,1,154,branch,NA,NA,NA,NA,NA,215,13,trait,ok
+7,2017,8,5,1630,ok,Ochnaceae,Ouratea,discophora,,OCHN_Ourdis,4436,2806,simple,ok,5,5,5,1123,42,1,239,branch,730,105,545,495,NA,581,21,,
+7,2017,8,5,1630,220762,Ochnaceae,Ouratea,discophora,,OCHN_Ourdis,4155,2525,simple,ok,5,5,5,737,16,1.25,219,branch,642,117,422,358,249,350,8,,
+7,2017,8,5,1630,220763,Lecythidaceae,Eschweilera,pedicellata,,LECY_Escped,3314,1684,simple,ok,5,5,5,244,8,1,124,branch,416,99,166,141,93,103,2,trait,
+7,2017,8,5,1630,220777,Chrysobalanaceae,Licania,heteromorpha,,CHRY_Lichet,4443,2813,simple,ok,5,5,5,563,48,1.25,208,branch,413,100,186,160,101,275,18,,
+7,2017,8,5,1630,220778,Burseraceae,Protium,opacum,,BURS_Proopa,4257,2627,odd-pinnate,ok?,1,,2,693,169,1.5,150,branch,401,110,177,162,81,276,67,,
+7,2017,8,5,1630,220779,Fabaceae,Inga,gracilifolia,,FABA_Inggra,3215,1585,even-pinnate,ok?,5,,5,428,64,1.75,210,branch,434,104,209,186,111,154,19,qr,ok
+7,2017,8,5,1630,220782,Lecythidaceae,Eschweilera,amazoniciformis,,LECY_Escama,3237,1607,simple,ok,20,20,20,214,5,1.5,165,branch,314,90,101,88,55,122,2,,
+7,2017,8,5,1630,220789,Sapotaceae,Manilkara,bidentata,,SAPO_Manbid,4439,2809,simple,ok,3,3,3,1545,206,1,261,branch,559,109,367,333,183,686,64,,yes
+7,2017,8,5,1630,220812,Lauraceae,,,,,4416,2786,simple,ok,10,10,10,671,26,1.5,159,branch,426,110,202,171,112,320,11,qr;rgr,yes
+7,2017,8,5,1630,220861,Violaceae,Rinorea,guianensis,,VIOL_Ringui,3835,2205,simple,ok,5,5,5,327,10,1.25,147,branch,338,98,106,86,47,100,3,,
+7,2017,8,5,1630,220871,Fabaceae,Bocoa,viridiflora,,FABA_Bocvir,3415,1785,compound,ok?,1,,1,740,121,1,149,branch,NA,NA,NA,NA,NA,358,56,,ok
+7,2017,8,5,NA,220872,Sapindaceae,Talisia,sp.6.FITO,,SAPI_Talsp6,NA,NA,compound,NA,NA,,NA,NA,NA,1.5,NA,branch,NA,NA,NA,NA,NA,NA,NA,,NA
+7,2017,8,5,1630,220878,Lecythidaceae,Gustavia,elliptica,,LECY_Gusell,4219,2589,simple,ok,9,9,9,668,43,1,169,branch,563,107,338,301,140,230,12,mstem,YES
+7,2017,8,5,1630,220880,Sapotaceae,Pouteria,ambelaniifolia,,SAPO_Pouamb,4236,2606,simple,"ok, but image had wrong id (220800)",3,3,3,1424,226,1,226,branch,615,110,382,333,209,668,79,,
+7,2017,8,5,1630,220886,Malvaceae,Theobroma,sylvestre,,MALV_Thesyl,4150,2520,simple,ok,5,5,5,849,64,1.5,204,branch,410,103,160,166,67,370,17,,
+7,2017,8,5,1630,220889,Sapindaceae,Cupania,hispida,,SAPI_Cuphis,3957,2327,compound,ok?,1,,1,1391,682,1.75,202,branch,NA,NA,NA,NA,NA,566,207,,ok
+7,2017,8,5,1630,220914,Moraceae,Naucleopsis,caloneura,escabra PP,MORA_Naucal-e,4215,2585,simple,ok,5,5,5,1088,40,1.5,231,branch,576,114,307,292,153,485,12,,ok
+7,2017,8,5,1630,220916,Myrtaceae,Myrcia,paivae,,MYRT_Myrpai,3817,2187,simple,ok,10,10,10,289,8,1.5,140,branch,495,98,231,209,117,150,4,,
+7,2017,8,5,1630,220919,Burseraceae,Protium,hebetatum,,BURS_Proheb,3805,2175,odd-pinnate,ok?,1,,1,407,89,1.5,146,branch,757,99,496,450,259,210,36,,
+7,2017,8,5,1630,220920,Moraceae,Sorocea,muriculata,muriculata,MORA_Sormur-m,3823,2193,simple,ok,10,10,10,362,8,1,128,branch,458,78,169,146,88,166,2,,yes
+7,2017,8,5,1630,220923,Humiriaceae,Endopleura,uchi,,HUMI_Enduch,3815,2185,simple,ok,5,5,5,906,47,1,127,branch,509,113,278,339,158,473,18,,
+7,2017,8,5,1630,220931,Anacardiaceae,Anacardium,parvifolium,,ANAC_Anapar,3505,1875,simple,ok,8,8,8,878,56,1,105,branch,605,108,348,323,201,382,16,light;qr;arch,
+7,2017,8,5,1630,220938,Fabaceae,Inga,capitata,,FABA_Ingcap,3502,1872,even-pinnate,ok?,1,,2,586,143,1,202,branch,485,100,226,214,107,199,44,,
+7,2017,8,5,1630,220940,Burseraceae,Protium,pilosum,,BURS_Propis,4248,2618,odd-pinnate,ok?,2,,2,469,80,1,158,branch,516,111,272,239,147,237,33,,yes
+7,2017,8,5,1630,220941,Burseraceae,Protium,hebetatum,,BURS_Proheb,3531,1901,odd-pinnate,ok?,0.5,,1,527,348,1,110,branch,NA,NA,NA,NA,NA,281,163,trait,
+7,2017,8,5,1630,220942,Sapindaceae,Talisia,mollis,,SAPI_Talmol,3528,1898,compound,ok?,1,,1,1087,387,1,192,branch,NA,NA,NA,NA,NA,590,215,qr,ok
+7,2017,8,5,1630,220944,Violaceae,Amphirrhox,longifolia,,VIOL_Amplon,4253,2623,simple,image 001 missing,5,5,5,878,45,1,208,branch,546,108,335,300,170,333,17,,
+7,2017,8,5,1630,220946,Dichapetalaceae,Tapura,guianensis,,DICH_Tapgui,4225,2595,simple,ok,4,4,4,653,20,1,299,branch,437,104,208,195,96,210,6,,
+7,2017,8,5,1630,220950,Euphorbiaceae,Micrandropsis,scleroxylon,,EUPH_Micscl,4231,2601,simple,ok,5,5,5,1128,101,1.25,181,branch,597,105,369,320,217,538,36,,
+6,2017,7,24,1120,230012,Fabaceae,Stryphnodendron,racemiferum,,FABA_Strrac,1953,833,bipinnated,ok?,0.5,,1,1152,753,1,144,branch,NA,NA,NA,NA,NA,423,281,qr,ok
+6,2017,7,24,1120,230013,Fabaceae,Inga,paraensis,,FABA_Ingpar,1904,784,even-pinnate,ok?,1,,2,453,80,1,NA,branch,411,92,139,135,67,154,29,,
+6,2017,7,24,1120,230014,Chrysobalanaceae,Licania,heteromorpha,heteromorpha FITO,CHRY_Lichet-h,NA,NA,simple,ok,5,5,5,523,24,1,181,branch,467,108,301,247,172,253,8,,YES
+6,2017,7,24,1120,230019,Chrysobalanaceae,Licania,bracteata,,CHRY_Licbra,2010,890,simple,ok,5,5,5,1406,82,1,190,branch,441,91,174,145,92,737,27,,ok
+6,2017,7,24,1120,230020,Lecythidaceae,Eschweilera,grandiflora,,LECY_Escgra,2000,880,simple,ok,5,5,5,1376,75,1,189,branch,659,101,387,352,178,675,30,,
+6,2017,7,24,1120,230026,Lecythidaceae,Eschweilera,wachenheimii,,LECY_Escwac,1914,794,simple,ok,5,5,5,183,5,1,151,branch,542,99,263,240,131,83,2,,
+6,2017,7,24,1120,230031,Annonaceae,Duguetia,flagellaris,,ANNO_Dugfla,2129,1009,simple,ok,4,4,4,380,26,1,189,branch,577,112,347,308,146,404,11,qr,
+6,2017,7,24,1120,230036,Burseraceae,Protium,hebetatum,,BURS_Proheb,1949,829,odd-pinnate,ok?,1,,2,561,170,1,174,branch,492,92,215,197,92,268,63,,
+6,2017,7,24,1120,230044,Chrysobalanaceae,Licania,membranacea,,CHRY_Licmem,2104,984,simple,ok,5,5,5,632,41,1.5,205,branch,403,100,183,141,112,308,15,,ok
+6,2017,7,24,1120,230046,Chrysobalanaceae,Parinari,montana,,CHRY_Parmon,1940,820,simple,ok,9,9,9,675,19,1,204,branch,313,106,127,103,69,329,5,,ok
+6,2017,7,24,1120,230047,Meliaceae,Trichilia,areolata,,MELI_Triare,1935,815,compound,ok?,3,,3,457,38,1,193,branch,487,96,230,200,119,195,16,,ok
+6,2017,7,24,1120,230052,Fabaceae,Inga,paraensis,,FABA_Ingpar,NA,NA,even-pinnate,ok?,3,,3,1205,158,1,226,branch,555,105,309,319,144,434,59,,
+6,2017,7,24,1120,230071,Fabaceae,Zygia,juruana,,FABA_Zygjur,NA,NA,geminate-pinnate,ok?,1,,1,877,96,1,160,branch,410,96,163,138,92,408,42,,
+6,2017,7,24,1120,230084,Humiriaceae,Sacoglottis,guianensis,,HUMI_Sacgui,1850,730,simple,ok,10,10,10,363,9,1,184,branch,464,97,209,182,118,156,4,,ok
+6,2017,7,24,1120,230096,Moraceae,Naucleopsis,caloneura,escabra PP,MORA_Naucal-e,NA,NA,simple,ok,5,5,5,1337,87,1,280,branch,655,112,480,443,228,654,27,,ok
+6,2017,7,24,1120,230131,Nyctaginaceae,Neea,ovalifolia,B PP,NYCT_Neeova,1856,736,simple,ok,10,10,10,478,15,1,208,branch,371,114,182,157,100,180,4,,
+6,2017,7,24,1120,230135,Myrtaceae,Myrcia,fenestrata,,MYRT_Myrfen,2131,1011,simple,ok,10,10,10,519,7,1,236,branch,386,107,150,125,91,232,3,,
+6,2017,7,24,1120,230145,Myrtaceae,Eugenia,feijoi,,MYRT_Eugfei,1843,723,simple,ok,7,7,7,270,0,1,163,branch,468,99,218,181,126,119,2,,
+6,2017,7,24,1120,230146,Chrysobalanaceae,Licania,membranacea,,CHRY_Licmem,1908,788,simple,ok,5,5,5,856,39,1,193,branch,464,89,203,157,123,387,14,,ok
+6,2017,7,24,1120,230147,Chrysobalanaceae,Licania,coriacea,,CHRY_Liccor,1930,810,simple,ok,7,7,7,575,19,1,221,branch,435,103,179,152,107,273,9,,ok
+6,2017,7,24,1120,230148,Burseraceae,Protium,hebetatum,,BURS_Proheb,2019,899,odd-pinnate,ok?,0.5,,1,544,319,1,156,branch,NA,NA,NA,NA,NA,307,145,,
+6,2017,7,24,1120,230150,Sapindaceae,Talisia,cerasina,,SAPI_Talcer,2101,981,compound,ok?,1,,1,852,364,1,172,branch,NA,NA,NA,NA,NA,466,218,,
+6,2017,7,24,1120,230151,Malpighiaceae,Pterandra,arborea,,MALP_Ptearb,1825,705,simple,image 002 missing,5,5,5,329,19,1,208,branch,625,93,355,312,174,131,6,,yes
+6,2017,7,24,1120,230153,Elaeocarpaceae,Sloanea,pubescens,,ELAE_Slopub,2141,1021,simple,ok,2,2,2,848,126,1,289,branch,NA,NA,NA,NA,NA,402,43,trait,ok
+6,2017,7,24,1120,230154,Lecythidaceae,Eschweilera,romeu-cardosoi,,LECY_Escrom,NA,NA,NA,ok,5,,5,653,NA,NA,213,branch,521,101,259,210,149,328,14,,
+6,2017,7,24,1120,230158,Burseraceae,Protium,hebetatum,,BURS_Proheb,2106,986,odd-pinnate,ok?,1,,1,839,225,1,184,branch,553,106,369,321,177,459,96,,
+6,2017,7,24,1120,230182,Sapotaceae,Pouteria,fulva,Forma A PP,SAPO_Pouful,2057,937,simple,ok,5,5,5,2871,198,2,225,branch,580,102,368,360,167,1153,61,,
+6,2017,7,24,1120,230186,Sapotaceae,Pouteria,cladantha,,SAPO_Poucla,1831,711,simple,ok,5,5,5,378,16,1,213,branch,478,106,271,216,160,193,7,,
+6,2017,7,24,1120,230209,Sapotaceae,Pouteria,erythrochrysa,,SAPO_Pouery,2121,1001,simple,ok,5,5,5,677,46,1,178,branch,425,100,188,156,96,321,18,,YES
+6,2017,7,24,1120,230224,Melastomataceae,Henriettea,caudata,,MELA_Hencau,1806,686,simple,ok,5,5,5,603,37,1,139,branch,771,111,692,560,422,213,11,,ok
+6,2017,7,24,1120,230234,Anacardiaceae,Astronium,lecointei,,ANAC_Astlec,1814,694,odd-pinnate,ok?,0.5,,1,368,239,1,114,branch,NA,NA,NA,NA,NA,168,107,qr,ok
+6,2017,7,26,1500,230275,Salicaceae,Ryania,speciosa,,SALI_Ryaspe,3313,1813,simple,ok,9,9,9,535,12,1,144,branch,407,102,169,147,75,214,3,,
+6,2017,7,26,1500,230279,Lecythidaceae,Eschweilera,wachenheimii,,LECY_Escwac,3308,1808,simple,ok,5,5,5,295,16,1.5,162,branch,675,101,439,388,246,113,4,,
+6,2017,7,26,1500,230283,Siparunaceae,Siparuna,decipiens,,SIPA_Sipdec,3728,2228,simple,ok,5,5,5,1008,57,1,270,branch,418,111,170,156,66,267,14,qr;rgr,
+6,2017,7,26,1500,230289,Fabaceae,Inga,sp.29.FITO,,FABA_Ings29,3951,2451,even-pinnate,ok?,2,,4,942,212,1.5,328,branch,589,108,362,392,183,413,86,,ok
+6,2017,7,26,1500,230295,Melastomataceae,Henriettea,caudata,,MELA_Hencau,3243,1743,simple,ok,5,5,5,519,33,1.5,130,branch,545,107,349,289,199,163,7,,
+6,2017,7,26,1500,230300,Fabaceae,Paramachaerium,ormosioides,forma A FITO,FABA_Parorm,3320,1820,compound,ok?,4,,4,578,65,1,128,branch,439,108,202,193,110,228,25,,ok
+6,2017,7,26,1500,230303,Sapotaceae,Chrysophyllum,sparsiflorum,,SAPO_Chrspa,3350,1850,simple,ok,12,12,12,688,45,2,185,branch,389,106,168,153,78,230,10,,
+6,2017,7,26,1500,230304,Chrysobalanaceae,Licania,sp.10.FITO,,CHRY_Lics10,3907,2407,simple,ok,6,6,6,449,21,2,182,branch,548,112,400,333,224,174,6,,ok
+6,2017,7,26,1500,230314,Rubiaceae,Duroia,sp.2.FITO,,RUBI_Dursp2,3843,2343,simple,ok,8,8,8,888,52,2,166,branch,375,112,153,135,83,377,17,qr,ok
+6,2017,7,26,1500,230315,Burseraceae,Protium,hebetatum,,BURS_Proheb,3255,1755,odd-pinnate,ok?,1,,1,685,202,1.5,143,branch,600,115,354,347,168,328,83,,
+6,2017,7,26,1500,230319,Quiinaceae,Quiina,amazonica,,QUII_Quiama,3850,2350,simple,ok,10,10,10,200,4,1,134,branch,597,108,408,345,262,108,0,,
+6,2017,7,26,1500,230323,Chrysobalanaceae,Licania,membranacea,,CHRY_Licmem,3829,2329,simple,ok,5,5,5,329,9,1.25,195,branch,383,110,231,191,144,149,3,,ok
+6,2017,7,26,1500,230332,Annonaceae,Duguetia,flagellaris,,ANNO_Dugfla,3847,2347,simple,ok,4,4,4,474,18,1.5,184,branch,463,105,234,213,102,215,9,,
+6,2017,7,26,1500,230338,Fabaceae,Sclerolobium,large.foliaceous.stipules.FITO,,FABA_Scllar,3837,2337,even-pinnate,ok?,0.5,,1,1262,1350,2,190,branch,NA,NA,NA,NA,NA,690,699,,ok
+6,2017,7,26,1500,230343,Burseraceae,Protium,occultum,,BURS_Proocc,3654,2154,simple,ok,10,10,10,363,21,2,181,branch,367,107,151,132,83,191,9,qr,ok
+6,2017,7,26,1500,230346,Myrtaceae,Eugenia,sp.2.PFRD,,MYRT_Eugsp2,3517,2017,simple,ok,7,7,7,949,24,1.5,244,branch,560,110,281,238,159,517,9,rgr,
+6,2017,7,26,1500,230348,Burseraceae,Protium,nitidifolium,,BURS_Pronit,3922,2422,odd-pinnate,ok?,2,,2,3220,1161,2,178,branch,NA,NA,NA,NA,NA,1607,467,,ok
+6,2017,7,26,1500,230373,Annonaceae,Fusaea,longifolia,,ANNO_Fuslon,3818,2318,simple,ok,6,6,6,578,22,2,170,branch,640,109,421,387,221,231,9,,
+6,2017,7,26,1500,230379,Rubiaceae,Coussarea,sp.9.FITO,,RUBI_Cousp9,3747,2247,simple,ok,5,5,5,947,61,1.5,218,branch,473,96,244,218,92,311,14,,
+6,2017,7,26,1500,230381,Lauraceae,Licaria,cannella,cannella,LAUR_Liccan,3927,2427,simple,ok,5,5,5,1148,74,2.5,274,branch,635,101,372,352,153,504,26,,ok
+6,2017,7,26,1500,230387,Lacistemataceae,Lacistema,sp.1.FITO,,LACI_Lacsp1,3814,2314,simple,ok,6,6,6,1430,78,1.5,285,branch,638,103,374,352,178,450,20,,
+6,2017,7,26,1500,230389,Melastomataceae,Miconia,punctata,,MELA_Micpun,3359,1859,simple,ok,4,4,4,923,71,1.5,197,branch,111,208,210,178,97,370,20,,
+6,2017,7,26,1500,230391,Burseraceae,Protium,occultum,,BURS_Proocc,3759,2259,simple,ok,6,6,6,375,20,1.5,141,branch,NA,NA,NA,NA,NA,203,10,,ok
+6,2017,7,26,1500,230394,Annonaceae,Duguetia,guianensis,,ANNO_Duggui,3711,2211,simple,ok,5,5,5,1040,33,1.5,197,branch,720,107,482,461,226,498,11,,
+6,2017,7,26,1500,230397,Fabaceae,Eperua,glabriflora,,FABA_Epegla,3856,2356,compound,ok?,2,,2,1572,267,1.5,197,branch,614,106,411,358,249,730,122,,
+6,2017,7,26,1500,230399,Lecythidaceae,Eschweilera,coriacea,,LECY_Esccor,4010,2510,simple,ok,4,4,4,968,52,2,204,branch,686,112,466,410,243,478,21,,
+6,2017,7,26,1500,230400,Sapotaceae,Pouteria,jariensis,,SAPO_Poujar,3903,2403,simple,ok,5,5,5,1227,96,1.5,258,branch,541,102,259,230,146,547,31,,
+6,2017,7,26,1500,230405,Fabaceae,Tachigali,myrmecophila,,FABA_Tacmyr,3859,2359,even-pinnate,ok?,1,,1,810,118,2,215,branch,421,107,185,162,113,386,55,q,
+6,2017,7,26,1500,230412,Euphorbiaceae,Pausandra,macropetala,,EUPH_Paumac,3934,2434,simple,ok,1,1,1,1675,173,1,199,branch,NA,NA,NA,NA,NA,641,52,,
+6,2017,7,26,1500,230413,Chrysobalanaceae,Licania,membranacea,,CHRY_Licmem,3338,1838,simple,ok,5,5,5,351,4,1,166,branch,471,115,279,229,174,166,4,,ok
+6,2017,7,26,1500,230422,Fabaceae,Zygia,racemosa,,FABA_Zygrac,3249,1749,bipinnated,ok?,3,,3,385,35,1,216,branch,513,125,351,219,162,175,15,qr;rgr,ok
+6,2017,7,26,1500,230423,Malvaceae,Scleronema,micranthum,,MALV_Sclmic,3822,2322,simple,image 003 missing and id was wrong for image 001 (230432),6,6,6,863,130,1,202,branch,721,105,529,496,274,335,34,,
+6,2017,7,26,1500,230425,Chrysobalanaceae,Licania,sp.1.FITO,,CHRY_Licsp1,3523,2023,simple,ok,5,5,5,591,35,1,206,branch,373,104,134,116,68,278,12,,ok
+6,2017,7,26,1500,230428,Annonaceae,Unonopsis,duckei,,ANNO_Unoduc,3706,2206,simple,ok,5,5,5,626,32,1,171,branch,425,115,174,156,95,330,14,,
+6,2017,7,26,1500,230429,Chrysobalanaceae,Licania,hypoleuca,,CHRY_Lichyp,3413,1913,simple,ok,10,10,10,215,5,1.5,145,branch,397,96,152,123,96,102,0,,ok
+6,2017,7,26,1500,230434,Annonaceae,Duguetia,asterotricha,,ANNO_Dugast,3946,2446,simple,ok,5,5,5,1239,82,1,251,branch,695,116,542,540,252,601,27,,ok
+6,2017,7,26,1500,230436,Fabaceae,Inga,sp.29.FITO,,FABA_Ings29,4001,2501,even-pinnate,ok?,2,,2,1233,156,2,227,branch,602,107,337,367,146,410,52,,ok
+6,2017,7,26,1500,230438,Rubiaceae,Amaioua,guianensis,,RUBI_Amagui,3718,2218,simple,ok,6,6,6,1245,74,2,206,branch,423,100,181,156,93,503,22,,
+6,2017,7,26,1500,230441,Fabaceae,Stryphnodendron,racemiferum,,FABA_Strrac,3343,1843,simple,ok,0.5,0.5,1,1037,723,2,148,branch,NA,NA,NA,NA,NA,391,269,light,ok
+6,2017,7,26,1500,230451,Sapindaceae,Talisia,cerasina,,SAPI_Talcer,4005,2505,compound,ok?,1,,1,1485,487,1.5,184,branch,NA,NA,NA,NA,NA,850,280,qr;arch,
+6,2017,7,26,1500,230456,Chrysobalanaceae,Hirtella,sp.3.PP,,CHRY_Hirsp3,3300,1800,simple,ok,12,12,12,520,14,1.5,170,branch,456,106,228,198,127,240,4,,
+6,2017,7,26,1500,230457,Lecythidaceae,Eschweilera,wachenheimii,,LECY_Escwac,3420,1920,simple,ok,5,5,5,270,11,1,153,branch,420,100,173,147,101,119,3,,
+6,2017,7,26,1500,230461,Sapotaceae,Manilkara,bidentata,,SAPO_Manbid,3940,2440,simple,ok,4,4,4,1708,186,1,246,branch,768,106,575,544,284,768,66,,YES
+6,2017,7,26,1500,230463,Dichapetalaceae,Tapura,guianensis,,DICH_Tapgui,3917,2417,simple,ok,5,5,5,1075,32,1.5,267,branch,482,104,258,236,122,375,12,,
+6,2017,7,26,1500,230464,Melastomataceae,Miconia,aff. hypoleuca,,MELA_Micaff,3402,1902,simple,ok,6,6,6,465,76,1.5,216,branch,503,103,259,226,144,206,21,,ok
+6,2017,7,26,1500,230465,Myrtaceae,Eugenia,sp.2.PFRD,,MYRT_Eugsp2,3725,2225,simple,ok,10,10,10,805,31,1.5,222,branch,431,101,209,183,120,403,12,qr,
+6,2017,7,26,1500,230467,Urticaceae,Pourouma,sp.A.PP,,URTI_PouspA,3752,2252,simple,ok,2,2,2,1112,416,1.5,251,branch,NA,NA,NA,NA,NA,469,106,,
+6,2017,7,26,1500,230468,Hypericaceae,Vismia,sp.2.FITO,,HYPE_Vissp2,3700,2200,simple,ok,10,10,10,673,47,1.5,186,branch,630,105,414,350,231,295,12,,ok
+6,2017,7,26,1500,230471,Chrysobalanaceae,Licania,sp.10.FITO,,CHRY_Lics10,3708,2208,simple,ok,5,5,5,376,9,1.5,151,branch,144,109,391,121,182,183,3,trait,ok
+6,2017,7,26,1500,230474,Apocynaceae,Aspidosperma,spruceanum,,APOC_Aspspr,4020,2520,simple,ok,11,11,11,870,45,1.5,212,branch,454,109,198,140,87,427,17,qr;rgr,ok
+6,2017,7,26,1500,230476,Myrtaceae,Eugenia,ferreiraeana,,MYRT_Eugfer,3435,1935,simple,ok,20,20,20,297,12,1.5,167,branch,520,107,302,250,77,157,6,,
+6,2017,7,26,1500,230478,Lecythidaceae,Eschweilera,grandiflora,,LECY_Escgra,3702,2202,simple,ok,3,3,3,778,54,1.5,179,branch,547,112,399,361,170,363,20,,
+6,2017,7,26,1500,230483,Burseraceae,Protium,hebetatum,,BURS_Proheb,3756,2256,odd-pinnate,ok?,1,,1,691,163,1.5,158,branch,395,85,129,119,52,347,66,qr,
+6,2017,7,26,1500,230485,Chrysobalanaceae,Licania,sp.10.FITO,,CHRY_Lics10,3408,1908,simple,ok,5,5,5,222,5,1.5,160,branch,454,107,242,203,135,92,4,,ok
+6,2017,7,26,1500,230486,Burseraceae,Protium,ferrugineum,,BURS_Profer,4014,2514,odd-pinnate,ok?,1,,1,642,131,1.5,141,branch,483,103,235,213,137,321,63,q,ok
+6,2017,7,26,1500,230516,Fabaceae,Inga,thibaudiana,Forma B PP,FABA_Ingthi-B,3425,1925,even-pinnate,ok?,3,,3,810,218,1.5,149,branch,524,97,256,255,144,401,99,,yes
+6,2017,7,26,1500,230526,Fabaceae,Inga,heterophylla,,FABA_Inghet,3326,1826,even-pinnate,ok?,4,,4,158,27,1,152,branch,606,104,312,298,174,75,9,light,
+6,2017,7,26,1500,230527,Rubiaceae,Psychotria,pacimonica,,RUBI_Psypac,3335,1835,simple,image 002 missing,5,5,5,743,40,1,289,branch,752,98,578,525,240,160,5,,
+6,2017,7,26,1500,230528,Myrtaceae,Eugenia,coffeifolia,,MYRT_Eugcof,3511,2011,simple,ok,10,10,10,380,13,1,180,branch,329,101,104,95,58,162,4,,
+6,2017,7,26,1500,230532,Lecythidaceae,Gustavia,elliptica,,LECY_Gusell,3825,2325,simple,ok,5,5,5,1272,45,1,183,branch,501,107,263,235,124,562,15,,
+6,2017,7,26,1500,230533,Fabaceae,Inga,alba,,FABA_Ingalb,3530,2030,even-pinnate,ok?,3,,3,1047,117,1,198,branch,NA,NA,NA,NA,NA,370,39,,
+6,2017,7,26,1500,230535,Annonaceae,Unonopsis,stipitata,,ANNO_Unosti,3811,2311,simple,ok,5,5,5,785,30,1,185,branch,411,94,155,139,85,361,15,,
+7,2017,8,3,1630,230554,Lauraceae,Endlicheria,sprucei,,LAUR_Endspr,4335,2705,simple,ok,4,4,4,456,19,1.75,229,branch,386,113,162,150,86,220,8,,
+7,2017,8,3,1630,230555,Quiinaceae,Quiina,obovata,,QUII_Quiobo,4241,2611,simple,ok,3,3,3,2406,176,1.75,273,branch,660,110,485,434,219,993,55,,
+10,2017,10,8,1345,230571,Elaeocarpaceae,Sloanea,latifolia,,ELAE_Slolat,2400,1055,simple,ok,11,11,11,843,50,1.125,242,branch,724,104,522,466,318,429,21,,
+10,2017,10,8,1345,230572,Lauraceae,Ocotea,cinerea,,LAUR_Ococin,2400,1055,simple,ok,10,10,10,562,27,1.125,160,branch,323,88,86,78,52,297,13,,
+10,2017,10,8,1345,230574,Sapindaceae,Talisia,firma,,SAPI_Talfir,2400,1055,compound,ok?,1.5,,3,362,101,1.25,153,branch,565,95,278,234,169,184,49,,
+10,2017,10,8,1345,230578,Lauraceae,Ocotea,cinerea,,LAUR_Ococin,2400,1055,simple,ok,10,10,10,457,25,1,235,branch,370,101,132,123,69,209,10,,
+10,2017,10,8,1345,230645,Meliaceae,Guarea,pubescens,pubescens,MELI_Guapub,2400,1055,compound,ok?,0.5,,1,675,414,1.25,181,branch,NA,NA,NA,NA,NA,225,134,,ok
+10,2017,10,8,1345,230718,Malvaceae,Sterculia,sp.2.PP,,MALV_Stesp2,2400,1055,simple,ok,2,2,2,1661,687,1.5,150,branch,NA,NA,NA,NA,NA,796,244,,ok
+7,2017,8,5,1630,230740,Lauraceae,Ocotea,scabrella,,LAUR_Ocosca,3434,1804,simple,ok,3,3,3,1453,70,1,168,branch,373,101,107,115,48,618,26,arch,ok
+10,2017,10,8,1345,230745,Moraceae,Helicostylis,scabra,,MORA_Helsca,2400,1055,simple,ok,6,6,6,463,21,1,155,branch,252,91,60,60,25,174,3,,
+10,2017,10,8,1345,230746,Nyctaginaceae,Neea,stellulata,,NYCT_Neeste,2400,1055,simple,ok,10,10,10,504,28,1,203,branch,332,82,83,73,43,142,8,,
+10,2017,10,8,1345,230756,Chrysobalanaceae,Couepia,caryophylloides,,CHRY_Coucar,2400,1055,simple,"ok, but image 1 had wrong id (230576)",7,7,7,1039,50,1,195,branch,373,88,134,115,58,395,13,,
+10,2017,10,8,1345,230769,Burseraceae,Protium,altsonii/laxiflorum.FITO,,BURS_Proall,2400,1055,compound,ok?,0.5,,1,331,184,1,144,branch,NA,NA,NA,NA,NA,167,73,,ok
+10,2017,10,8,1345,230862,Chrysobalanaceae,Licania,canescens,,CHRY_Liccan,2400,1055,simple,ok,10,10,10,559,17,1,164,branch,340,93,119,103,70,228,6,,ok
+10,2017,10,8,1345,230873,Lauraceae,Ocotea,sp.9.PP,,LAUR_Ocosp9,2400,1055,simple,ok,12,12,12,726,46,1.25,200,branch,575,94,243,248,143,390,21,,
+10,2017,10,8,1345,230950,Chrysobalanaceae,Hirtella,bicornis,pubescens,CHRY_Hirbic,2400,1055,simple,ok,10,10,10,330,4,NA,127,branch,322,85,91,79,47,123,2,,ok
+10,2017,10,8,1345,230983,Lauraceae,Licaria,sp.4.PP,,LAUR_Licsp4,2400,1055,simple,ok,5,5,5,825,60,1.5,206,branch,337,76,91,79,45,362,19,,
+6,2017,7,21,1100,240005,Lecythidaceae,Eschweilera,grandiflora,,LECY_Escgra,2107,1007,simple,ok,5,5,5,897,58,1,163,branch,613,109,393,343,191,412,21,,
+6,2017,7,21,1100,240006,Lauraceae,Ocotea,leucoxylon,,LAUR_Ocoleu,2110,1010,simple,ok,5,5,5,769,47,1,163,branch,509,113,238,245,109,335,17,,YES
+6,2017,7,24,1120,240010,Siparunaceae,Siparuna,cuspidata,,SIPA_Sipcus,1820,700,simple,ok,10,10,10,279,10,1,196,branch,554,102,263,223,121,83,3,qr,
+6,2017,7,21,1100,240015,Annonaceae,Duguetia,flagellaris,,ANNO_Dugfla,1849,749,simple,ok,5,5,5,611,13,1,167,branch,488,110,243,218,105,275,5,,
+6,2017,7,21,1100,240025,Connaraceae,Connarus,erianthus,,CONN_Coneri,1924,824,odd-pinnate,ok?,1,,1,326,76,1,132,branch,461,99,195,170,106,192,36,,ok
+6,2017,7,21,1100,240027,Burseraceae,Protium,altsonii/laxiflorum.FITO,,BURS_Proall,1920,820,odd-pinnate,ok?,0.5,,1,395,155,1,158,branch,574,99,293,257,132,185,57,,ok
+6,2017,7,21,1100,240029,Fabaceae,Inga,sp.29.FITO,,FABA_Ings29,1845,745,even-pinnate,ok?,2,,2,1290,121,1,309,branch,408,113,175,154,82,526,42,,ok
+6,2017,7,21,1100,240031,Lecythidaceae,Eschweilera,wachenheimii,,LECY_Escwac,2054,954,simple,ok,7,7,7,665,16,1,203,branch,545,101,282,244,168,310,7,,
+6,2017,7,21,1100,240032,Anacardiaceae,Astronium,lecointei,,ANAC_Astlec,1936,836,odd-pinnate,ok?,1,,1,603,260,1,125,branch,NA,NA,NA,NA,NA,294,116,,ok
+6,2017,7,24,1120,240050,Myristicaceae,Virola,michelii,,MYRI_Virmic,1811,691,simple,ok,5,5,5,775,31,1,139,branch,150,98,214,235,87,301,8,,
+6,2017,7,24,NA,240060,Elaeocarpaceae,Sloanea,floribunda,,ELAE_Sloflo,NA,NA,simple,ok,5,5,5,1402,228,1,229,branch,855,97,599,525,313,706,100,light,ok
+6,2017,7,24,1120,240062,Lecythidaceae,Gustavia,elliptica,,LECY_Gusell,2050,930,simple,"ok, but had wrong id (230062)",5,5,5,1152,46,1,190,branch,575,100,345,296,184,512,17,,
+6,2017,7,24,1120,240066,Simaroubaceae,Simaba,polyphylla,,SIMA_Simpol,1756,636,odd-pinnate,ok?,0.5,,1,287,219,1,164,branch,NA,NA,NA,NA,NA,136,89,qr;rgr,ok
+6,2017,7,24,1120,240071,Violaceae,Rinorea,amapensis,,VIOL_Rinama,2038,918,simple,ok,5,5,5,320,14,1,170,branch,424,106,245,202,149,158,6,,
+6,2017,7,24,1120,240079,Burseraceae,Protium,trifoliolatum,,BURS_Protri,2033,913,odd-pinnate,ok?,2,,2,549,80,1.5,196,branch,372,98,128,108,65,275,34,,ok
+6,2017,7,24,1120,240084,Fabaceae,Sclerolobium,sp.4.FITO,,FABA_Sclsp4,2041,921,even-pinnate,ok?,1,,1,1301,306,2,221,branch,999,95,776,668,452,603,148,,ok
+6,2017,7,24,NA,240095,Annonaceae,Guatteria,discolor,,ANNO_Guadis,NA,NA,simple,NA,NA,NA,NA,NA,NA,1,NA,branch,NA,NA,NA,NA,NA,NA,NA,,NA
+6,2017,7,21,1100,240098,Burseraceae,Protium,hebetatum,,BURS_Proheb,2148,1048,odd-pinnate,ok?,0.5,,1,543,341,1,149,branch,658,108,473,419,258,309,153,,
+6,2017,7,24,NA,240104,Annonaceae,NA,NA,,NA_NANA,NA,NA,simple,"ok, but image 1 had wrong id (230104)",5,5,5,1042,47,1,205,branch,885,101,612,619,262,460,15,,YES
+6,2017,7,24,1120,240107,Sapotaceae,Manilkara,,,,2143,1023,simple,ok,4,4,4,1337,81,1,235,branch,570,103,312,288,160,570,27,,yes (Manilkara huberi)
+6,2017,7,24,1120,240111,Lecythidaceae,Eschweilera,wachenheimii,,LECY_Escwac,1836,716,simple,ok,10,10,10,573,16,1,169,branch,441,90,176,145,102,272,5,,
+6,2017,7,24,1120,240115,Annonaceae,,,,,2112,992,simple,ok,10,10,10,653,20,1,249,branch,688,108,441,405,216,270,8,,yes (Xylopia?)
+6,2017,7,24,1120,240118,Euphorbiaceae,Micrandropsis,scleroxylon,,EUPH_Micscl,2048,928,simple,ok,5,5,5,870,50,1,166,branch,526,104,289,246,158,416,19,,
+6,2017,7,21,1100,240120,Melastomataceae,Miconia,,,,2154,1054,simple,ok,5,5,5,1402,211,1.5,145,branch,550,111,319,280,147,508,53,,yes
+6,2017,7,21,1100,240144,Fabaceae,Stryphnodendron,racemiferum,,FABA_Strrac,2142,1042,bipinnated,ok?,0.5,,1,671,618,1,136,branch,700,95,418,400,196,272,251,,ok
+6,2017,7,21,1100,240148,Chrysobalanaceae,Licania,heteromorpha,,CHRY_Lichet,2113,1013,simple,ok,5,5,5,708,46,1,146,branch,607,104,322,272,184,350,20,,
+6,2017,7,21,1100,240151,Chrysobalanaceae,Licania,,,,1944,844,simple,"ok, but with one extra copy of image 002 (image 003)",7,7,7,694,16,1,167,branch,496,102,250,194,163,315,6,,yes (Licania membranacea)
+6,2017,7,21,1100,240152,Sapotaceae,Pouteria,escalarinerve PP,,SAPO_Pouesc,2143,1043,simple,ok,5,5,5,925,57,1,133,branch,504,110,295,263,130,340,14,,
+6,2017,7,21,1100,240153,Fabaceae,Paramachaerium,ormosioides,forma A FITO,FABA_Parorm,2151,1051,alternipinnate,ok?,2,,2,375,63,1,135,branch,438,113,216,212,111,159,25,,ok
+6,2017,7,24,1120,240204,Fabaceae,Andira,sp.2.PP,Forma A PP,FABA_Andsp2,2044,924,odd-pinnate,ok?,2,,2,691,147,1,140,branch,493,111,318,273,163,300,55,qr;rgr,yes
+6,2017,7,21,1100,240223,,,,,,2103,1003,simple,ok,5,5,5,544,11,1,169,branch,499,110,262,217,153,221,3,,yes
+6,2017,7,21,1120,240224,,,,,,1913,793,simple,ok,5,5,5,456,9,1,209,branch,328,95,109,90,56,219,0,,YES
+6,2017,7,21,1100,240225,Myristicaceae,Virola,venosa,,MYRI_Virven,2125,1025,simple,ok,11,11,11,461,20,1,204,branch,633,110,379,385,199,196,5,,
+6,2017,7,21,1100,240226,Fabaceae,Zygia,racemosa,,FABA_Zygrac,2120,1020,bipinnated,ok?,3,,3,435,76,1,177,branch,770,109,516,445,287,160,25,,ok
+6,2017,7,21,1100,240250,Melastomataceae,Miconia,punctata,,MELA_Micpun,2135,1035,simple,ok,5,5,5,617,42,1.5,215,branch,782,116,569,475,318,266,13,,
+6,2017,7,21,1100,240251,Annonaceae,Duguetia,flagellaris,,ANNO_Dugfla,1907,807,simple,ok,5,5,5,457,13,1.5,186,branch,607,104,355,336,157,220,4,,
+6,2017,7,21,1100,240252,Moraceae,Sorocea,muriculata,muriculata,MORA_Sormur-m,1934,834,simple,ok,10,10,10,244,5,1.5,146,branch,417,103,225,189,128,111,0,q,yes
+6,2017,7,21,1100,240254,Lecythidaceae,Eschweilera,wachenheimii,,LECY_Escwac,2131,1031,simple,ok,5,5,5,494,14,1,207,branch,825,110,608,514,341,233,5,,
+6,2017,7,21,1100,240260,Meliaceae,Guarea,convergens,,MELI_Guacon,2100,1000,even-pinnate,ok?,1,,1,967,445,1.5,235,branch,NA,NA,NA,NA,NA,345,191,,
+6,2017,7,21,1100,240277,Fabaceae,Sclerolobium,melinonii,,FABA_Sclmen,2047,947,even-pinnate,ok?,2,,2,302,96,1,97,branch,691,99,398,339,220,144,45,,ok
+6,2017,7,21,1100,240278,Burseraceae,Protium,opacum,,BURS_Proopa,2001,901,odd-pinnate,ok?,0.5,,1,407,211,1,162,branch,774,105,495,446,245,197,90,qr;rgr,
+6,2017,7,21,1100,240284,Violaceae,Rinorea,amapensis,,VIOL_Rinama,2041,941,simple,ok,10,10,10,377,11,1.5,150,branch,526,97,222,194,119,136,4,,
+6,2017,7,21,1100,240285,Fabaceae,Zygia,juruana,,FABA_Zygjur,2209,1109,geminate-pinnate,"ok?, but image 002 had wrong id (240258)",1,,1,1313,146,1.5,205,branch,671,98,439,376,247,566,60,,
+6,2017,7,21,1100,240286,Lecythidaceae,Eschweilera,wachenheimii,,LECY_Escwac,1958,858,simple,ok,5,5,5,560,NA,1,210,branch,596,102,438,375,247,256,9,,
+6,2017,7,21,1100,240332,Sapindaceae,Talisia,macrophylla,,SAPI_Talmac,2037,937,compound,ok?,1,,1,655,228,1,123,branch,NA,NA,NA,NA,NA,368,133,,
+6,2017,7,21,1100,240334,Lecythidaceae,Eschweilera,pedicellata,,LECY_Escped,2030,930,simple,ok,6,6,6,476,20,1.5,195,branch,641,125,434,383,238,213,6,,
+6,2017,7,21,1100,240338,Euphorbiaceae,Pausandra,macropetala,,EUPH_Paumac,1954,854,simple,ok,1,1,1,1196,83,1.5,224,branch,NA,NA,NA,NA,NA,521,29,,
+6,2017,7,21,1100,240340,Rubiaceae,Psychotria,sp.4.FITO,,RUBI_Psysp4,1956,856,simple,ok,7,7,7,494,27,1.5,153,branch,474,100,203,170,90,217,8,,
+6,2017,7,21,1100,240348,Chrysobalanaceae,Licania,,,,2004,904,simple,ok,6,6,6,727,16,1.5,200,branch,311,112,108,NA,64,326,4,qr,yes (Licania membranacea)
+6,2017,7,21,1100,240356,Melastomataceae,Miconia,argyrophylla,,MELA_Micarg,2025,925,simple,ok,5,5,5,815,41,1.25,153,branch,405,115,197,167,98,283,13,,ok
+6,2017,7,21,1100,240358,Myristicaceae,Virola,guggenheimii,,MYRI_Virgug,2020,920,NA,ok,5,,5,591,50,NA,196,branch,659,112,330,375,168,243,12,,
+6,2017,7,21,1100,240359,Chrysobalanaceae,Licania,,,,2000,900,simple,ok,6,6,6,754,22,1,172,branch,437,103,188,745,116,338,8,,yes (Licania membranacea)
+6,2017,7,21,1100,240362,Myrsinaceae,Cybianthus,sp.p1.PP,,MYRS_Cybsp1,2203,1103,simple,ok,10,10,10,807,27,1,264,branch,516,104,248,211,124,246,5,,
+6,2017,7,21,1100,240363,Lauraceae,,,,,2010,910,simple,ok,6,6,6,1323,66,1,299,branch,628,114,413,385,226,698,23,,yes (Ocotea)
+6,2017,7,21,1100,240366,Sapotaceae,Pouteria,reticulata,ssp. 4 FITO,SAPO_Pouret-4,2016,916,simple,ok,6,6,6,1135,79,1,206,branch,428,116,232,205,115,502,34,tap,
+6,2017,7,21,1100,240367,Chrysobalanaceae,Couepia,guianensis,guianensis,CHRY_Cougui,2213,1113,simple,ok,6,6,6,305,12,1,162,branch,533,107,267,228,149,157,7,,ok
+6,2017,7,21,1100,240375,Fabaceae,Inga,umbratica,,FABA_Ingumr,1950,850,even-pinnate,ok?,2,,2,1089,159,1.5,184,branch,483,110,244,220,136,480,68,,
+6,2017,7,21,1100,240379,Chrysobalanaceae,,,,,2159,1059,simple,ok,5,5,5,500,34,1,169,branch,640,118,470,385,275,229,10,,yes
+6,2017,7,21,1100,240384,,,,,,1929,829,simple,ok,5,5,5,1382,74,1,224,branch,534,102,269,250,122,750,33,,yes
+6,2017,7,21,1100,240394,Lecythidaceae,Eschweilera,coriacea,,LECY_Esccor,1843,743,simple,"ok, but image 2 had wrong id (242394)",6,6,6,479,15,1,200,branch,676,102,417,381,235,235,4,,
+6,2017,7,21,NA,240398,Burseraceae,Protium,sagotianum,,BURS_Prosag,NA,NA,odd-pinnate,NA,NA,,NA,NA,NA,1.5,NA,branch,NA,NA,NA,NA,NA,NA,NA,,NA
+6,2017,7,21,1100,240409,Sapindaceae,Matayba,inelegans,,SAPI_Matine,1950,850,odd-pinnate,ok?,2,,2,473,97,1,154,branch,495,109,282,237,148,205,39,,
+10,2017,10,8,1345,240419,Sapotaceae,Pouteria,pallens,,SAPO_Poupal,2400,1055,simple,ok,2,2,2,1369,259,1,218,branch,NA,NA,NA,NA,NA,559,72,,
+10,2017,10,8,1345,240444,Sapotaceae,Pouteria,pallens,,SAPO_Poupal,2400,1055,simple,ok,2,2,2,1337,198,1.125,211,branch,NA,NA,NA,NA,NA,566,25,,
+10,2017,10,8,1345,240492,Rubiaceae,Ferdinandusa,uaupensis,,RUBI_Feruau,2400,1055,simple,ok,2,2,2,1611,139,1,383,branch,NA,NA,NA,NA,NA,480,43,,ok
+10,2017,10,8,1345,240497,Fabaceae,Macrolobium,limbatum,,FABA_Maclim,2400,1055,bifoliolate,ok?,4,,4,1079,103,1,153,branch,728,95,537,490,307,482,40,,
+10,2017,10,8,1345,240554,Rubiaceae,Ferdinandusa,uaupensis,,RUBI_Feruau,2400,1055,simple,ok,2,2,2,1733,166,1,279,branch,NA,NA,NA,NA,NA,528,44,,ok
+10,2017,10,8,1345,240618,Lauraceae,Indet,sp.1.FITO,,LAUR_Indsp1,2400,1055,simple,"ok, but images had wrong id (540618)",7,7,7,1316,58,1.25,218,branch,488,91,165,167,66,627,20,,ok
+10,2017,10,8,1345,240636,Humiriaceae,Sacoglottis,sp.2.FITO,,HUMI_Sacsp2,2400,1055,simple,ok,10,10,10,309,7,1.25,162,branch,503,96,250,213,148,152,3,,
+10,2017,10,8,1345,240654,Myrsinaceae,Stylogyne,longifolia,,MYRS_Stylon,2400,1055,simple,ok,3,3,3,1622,98,1.25,307,branch,NA,NA,NA,NA,NA,519,29,,
+10,2017,10,9,1500,002960,NA,NA,NA,,NA_NANA,3725,2225,simple,ok,6,6,6,2333,108,1.125,280,branch,824,99,620,562,370,1056,38,,yes
+10,2017,10,9,NA,003029,NA,NA,NA,,NA_NANA,NA,NA,simple,NA,NA,NA,NA,NA,NA,1.25,NA,branch,990,102,872,763,408,NA,NA,,yes
+10,2017,10,9,1500,003030,NA,NA,NA,,NA_NANA,3715,2215,simple,ok,10,10,10,162,4,1.25,143,branch,534,104,313,274,186,69,2,trait,yes
+10,2017,10,9,1500,003035,NA,NA,NA,,NA_NANA,3649,2149,simple,ok,7,7,7,571,42,1.25,239,branch,NA,NA,NA,NA,NA,289,14,,yes
+10,2017,10,9,1500,003065,NA,NA,NA,,NA_NANA,3646,2146,simple,ok,5,5,5,2027,166,1.25,211,branch,642,117,483,429,245,948,62,,yes
+10,2017,10,9,1500,003085,NA,NA,NA,,NA_NANA,3722,2222,simple,ok,5,5,5,784,71,1,251,branch,493,96,221,195,110,261,16,,yes
+10,2017,10,9,1500,003088,NA,NA,NA,,NA_NANA,3705,2205,compound,ok?,2,,2,312,213,1,77,branch,NA,NA,NA,NA,NA,156,80,,yes
+10,2017,10,9,1500,003089,NA,NA,NA,,NA_NANA,3713,2213,simple,ok,6,6,6,499,26,1.125,221,branch,NA,NA,NA,NA,NA,175,7,,yes
+10,2017,10,9,1500,008671,NA,NA,NA,,NA_NANA,3636,2136,simple,ok,4,4,4,1270,90,1,150,branch,753,117,484,573,227,472,16,,yes
+10,2017,10,9,1500,008673,NA,NA,NA,,NA_NANA,3728,2228,compound,ok?,1,,1,1377,453,1.25,166,branch,NA,NA,NA,NA,NA,798,208,,yes
+10,2017,10,9,1500,009302,NA,NA,NA,,NA_NANA,3657,2157,simple,ok,20,20,20,203,7,1,146,branch,NA,NA,NA,NA,NA,83,2,,yes
+10,2017,10,9,1500,009311,NA,NA,NA,,NA_NANA,3641,2141,simple,ok,15,15,15,594,28,1,182,branch,736,102,441,401,221,269,10,,yes
+10,2017,10,9,1500,012472,NA,NA,NA,,NA_NANA,3544,2044,simple,ok,2,2,2,547,142,1.25,242,branch,762,116,468,620,190,192,32,rgr,yes
+10,2017,10,9,1500,012608,NA,NA,NA,,NA_NANA,3702,2202,simple,ok,7,7,7,801,103,1.125,144,branch,583,102,230,268,95,301,26,rgr,YES
+10,2017,10,6,1500,121973,Myrtaceae,Eugenia,citrifolia,,MYRT_Eugcit,3930,2430,simple,ok,5,5,5,902,27,1,285,branch,466,94,195,164,117,372,11,,
+10,2017,10,6,1500,122013,Fabaceae,Inga,umbellifera,,FABA_Ingumb,4011,2511,compound,ok?,2,,4,665,102,1.125,178,branch,475,104,237,220,149,279,41,,
+10,2017,10,6,1500,122075,Rubiaceae,Duroia,saccifera,,RUBI_Dursac,3928,2428,simple,ok,3,3,3,998,49,1.5,201,branch,796,100,509,499,332,404,14,,
+10,2017,10,6,1500,122220,Boraginaceae,Cordia,trachyphylla,,BORA_Cortra,3534,2034,simple,ok,2,2,2,647,24,1,261,branch,NA,NA,NA,NA,NA,154,4,,ok
+10,2017,10,6,1500,122238,Lauraceae,Endlicheria,bracteata,,LAUR_Endbra,3948,2448,simple,ok,5,5,5,1550,120,1,164,branch,637,90,300,306,127,628,29,,ok
+10,2017,10,6,1500,122239,Sapotaceae,Pouteria,sp.7.FITO,,SAPO_Pousp7,3955,2455,simple,ok,7,7,7,887,60,1,243,branch,453,91,177,150,107,359,23,,
+10,2017,10,6,1500,122247,Fabaceae,,,,,3526,2026,compound,ok?,1,,1,450,110,1,122,branch,NA,NA,NA,NA,NA,179,40,,yes
+10,2017,10,6,1500,122258,Fabaceae,Parkia,decussata,,FABA_Pardec,3940,2440,bipinnate,ok?,2,,2,914,200,1,98,branch,427,88,166,159,92,354,82,,ok
+10,2017,10,6,1500,122285,Annonaceae,Bocageopsis,multiflora,,ANNO_Bocmul,4004,2504,simple,ok,20,20,20,170,5,1,113,branch,554,95,265,247,148,80,2,,ok
+10,2017,10,6,1500,122296,Chrysobalanaceae,Licania,sp.11.PP,,CHRY_Lic11P,3530,2030,simple,ok,2,2,2,656,30,1,165,branch,NA,NA,NA,NA,NA,279,9,,
+10,2017,10,6,1500,122353,Fabaceae,Inga,obidensis,,FABA_Ingobi,3522,2022,compound,ok?,2,,4,371,63,1,159,branch,437,89,174,162,93,183,26,trait,ok
+10,2017,10,6,1500,122359,Chrysobalanaceae,Licania,heteromorpha,prismatocarpa FITO,CHRY_Lichet-p,3958,2458,simple,ok,6,6,6,801,43,1,170,branch,690,96,472,408,265,388,18,,
+10,2017,10,6,1500,122375,Rubiaceae,Stachyarrhena,acuminata,,RUBI_Staacu,3914,2414,simple,ok,8,8,8,456,20,1,157,branch,554,89,247,209,141,213,8,,
+10,2017,10,6,1500,122405,Lauraceae,Ocotea,subterminalis,,LAUR_Ocosub,3517,2017,simple,ok,8,8,8,865,46,1,151,branch,NA,NA,NA,NA,NA,419,21,rgr,
+10,2017,10,6,1500,122472,Euphorbiaceae,Pausandra,macropetala,,EUPH_Paumac,4029,2529,simple,ok,1,1,1,1666,164,1.125,210,branch,NA,NA,NA,NA,NA,776,66,,
+10,2017,10,7,1500,132866,Quiinaceae,Lacunaria,macrostachya,,QUII_Lacmac,4032,2532,simple,ok,2,2,2,875,55,1,204,branch,NA,NA,NA,NA,NA,370,18,,
+10,2017,10,7,1500,132901,Sapotaceae,Pouteria,filipes,,SAPO_Poufil,3915,2415,simple,ok,6,6,6,1941,102,1.5,223,branch,476,83,186,170,91,971,42,q,
+10,2017,10,7,1500,132921,Myrtaceae,Calyptranthes,paniculata,,MYRT_Calpan,3921,2421,simple,ok,11,11,11,1084,63,1,250,branch,525,106,264,208,171,576,32,,
+10,2017,10,7,1500,132933,Peraceae,Pogonophora,schomburgkiana,,PERA_Pogsch,3824,2324,simple,ok,9,9,9,710,37,1.125,196,branch,450,109,212,196,111,331,13,,
+10,2017,10,7,1500,132935,Olacaceae,Ptychopetalum,olacoides,,OLAC_Ptyola,3907,2407,simple,ok,10,10,10,590,10,1,194,branch,600,92,275,241,144,203,3,,
+10,2017,10,7,1500,132938,Anacardiaceae,Anacardium,parvifolium,,ANAC_Anapar,3830,2330,simple,ok,5,5,5,981,103,1,117,branch,551,89,203,226,95,329,27,,
+10,2017,10,7,1500,132948,Burseraceae,Protium,paniculatum,modestum,BURS_Propan-M,3836,2336,compound,ok?,2,,2,704,186,1,187,branch,488,77,170,150,86,375,83,,ok
+10,2017,10,7,1500,132949,Euphorbiaceae,Micrandropsis,scleroxylon,,EUPH_Micscl,3828,2328,simple,ok,6,6,6,1147,146,1.125,167,branch,621,92,336,305,182,556,54,,YES
+10,2017,10,7,1500,132969,Lauraceae,Ocotea,scabrella,,LAUR_Ocosca,3850,2350,simple,ok,5,5,5,2513,144,1.125,212,branch,448,65,112,107,51,1086,56,,ok
+10,2017,10,7,1500,132972,Sapindaceae,Matayba,purgans,,SAPI_Matpur,4037,2537,compound,ok?,0.5,,1,964,1766,1.25,176,branch,NA,NA,NA,NA,NA,766,420,,
+10,2017,10,7,1500,133008,Melastomataceae,Miconia,sp.5.FITO,,MELA_Micsp5,3910,2410,simple,ok,5,5,5,1351,116,1.5,251,branch,458,101,200,175,90,523,30,,ok
+10,2017,10,7,1500,133014,Lauraceae,Rhodostemonodaphne,aff.scandens.PFRD,,LAUR_Rhoaff,3833,2333,simple,ok,6,6,6,1382,107,1.125,348,branch,375,89,130,118,66,513,26,q,
+10,2017,10,7,1500,133025,Annonaceae,Duguetia,asterotricha,,ANNO_Dugast,3843,2343,simple,ok,6,6,6,1854,84,1,191,branch,631,75,268,270,101,795,30,,ok
+10,2017,10,7,1500,133036,Annonaceae,Xylopia,benthamii,,ANNO_Xylben,3853,2353,simple,ok,12,12,12,333,6,1.75,152,branch,674,98,414,386,268,150,3,,ok
+10,2017,10,7,1500,133074,Siparunaceae,Siparuna,reginae,,SIPA_Sipreg,3903,2403,simple,ok,5,5,5,546,30,1.125,289,branch,578,83,256,244,101,131,6,trait,YES
+10,2017,10,7,1500,133109,Lauraceae,Aniba,parviflora,,LAUR_Anipar,3925,2425,simple,"ok, but image 002 had wrong id (1323109)",10,10,10,444,34,1.5,238,branch,733,98,441,464,265,242,14,,
+10,2017,10,7,1500,133111,Sapotaceae,Chromolucuma,rubriflora,,SAPO_Chrrub,3900,2400,simple,ok,3,3,3,1459,65,1,175,branch,808,97,616,608,214,497,13,,
+10,2017,10,7,NA,133153,Lauraceae,Aniba,rosaeodora,,LAUR_Aniros,NA,NA,simple,NA,NA,NA,NA,NA,NA,2,NA,branch,NA,NA,NA,NA,NA,NA,NA,rgr,
+10,2017,10,7,1500,133208,Sapotaceae,Chrysophyllum,manaosense,B PP,SAPO_Chrman,3537,2037,simple,ok,2,2,2,781,71,1.5,144,branch,528,100,241,233,104,347,17,,ok
+10,2017,10,7,1500,142540,Chrysobalanaceae,Licania,heteromorpha,,CHRY_Lichet,3239,1739,simple,ok,6,6,6,733,46,1.25,206,branch,554,89,292,256,164,376,15,,
+10,2017,10,7,1500,142551,Moraceae,Maquira,guianensis,,MORA_Maqgui,3137,1637,simple,ok,10,10,10,264,7,1.5,137,branch,469,95,166,157,96,102,2,,
+10,2017,10,7,1500,142552,Nyctaginaceae,Pisonia,tomentosa,,NYCT_Pistom,3132,1632,simple,ok,5,5,5,1914,266,2,192,branch,703,93,361,356,120,556,49,,
+10,2017,10,7,1500,142633,Sapotaceae,Pouteria,durlandii,,SAPO_Poudur,3116,1616,simple,ok,5,5,5,910,33,2,161,branch,419,103,163,161,75,363,5,qr,yes
+10,2017,10,7,1500,142643,Salicaceae,Casearia,sylvestris,,SALI_Cassyl,3200,1700,compound,ok?,16,,16,441,6,1.25,133,branch,492,72,172,157,76,149,2,,ok
+10,2017,10,7,1500,142647,Fabaceae,Inga,obidensis,,FABA_Ingobi,3122,1622,compound,ok?,4,,4,516,43,1,161,branch,865,88,599,530,329,267,17,,ok
+10,2017,10,7,1500,142651,Fabaceae,Inga,sp.7.FITO,,FABA_Ingsp7,3229,1729,compound,ok?,1.5,,3,821,144,1,205,branch,581,75,176,204,85,297,45,,
+10,2017,10,7,1500,142667,Sapotaceae,Chromolucuma,rubriflora,,SAPO_Chrrub,3225,1725,simple,ok,2,2,2,1696,159,1.5,235,branch,634,87,300,296,123,716,41,,
+10,2017,10,7,1500,142669,Lauraceae,Licaria,guianensis,,LAUR_Licgui,3217,1717,simple,ok,15,15,15,159,11,1.125,143,branch,306,66,56,47,29,73,4,,
+10,2017,10,7,1500,142692,Sapindaceae,Talisia,sp.5.FITO,,SAPI_Talsp5,3154,1654,compound,ok?,0.5,,1,2125,855,2,196,branch,NA,NA,NA,NA,NA,1150,372,,ok
+10,2017,10,7,1500,142709,Melastomataceae,Miconia,holosericea,,MELA_Michol,3127,1627,simple,ok,5,5,5,2023,173,1.125,192,branch,535,99,289,255,162,836,46,,
+10,2017,10,7,1500,142710,Moraceae,Brosimum,sp.1.PP,,MORA_Brosp1,3214,1714,simple,ok,10,10,10,367,5,1,193,branch,258,61,45,40,21,123,2,,
+10,2017,10,7,1500,142743,Salicaceae,Casearia,sylvestris,,SALI_Cassyl,3145,1645,compound,ok?,20,,20,350,9,1,145,branch,400,92,163,148,78,143,3,qr;rgr,ok
+10,2017,10,7,1500,142754,Urticaceae,Pourouma,sp.B.PP,,URTI_PouspB,3233,1733,simple,ok,2,2,2,1528,572,1,200,branch,NA,NA,NA,NA,NA,586,152,,
+10,2017,10,7,1500,142759,Sapindaceae,Talisia,eximia,,SAPI_Talexi,3210,1710,compound,ok?,1,,1,952,236,1,159,branch,NA,NA,NA,NA,NA,502,139,qr,
+10,2017,10,7,1500,153598,Melastomataceae,Miconia,sp.7.FITO,,MELA_Micsp7,3418,1918,simple,ok,5,5,5,461,21,1.25,158,branch,541,93,271,228,163,192,7,,ok
+10,2017,10,7,1500,153617,Violaceae,Amphirrhox,longifolia,,VIOL_Amplon,3420,1920,simple,ok,5,5,5,1001,100,1.25,203,branch,607,99,356,317,193,402,32,,
+10,2017,10,7,1500,153619,Malvaceae,Eriotheca,globosa,,MALV_Eriglo,3506,2006,?,ok?,2,,2,4853,1381,NA,350,branch,656,105,362,332,148,1369,420,,
+10,2017,10,7,1500,153635,Salicaceae,Casearia,negrensis,,SALI_Casneg,3406,1906,simple,ok,15,15,15,603,29,1.125,170,branch,479,95,230,200,131,247,7,,
+10,2017,10,7,1500,153641,Fabaceae,Dimorphandra,parviflora,,FABA_Dimpar,3250,1750,bipinnate,ok?,1,,1,769,246,1.5,88,branch,648,73,292,257,167,291,109,,
+10,2017,10,7,1500,153642,Clusiaceae,Tovomita,sp.2.FITO,,CLUS_Tovsp2,3400,1900,simple,ok,6,6,6,2244,163,1.5,254,branch,562,73,217,184,111,826,48,,ok
+10,2017,10,7,1500,153657,Fabaceae,Bocoa,viridiflora,,FABA_Bocvir,3311,1811,compound,ok?,3,,3,616,74,1.125,161,branch,394,84,135,117,83,315,34,,ok
+10,2017,10,7,1500,153672,Moraceae,Pseudolmedia,laevis,,MORA_Pselae,3355,1855,simple,ok,5,5,5,576,26,1.5,153,branch,771,91,424,415,259,314,8,,ok
+10,2017,10,7,1500,153673,Fabaceae,Swartzia,cuspidata,,FABA_Swacus,3410,1910,compound,ok?,3,,3,220,17,1.5,143,branch,654,100,443,392,265,100,8,,ok
+10,2017,10,7,1500,153679,Boraginaceae,Cordia,nodosa,,BORA_Cornod,3626,2126,simple,ok,2,2,2,559,31,1.75,245,branch,460,82,148,160,63,233,7,,yes
+10,2017,10,7,1500,153684,Rubiaceae,Tocoyena,sp.1.FITO,,RUBI_Tocsp1,3616,2116,simple,ok,6,6,6,1135,47,1.25,352,branch,311,96,92,82,41,448,61,,
+10,2017,10,7,1500,153686,Burseraceae,Protium,hebetatum,,BURS_Proheb,3422,1922,compound,ok?,0.5,,1,298,206,1.75,143,branch,456,71,139,135,69,146,82,,
+10,2017,10,7,1500,153710,Boraginaceae,Cordia,nodosa,,BORA_Cornod,3623,2123,simple,ok,5,5,5,952,28,1.25,189,branch,356,93,113,105,34,356,7,q,yes
+10,2017,10,7,1500,153713,Annonaceae,Duguetia,flagellaris,,ANNO_Dugfla,3328,1828,simple,ok,5,5,5,771,24,1.25,168,branch,415,76,145,127,71,375,11,,
+10,2017,10,7,1500,153720,Lecythidaceae,Gustavia,elliptica,,LECY_Gusell,3429,1929,simple,ok,4,4,4,1026,48,1.25,170,branch,389,78,126,109,60,436,17,,
+10,2017,10,7,1500,153721,Sapotaceae,Manilkara,sp.2.FITO,,SAPO_Mansp2,3320,1820,simple,ok,6,6,6,729,65,1.125,189,branch,504,84,225,199,141,370,26,,
+10,2017,10,7,1500,153733,Chrysobalanaceae,Licania,sp.2.FITO,,CHRY_Licsp2,3316,1816,simple,ok,6,6,6,824,40,1,156,branch,444,80,153,126,92,405,14,,ok
+10,2017,10,7,1500,153758,Malvaceae,Scleronema,micranthum,,MALV_Sclmic,3427,1927,simple,ok,6,6,6,844,140,1,168,branch,573,95,289,260,141,350,43,,
+10,2017,10,7,1500,153776,Humiriaceae,Sacoglottis,ceratocarpa,,HUMI_Saccer,3333,1833,simple,ok,5,5,5,1037,74,1,318,branch,516,92,301,252,190,550,29,,ok
+10,2017,10,7,1500,153811,Myrtaceae,Myrcia,rufipila,,MYRT_Myrruf,3435,1935,simple,ok,20,20,20,533,11,1.125,240,branch,415,81,170,138,108,227,5,,ok
+10,2017,10,7,1500,153815,Elaeocarpaceae,Sloanea,rufa,forma b PP,ELAE_Sloruf-b,3458,1958,simple,ok,1,1,1,2591,386,1.125,288,branch,NA,NA,NA,NA,NA,1233,116,,ok
+10,2017,10,7,1500,153834,Sapotaceae,Pouteria,manaosensis,,SAPO_Pouman,3613,2113,simple,ok,2,2,2,1020,87,1,141,branch,NA,NA,NA,NA,NA,485,9,qr,
+10,2017,10,7,1500,153836,Monimiaceae,Mollinedia,ovata,,MONI_Molova,3308,1808,simple,ok,5,5,5,2265,146,1.125,364,branch,493,75,145,146,63,718,40,qr;rgr;mstem,
+10,2017,10,7,1500,153840,Urticaceae,Pourouma,cucura,,URTI_Poucuc,3343,1843,simple,ok,2,2,2,2135,778,1.5,230,branch,NA,NA,NA,NA,NA,986,217,,
+10,2017,10,7,1500,153845,Chrysobalanaceae,Licania,sp.2.FITO,,CHRY_Licsp2,3445,1945,simple,ok,5,5,5,410,17,1,162,branch,278,88,74,64,38,186,6,,ok
+10,2017,10,7,1500,153850,Myrtaceae,Eugenia,longiracemosa,,MYRT_Euglon,3338,1838,simple,ok,20,20,20,318,13,1,189,branch,384,86,137,118,73,136,4,q,
+10,2017,10,7,1500,153860,Melastomataceae,Mouriri,collocarpa,,MELA_Moucol,3302,1802,simple,ok,10,10,10,823,18,1.25,264,branch,436,96,193,165,124,312,7,,ok
+10,2017,10,7,1500,153865,Sapindaceae,Matayba,guianensis,,SAPI_Matgui,3455,1955,compound,ok?,2,,2,597,91,1.125,164,branch,326,85,92,80,45,263,37,rgr,ok
+10,2017,10,7,1500,153866,Melastomataceae,Miconia,sp.nov.aff.lepidota/punctata.FITO,,MELA_Micspn,3450,1950,simple,ok,5,5,5,1685,173,1.5,222,branch,600,92,334,285,172,605,52,,ok
+10,2017,10,7,1500,153870,Melastomataceae,Miconia,sp.nov.aff.lepidota/punctata.FITO,,MELA_Micspn,3325,1825,simple,ok,5,5,5,1497,166,1.25,231,branch,568,92,326,279,184,608,57,q,ok
+10,2017,10,7,1500,153871,Siparunaceae,Siparuna,sarmentosa,,SIPA_Sipsar,3350,1850,simple,ok,5,5,5,1206,90,1.125,241,branch,386,89,128,115,59,403,33,,
+10,2017,10,7,1345,170041,Annonaceae,Guatteria,blepharophylla,,ANNO_Guable,3232,1887,simple,ok,6,6,6,873,40,1.125,159,branch,453,86,145,133,64,382,17,q,
+10,2017,10,7,1345,170066,Euphorbiaceae,Pausandra,macropetala,,EUPH_Paumac,3210,1865,simple,ok,1,1,1,2008,227,1,208,branch,NA,NA,NA,NA,NA,992,89,,
+10,2017,10,7,1345,170098,Burseraceae,Protium,altsonii/laxiflorum.FITO,,BURS_Proall,3147,1802,compound,ok?,0.5,,1,453,212,1.125,152,branch,NA,NA,NA,NA,NA,220,78,qr,ok
+10,2017,10,7,1345,170130,Simaroubaceae,Simaba,polyphylla,,SIMA_Simpol,3238,1893,compound,ok?,2,,2,307,92,1.125,134,branch,817,64,394,361,227,148,41,,ok
+10,2017,10,7,1345,170160,Meliaceae,Trichilia,micrantha,,MELI_Trimic,3143,1798,compound,ok?,3,,3,627,93,1.125,168,branch,NA,NA,NA,NA,NA,242,39,,
+10,2017,10,7,1345,170165,Lauraceae,Aniba,panurensis,,LAUR_Anipan,3214,1869,simple,ok,5,5,5,1577,114,1,258,branch,429,88,138,134,55,770,36,,ok
+10,2017,10,7,1345,170171,Malvaceae,Scleronema,micranthum,,MALV_Sclmic,3204,1859,simple,ok,6,6,6,972,160,1.125,158,branch,558,97,273,262,113,357,48,,
+10,2017,10,7,1345,170197,Moraceae,Maquira,sclerophylla,,MORA_Maqscl,3152,1807,simple,ok,5,5,5,1543,168,1,186,branch,872,100,552,622,178,529,28,,
+10,2017,10,7,1345,170211,Melastomataceae,Mouriri,dimorphandra,,MELA_Moudim,3219,1874,simple,ok,8,8,8,1525,54,1,217,branch,749,93,492,402,333,667,25,,
+10,2017,10,7,1345,170228,Clusiaceae,Garcinia,acuminata,,CLUS_Garacu,3207,1862,simple,ok,6,6,6,1222,75,1,260,branch,659,105,448,379,267,558,20,,
+10,2017,10,7,1345,170229,Sapotaceae,Pouteria,opposita,,SAPO_Pouopp,3135,1790,simple,ok,3,3,3,1768,167,1,257,branch,NA,NA,NA,NA,NA,762,48,qr,
+10,2017,10,7,1345,170234,Rubiaceae,Faramea,sp.5.FITO,,RUBI_Farsp5,3201,1856,simple,ok,7,7,7,713,11,1,197,branch,407,91,159,138,88,365,4,,
+10,2017,10,7,1345,170302,Fabaceae,Abarema,mataybifolia,,FABA_Abamat,3222,1877,bipinnate,ok?,1,,1,770,248,2,131,branch,NA,NA,NA,NA,NA,252,105,,
+10,2017,10,7,1345,170317,Euphorbiaceae,Pausandra,macropetala,,EUPH_Paumac,3155,1810,simple,ok,1,1,1,1398,134,NA,227,branch,915,106,721,672,274,598,45,,
+10,2017,10,7,1345,170341,Euphorbiaceae,Pausandra,macropetala,,EUPH_Paumac,3212,1867,simple,ok,1,1,1,1745,182,2,233,branch,1045,94,951,867,432,755,59,trait,
+10,2017,10,4,1345,172227,Annonaceae,Guatteriopsis,friesiana,,ANNO_Gutfri,3637,2292,simple,"ok, but image 001 had wrong id (17227)",5,5,5,1704,44,1,217,branch,541,74,190,190,79,623,18,,ok
+10,2017,10,4,1345,172245,Malvaceae,Theobroma,sylvestre,,MALV_Thesyl,3702,2357,simple,ok,5,5,5,1456,117,1.25,221,branch,462,102,187,189,80,659,34,,
+10,2017,10,4,1345,172284,Moraceae,Pseudolmedia,laevis,,MORA_Pselae,3643,2298,simple,ok,10,10,10,521,17,1.125,151,branch,408,91,145,130,85,267,6,,ok
+10,2017,10,4,1345,172286,Lacistemataceae,Lacistema,grandifolium,,LACI_Lacgra,3647,2302,simple,ok,10,10,10,599,16,1.125,178,branch,522,100,271,243,114,202,3,,
+10,2017,10,4,1345,172307,Myrtaceae,Myrcia,rufipila,,MYRT_Myrruf,3721,2376,simple,ok,15,15,15,465,19,1,251,branch,711,97,562,454,368,222,6,trait,ok
+10,2017,10,4,1345,172317,Siparunaceae,Siparuna,cuspidata,,SIPA_Sipcus,3718,2373,simple,ok,10,10,10,518,26,1,236,branch,483,92,234,198,123,176,6,,
+10,2017,10,4,1345,172330,Lauraceae,Ocotea,delicata,,LAUR_Ocodel,3706,2361,simple,ok,10,10,10,756,30,1,180,branch,382,107,131,124,68,354,12,qr,ok
+10,2017,10,4,1345,172338,Linaceae,Roucheria,punctata,,LINA_Roupun,3657,2312,simple,"ok, but images had wrong id (172337)",7,7,7,1182,65,1.125,193,branch,703,98,387,346,223,441,30,,YES
+10,2017,10,4,1345,172340,Annonaceae,Guatteria,discolor,,ANNO_Guadis,3755,2410,simple,ok,2,2,2,2366,94,1.25,325,branch,992,100,824,865,363,915,34,,ok
+10,2017,10,4,1345,172345,Melastomataceae,Miconia,aff. hypoleuca,,MELA_Micaff,3640,2295,simple,ok,6,6,6,616,88,1.25,214,branch,737,93,429,376,250,298,26,,ok
+10,2017,10,4,1345,172347,Fabaceae,Inga,sp.7.FITO,,FABA_Ingsp7,3654,2309,even-pinnate,ok?,1,,2,605,69,1.25,185,branch,666,103,350,402,163,159,15,trait,
+10,2017,10,4,1345,172356,Malvaceae,Scleronema,micranthum,,MALV_Sclmic,3748,2403,simple,ok,6,6,6,722,137,1.125,200,branch,662,102,433,407,203,277,238,qr;rgr,
+10,2017,10,4,1345,172373,Lacistemataceae,Lacistema,aggregatum/polystachyum PP,,LACI_Lacagp,3634,2289,simple,ok,8,8,8,858,23,1.25,259,branch,512,94,229,222,112,235,6,,yes
+10,2017,10,4,1345,172384,Myrtaceae,Eugenia,sp.13.FITO,,MYRT_Eugs13,3733,2388,simple,ok,8,8,8,500,25,1,191,branch,365,83,119,102,69,248,9,,
+10,2017,10,4,1345,172399,Moraceae,Pseudolmedia,laevis,,MORA_Pselae,3709,2364,simple,ok,5,5,5,856,35,1.25,174,branch,572,99,290,270,167,398,11,,ok
+10,2017,10,4,1345,172405,Lecythidaceae,Gustavia,elliptica,,LECY_Gusell,3727,2382,simple,ok,5,5,5,1196,49,1.25,195,branch,420,89,150,129,83,490,15,,
+10,2017,10,4,1345,172419,Fabaceae,Andira,trifoliolata,,FABA_Andtri,3738,2393,compound,ok?,2,,2,942,140,1.5,145,branch,862,96,752,650,388,367,48,trait,
+10,2017,10,4,1345,172427,Myrtaceae,Myrcia,cuprea,,MYRT_Myrcup,3812,2467,simple,ok,10,10,10,561,32,1.25,232,branch,493,98,247,209,148,286,15,,
+10,2017,10,4,1345,172431,Fabaceae,Swartzia,cuspidata,,FABA_Swacus,3743,2398,compound,ok?,3,,3,299,28,1.25,155,branch,691,101,459,402,279,129,12,,ok
+10,2017,10,4,1345,172458,Linaceae,Roucheria,punctata,,LINA_Roupun,3808,2463,simple,ok,5,5,5,315,12,2,152,branch,288,95,92,80,44,142,5,,
+10,2017,10,4,1345,172460,Simaroubaceae,Simaba,polyphylla,,SIMA_Simpol,3828,2483,compound,ok?,0.5,,1,969,838,1.5,248,branch,NA,NA,NA,NA,NA,381,322,,ok
+10,2017,10,4,1345,172464,Fabaceae,Inga,sp.9.FITO,,FABA_Ingsp9,3759,2414,even-pinnate,ok?,1,,2,923,361,2,184,branch,743,94,468,435,206,385,141,,
+10,2017,10,4,1345,172467,Myristicaceae,Compsoneura,ulei,,MYRI_Comule,3736,2391,simple,ok,5,5,5,1171,81,1.5,267,branch,394,97,142,126,58,407,22,,yes
+10,2017,10,4,1345,172471,Fabaceae,Sclerolobium,sp.8.FITO,,FABA_Sclsp8,3815,2470,even-pinnate,ok?,0.5,,1,709,485,2,135,branch,1096,98,1173,1032,673,386,217,rgr,yes
+10,2017,10,4,1345,172472,Fabaceae,Swartzia,cuspidata,,FABA_Swacus,3801,2456,compound,ok?,3,,3,235,20,1.5,134,branch,583,85,274,246,168,112,9,light;arch,ok
+10,2017,10,4,1345,172485,Moraceae,Pseudolmedia,laevis,,MORA_Pselae,3750,2405,simple,ok,5,5,5,804,23,2.5,219,branch,618,90,356,314,202,395,9,,ok
+10,2017,10,4,1500,173539,Ochnaceae,Ouratea,discophora,,OCHN_Ourdis,4230,2730,simple,ok,5,5,5,920,33,1,226,branch,510,92,217,186,129,447,15,,
+10,2017,10,4,1500,173548,Annonaceae,Duguetia,flagellaris,,ANNO_Dugfla,4237,2737,simple,ok,5,5,5,840,27,1,162,branch,686,82,358,320,168,395,7,,
+10,2017,10,4,1500,173554,Monimiaceae,Mollinedia,ovata,,MONI_Molova,4225,2725,simple,ok,6,6,6,1748,80,1,347,branch,414,105,174,155,75,477,16,,
+10,2017,10,4,1500,173561,Boraginaceae,Cordia,nodosa,,BORA_Cornod,4304,2804,simple,ok,7,7,7,988,20,1,149,branch,311,95,84,89,28,357,6,qr;rgr,yes
+10,2017,10,4,1500,173582,Lecythidaceae,Lecythis,pisonis,,LECY_Lecpis,4242,2742,simple,ok,10,10,10,440,16,1.125,125,branch,483,102,258,242,133,193,5,,
+10,2017,10,4,1500,173585,Sapindaceae,Talisia,sp.2.FITO,,SAPI_Talsp2,4316,2816,compound,"ok?, but image 002 had wrong id (172585)",0.5,,1,1298,1022,1,124,branch,NA,NA,NA,NA,NA,742,720,,
+10,2017,10,4,1500,173601,Humiriaceae,Sacoglottis,guianensis,,HUMI_Sacgui,4206,2706,simple,ok,5,5,5,638,29,1.125,208,branch,410,101,169,140,103,335,14,,ok
+10,2017,10,4,1500,173610,Siparunaceae,Siparuna,cuspidata,,SIPA_Sipcus,4255,2755,simple,ok,10,10,10,371,18,1.125,209,branch,440,100,162,143,74,132,5,,
+10,2017,10,4,1500,173623,Siparunaceae,Siparuna,cuspidata,,SIPA_Sipcus,4235,2735,simple,"ok, images with wrong id (173626)",10,10,10,326,10,1,220,branch,695,97,412,374,213,122,3,,
+10,2017,10,4,1500,173638,Chrysobalanaceae,Hirtella,duckei,,CHRY_Hirduc,4253,2753,simple,ok,5,5,5,487,17,1,118,branch,390,92,130,111,75,243,7,,ok
+10,2017,10,4,1500,173649,Meliaceae,Trichilia,micropetala,,MELI_Trimip,3539,2039,compound,ok?,1,,1,719,111,1,171,branch,NA,NA,NA,NA,NA,299,47,,
+10,2017,10,4,1500,173650,Ixonanthaceae,Cyrillopsis,paraensis,,IXON_Cyrpar,4204,2704,simple,ok,5,5,5,500,17,1.25,151,branch,338,95,107,94,57,198,7,,
+10,2017,10,4,1500,173668,Fabaceae,Swartzia,polyphylla,,FABA_Swapol,4212,2712,compound,ok?,2,,2,909,192,1,204,branch,648,92,392,337,230,386,93,,
+10,2017,10,4,1500,173674,Lecythidaceae,Gustavia,elliptica,,LECY_Gusell,4210,2710,simple,ok,5,5,5,605,29,1.125,134,branch,420,106,176,150,83,254,9,,
+10,2017,10,4,1500,173709,Fabaceae,Tachigali,myrmecophila,,FABA_Tacmyr,4328,2828,compound,ok?,0.5,,1,1552,866,1.25,202,branch,NA,NA,NA,NA,NA,878,448,,
+10,2017,10,4,1500,173724,Ochnaceae,Ouratea,discophora,,OCHN_Ourdis,4058,2558,simple,ok,4,4,4,1446,71,1,245,branch,505,86,235,211,135,696,34,,
+10,2017,10,4,1500,173726,Malvaceae,Theobroma,sylvestre,,MALV_Thesyl,4217,2717,simple,ok,3,3,3,697,38,1,189,branch,374,83,108,100,48,316,10,,
+10,2017,10,4,1500,173751,Myrtaceae,Calyptranthes,fasciculata,,MYRT_Calfas,4221,2721,simple,ok,10,10,10,412,13,1,206,branch,204,93,48,44,26,173,4,,yes
+10,2017,10,4,1500,173759,Malvaceae,Theobroma,sylvestre,,MALV_Thesyl,4200,2700,simple,ok,5,5,5,1672,119,1.5,205,branch,541,67,139,147,55,695,62,,
+10,2017,10,4,1500,173785,Fabaceae,Inga,sp.11.FITO,,FABA_Ings11,4248,2748,compound,ok?,4,,4,601,39,1.125,230,branch,586,81,258,229,160,284,21,,ok
+10,2017,10,4,1345,202443,Fabaceae,Swartzia,longistipitata,,FABA_Swalon,4439,3094,compound,ok?,5,,5,187,13,1,108,branch,228,89,61,52,36,84,4,,ok
+10,2017,10,4,1345,202566,Myristicaceae,Virola,multinervia,,MYRI_Virmul,4345,3000,simple,ok,5,5,5,1636,115,3.5,140,branch,755,88,390,436,185,814,30,,
+10,2017,10,4,1345,202573,Fabaceae,Inga,lateriflora,,FABA_Inglat,4431,3086,compound,ok?,2,,2,225,33,1.25,145,branch,267,77,56,52,25,82,11,,ok
+10,2017,10,4,1345,202583,Euphorbiaceae,Micrandropsis,,,,4342,2997,simple,ok,4,4,4,815,123,1.25,143,branch,499,106,242,219,124,412,47,,YES
+10,2017,10,4,1345,202588,Fabaceae,Sclerolobium,sp.8.FITO,,FABA_Sclsp8,4435,3090,compound,ok?,0.5,,1,950,734,1.25,130,branch,NA,NA,NA,NA,NA,486,345,,yes
+10,2017,10,4,1345,202632,Annonaceae,Bocageopsis,multiflora,,ANNO_Bocmul,4412,3067,simple,ok,30,30,30,163,4,1.25,109,branch,252,87,56,51,27,76,2,,ok
+10,2017,10,4,1345,202636,Siparunaceae,Siparuna,cuspidata,,SIPA_Sipcus,4407,3062,simple,ok,10,10,10,595,26,1.5,187,branch,324,94,100,87,47,198,8,,
+10,2017,10,4,1345,202653,Chrysobalanaceae,Hirtella,duckei,,CHRY_Hirduc,4209,2864,simple,ok,5,5,5,674,25,2,138,branch,429,96,198,164,121,373,13,,ok
+10,2017,10,4,1345,202662,Euphorbiaceae,Conceveiba,guianensis,,EUPH_Congui,4218,2873,simple,ok,3,3,3,2257,593,1.25,187,branch,834,97,543,549,208,872,149,,
+10,2017,10,4,1345,202666,Chrysobalanaceae,Licania,heteromorpha,,CHRY_Lichet,4452,3107,simple,ok,5,5,5,771,43,1.25,197,branch,450,105,223,200,135,387,18,,
+10,2017,10,4,1345,202692,Euphorbiaceae,Pausandra,macropetala,,EUPH_Paumac,4350,3005,simple,ok,1,1,1,988,93,1,220,branch,NA,NA,NA,NA,NA,445,32,,
+10,2017,10,4,1345,202698,Malpighiaceae,Byrsonima,rodriguesii,,MALP_Byrrod,4223,2878,simple,ok,5,5,5,323,21,1,183,branch,817,86,484,412,280,121,7,,yes
+10,2017,10,4,1345,202701,Fabaceae,Bocoa,viridiflora,,FABA_Bocvir,4227,2882,compound,ok?,3,,3,498,78,1,188,branch,671,111,465,381,307,251,37,,ok
+10,2017,10,4,1345,202703,Chrysobalanaceae,Hirtella,duckei,,CHRY_Hirduc,4234,2889,simple,ok,5,5,5,692,30,1,111,branch,250,87,67,56,32,313,10,qr,ok
+10,2017,10,4,1345,202722,Urticaceae,Pourouma,tomentosa,tomentosa FITO,URTI_Poutom-t,4352,3007,simple,ok,2,2,2,1928,673,1,228,branch,NA,NA,NA,NA,NA,744,165,,yes
+10,2017,10,4,1345,202723,Annonaceae,Guatteria,poeppigiana,,ANNO_Guapoe,4230,2885,simple,ok,5,5,5,665,30,1,189,branch,434,106,185,172,88,302,14,,
+10,2017,10,4,1345,202724,Annonaceae,Xylopia,polyantha,,ANNO_Xylpol,4253,2908,simple,ok,10,10,10,294,10,1,148,branch,597,94,251,267,111,131,3,,ok
+10,2017,10,4,1345,202726,Euphorbiaceae,Pausandra,macropetala,,EUPH_Paumac,4221,2876,simple,ok,1,1,1,899,93,1,209,branch,NA,NA,NA,NA,NA,410,30,,
+10,2017,10,4,1345,202731,Fabaceae,Bocoa,viridiflora,,FABA_Bocvir,4244,2899,compound,ok?,2,,2,770,100,1,175,branch,572,96,288,251,179,393,44,qr;rgr,ok
+10,2017,10,4,1345,202734,,,,,,4304,2959,simple,ok,5,5,5,394,14,1,148,branch,607,91,330,265,207,187,4,,YES
+10,2017,10,4,1345,202741,Fabaceae,Inga,lateriflora,,FABA_Inglat,4402,3057,compound,ok?,3,,3,323,48,1.25,145,branch,353,93,128,115,74,133,19,,ok
+10,2017,10,4,1345,202756,Boraginaceae,Cordia,nodosa,,BORA_Cornod,4214,2869,simple,ok,5,5,5,1561,50,1.25,172,branch,NA,NA,NA,NA,NA,272,4,qr,YES
+10,2017,10,4,1345,202802,Myrtaceae,Myrcia,cuprea,,MYRT_Myrcup,4300,2955,simple,ok,10,10,10,523,21,1,204,branch,393,81,122,100,77,260,9,,
+10,2017,10,4,1345,202808,Vochysiaceae,Qualea,sp.A.PP,,VOCH_QuaspA,4240,2895,simple,ok,6,6,6,554,21,1,178,branch,407,94,157,146,83,213,7,,ok
+10,2017,10,4,1345,202809,,,,,,4400,3055,simple,ok,10,10,10,614,19,1,263,branch,654,92,370,316,196,256,7,,YES
+10,2017,10,4,1345,202811,Annonaceae,Guatteriopsis,blepharophylla,,ANNO_Gutble,4248,2903,simple,ok,5,5,5,1192,57,1,161,branch,444,92,148,140,62,503,22,,ok
+10,2017,10,4,1345,202813,Fabaceae,Inga,grandiflora,Forma B PP,FABA_Inggrn-B,4447,3102,compound,ok?,0.5,,1,612,226,1.5,187,branch,540,85,263,255,132,262,88,,ok
+10,2017,10,4,1345,202816,Burseraceae,Protium,decandrum,,BURS_Prodec,4454,3109,compound,ok?,0.5,,1,614,427,1.25,136,branch,NA,NA,NA,NA,NA,308,174,light,
+10,2017,10,5,1345,240506,Euphorbiaceae,Pausandra,macropetala,,EUPH_Paumac,3414,2069,simple,ok,1,1,1,1313,137,1.25,234,branch,795,88,504,465,227,618,53,,
+10,2017,10,5,1345,240699,Siparunaceae,Siparuna,guianensis,,SIPA_Sipgui,3329,1984,simple,ok,6,6,6,418,16,1,177,branch,236,88,56,50,22,111,4,,
+10,2017,10,5,1345,240702,Siparunaceae,Siparuna,guianensis,,SIPA_Sipgui,3321,1976,simple,ok,6,6,6,965,33,1,180,branch,279,90,75,71,26,250,7,,
+10,2017,10,5,1345,240715,Myrsinaceae,Cybianthus,longifolius,,MYRS_Cyblon,3301,1956,simple,ok,5,5,5,2155,122,1,443,branch,NA,NA,NA,NA,NA,478,28,q,YES
+10,2017,10,5,1345,240743,Rhizophoraceae,Sterigmapetalum,obovatum,,RHIZ_Steobo,3310,1965,simple,ok,5,5,5,263,17,1,124,branch,NA,NA,NA,NA,NA,82,3,,
+10,2017,10,5,1345,240771,Fabaceae,Bocoa,viridiflora,,FABA_Bocvir,3438,2093,compound,ok?,2,,2,993,107,1,190,branch,740,99,476,408,302,525,54,,ok
+10,2017,10,5,1345,240774,Rubiaceae,Kutchubaea,insignis,,RUBI_Kutins,3345,2000,simple,ok,6,6,6,971,59,1,244,branch,615,98,342,293,179,371,19,,ok
+10,2017,10,5,1345,240778,Sapotaceae,Pouteria,decorticans,,SAPO_Poudec,3435,2090,simple,ok,6,6,6,828,64,1,182,branch,406,92,157,131,95,402,24,rgr,
+10,2017,10,5,1345,240783,Burseraceae,Protium,sp.A.PP,,BURS_ProspA,3404,2059,compound,ok?,1,,1,289,78,1,113,branch,390,79,133,115,62,141,33,,
+10,2017,10,5,1345,240788,Rubiaceae,Kutchubaea,insignis,,RUBI_Kutins,3313,1968,simple,ok,7,7,7,274,9,1,121,branch,NA,NA,NA,NA,NA,88,3,,yes
+10,2017,10,5,1345,240799,Fabaceae,Machaerium,macrophyllum,,FABA_Macmac,3325,1980,compound,ok?,3,,3,929,149,1,172,branch,NA,NA,NA,NA,NA,363,55,,
+10,2017,10,5,1345,240812,Fabaceae,Abarema,piresii,,FABA_Abapir,3458,2113,bipinnate,ok?,3,,3,389,61,1,122,branch,519,95,230,226,131,177,45,,
+10,2017,10,5,1345,240829,Ulmaceae,Ampelocera,edentula,,ULMA_Ampede,3351,2006,simple,ok,6,6,6,2156,90,1,187,branch,390,84,148,130,66,842,22,,
+10,2017,10,5,1345,240843,Fabaceae,Swartzia,cuspidata,,FABA_Swacus,3417,2072,compound,ok?,4,,4,285,28,1,139,branch,355,78,100,84,57,135,12,,ok
+10,2017,10,5,1345,240853,Melastomataceae,Miconia,eriodonta,,MELA_Miceri,3341,1996,simple,ok,5,5,5,1897,184,1.25,211,branch,581,95,343,292,170,837,58,,yes
+10,2017,10,5,1345,240857,Fabaceae,Inga,sp.31.FITO,,FABA_Ings31,3409,2064,compound,ok?,1,,1,1180,396,1.75,175,branch,NA,NA,NA,NA,NA,462,133,,
+10,2017,10,5,1345,240858,Clusiaceae,Tovomita,sp.1.FITO,,CLUS_Tovsp1,3354,2009,simple,ok,6,6,6,881,73,3,208,branch,461,91,186,156,96,404,25,,
+10,2017,10,5,1345,240865,Violaceae,Rinorea,sp.1.FITO,,VIOL_Rinsp1,3401,2056,simple,ok,6,6,6,473,18,3,183,branch,389,78,105,99,45,141,5,,ok
+10,2017,10,5,1345,240868,Celastraceae,Maytenus,guianensis,,CELA_Maygui,3420,2075,simple,ok,8,8,8,667,10,2.5,221,branch,393,79,119,99,67,330,4,,
+10,2017,10,5,1345,240870,Quiinaceae,Quiina,sp.1.PP,,QUII_Quisp1,3334,1989,simple,ok,6,6,6,1447,62,3.5,251,branch,581,89,324,265,208,836,32,,
+10,2017,10,5,1345,240876,Fabaceae,Stryphnodendron,paniculatum,,FABA_Strpan,3425,2080,bipinnate,ok?,1,,1,1377,772,1.25,119,branch,NA,NA,NA,NA,NA,486,264,qr,
+10,2017,10,5,1345,240882,Myrtaceae,Myrcia,rufipila,,MYRT_Myrruf,3452,2107,simple,ok,10,10,10,481,15,1,225,branch,343,88,114,88,74,233,5,,ok
+10,2017,10,5,1345,240914,Sapotaceae,Pouteria,manaosensis,,SAPO_Pouman,3316,1971,simple,ok,2,2,2,576,71,1,138,branch,NA,NA,NA,NA,NA,234,17,qr,
+10,2017,10,5,1345,240927,Lauraceae,Mezilaurus,itauba,,LAUR_Mezita,3358,2013,simple,ok,5,5,5,1474,91,1.75,170,branch,498,93,242,211,113,713,33,qr;rgr,yes
+10,2017,10,5,1345,240929,Lauraceae,Mezilaurus,,,,3441,2096,simple,ok,6,6,6,2321,132,1.75,201,branch,715,90,421,396,190,961,28,,yes
+10,2017,10,5,1345,242310,Chrysobalanaceae,Licania,macrophylla,,CHRY_Licmac,4539,3194,simple,ok,5,5,5,697,48,1,166,branch,469,103,202,175,110,333,16,,ok
+10,2017,10,5,1345,242315,Boraginaceae,Cordia,trachyphylla,,BORA_Cortra,4558,3213,simple,ok,2,2,2,2115,89,1,338,branch,NA,NA,NA,NA,NA,515,7,qr,ok
+10,2017,10,5,1345,242364,Vochysiaceae,Qualea,sp.1.PFRD,,VOCH_Quasp1,3909,2564,simple,ok,30,30,30,166,3,1,124,branch,439,73,106,94,50,56,1,,
+10,2017,10,5,1345,242391,Fabaceae,Swartzia,ingifolia,,FABA_Swaing,4510,3165,compound,ok?,3,,3,561,102,1,147,branch,636,90,318,278,173,262,43,,ok
+10,2017,10,5,1345,242393,Chrysobalanaceae,Licania,macrophylla,,CHRY_Licmac,4526,3181,simple,ok,5,5,5,583,42,1,176,branch,403,91,158,133,85,288,15,,ok
+10,2017,10,5,1345,242403,Chrysobalanaceae,Licania,laxiflora,,CHRY_Liclax,4523,3178,simple,ok,10,10,10,414,18,1,168,branch,366,102,152,126,91,212,8,,ok
+10,2017,10,5,1345,242416,Fabaceae,Bocoa,viridiflora,,FABA_Bocvir,4547,3202,compound,ok?,2,,2,511,69,1,180,branch,334,100,135,113,86,256,35,,ok
+10,2017,10,5,1345,242419,Burseraceae,Protium,decandrum,,BURS_Prodec,3905,2560,compound,ok?,0.5,,1,485,166,1,128,branch,NA,NA,NA,NA,NA,243,59,,
+10,2017,10,5,1345,242443,Fabaceae,Inga,sp.31.FITO,,FABA_Ings31,4604,3259,compound,ok?,0.5,,1,967,568,1,183,branch,NA,NA,NA,NA,NA,365,187,,
+10,2017,10,5,1345,242448,Chrysobalanaceae,Licania,macrophylla,,CHRY_Licmac,4519,3174,simple,ok,5,5,5,879,71,1.25,181,branch,574,104,340,288,204,457,27,qr,ok
+10,2017,10,5,1345,242453,Caryocaraceae,Caryocar,villosum,,CARY_Carvil,4508,3163,trifoliolate,ok?,3,,3,619,157,1,136,branch,593,99,344,323,165,238,51,,
+10,2017,10,5,1345,242458,Fabaceae,Bocoa,viridiflora,,FABA_Bocvir,4549,3204,compound,ok?,2,,2,609,68,1.25,194,branch,467,87,219,189,123,311,30,,ok
+10,2017,10,5,1345,242471,Apocynaceae,Aspidosperma,williamii,,APOC_Aspwil,4506,3161,simple,ok,10,10,10,671,40,1.25,129,branch,645,103,405,364,222,229,10,,ok
+10,2017,10,5,1345,242490,Fabaceae,Bocoa,viridiflora,,FABA_Bocvir,4543,3198,NA,ok,3,,3,822,108,NA,168,branch,792,76,533,454,342,392,50,,ok
+10,2017,10,5,1345,242493,Burseraceae,Protium,decandrum,,BURS_Prodec,4600,3255,compound,ok?,0.5,,1,921,493,2,126,branch,NA,NA,NA,NA,NA,470,196,qr,
+10,2017,10,5,1345,242519,Fabaceae,Swartzia,ingifolia,,FABA_Swaing,4536,3191,compound,ok?,1,,1,316,47,4,162,branch,352,89,122,105,64,172,21,,ok
+10,2017,10,5,1345,242543,Fabaceae,Hymenolobium,nitidum,,FABA_Hymnit,4533,3188,compound,ok?,2,,2,913,182,2,152,branch,584,93,262,268,125,519,62,qr;rgr,ok
+8,2017,NA,NA,1630,90356b,NA,NA,NA,,NA_NANA,4204,2574,NA,ok,5,,5,237,10,NA,233,branch,NA,NA,NA,NA,NA,99,5,,yes
+6,2017,7,21,NA,CTRL,NA,NA,NA,,NA_NANA,NA,NA,simple,NA,NA,NA,NA,NA,NA,1,NA,branch,NA,NA,NA,NA,NA,NA,NA,,yes
+7,2017,8,5,1630,SNANAP,Anacardiaceae,Anacardium,NA,,NA_NANA,4127,2497,simple,ok,7,7,7,1054,53,1,143,branch,446,103,178,169,90,453,16,,yes
+10,2017,10,9,1500,SNAPAC,Euphorbiaceae,Aparisthmium,NA,,NA_NANA,3635,2135,simple,"ok, but images were identified as the closest plant from the same species (20433)",5,5,5,2024,482,3,129,branch,615,106,306,342,142,788,132,,YES
+8,2017,8,18,1300,SNASPC,Apocynaceae,Aspidosperma,NA,,NA_NANA,2006,706,simple,ok,3,3,3,1114,34,1,260,branch,396,95,133,119,59,370,10,,yes
+8,2017,8,22,1335,SNBROS,Moraceae,NA,NA,,NA_NANA,6922,5587,simple,ok,5,5,5,565,19,1.25,272,branch,420,101,179,166,101,248,7,rgr,yes
+8,2017,8,21,1335,SNCONC,Euphorbiaceae,NA,NA,,NA_NANA,3450,2115,simple,ok,2,2,2,823,168,1.5,129,branch,NA,NA,NA,NA,NA,369,52,rgr,YES
+8,2017,8,19,1300,SNGEIA,Apocynaceae,Geissospermum,argenteum,,APOC_Geiarg,1954,654,simple,ok,6,6,6,297,4,1.25,152,branch,266,98,72,64,30,136,3,,
+6,2017,7,26,1500,SNTHES,Malvaceae,Theobroma,sylvestre,,MALV_Thesyl,3807,2307,simple,ok,5,5,5,879,45,1.5,207,branch,338,104,110,104,42,354,12,rgr,
