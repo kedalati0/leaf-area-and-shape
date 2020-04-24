@@ -57,12 +57,24 @@ plot(area~tnlc, l, log="xy")
 ##to create a logarithmic plot 
 lm(log(l$tnlc)~log(l$area))
 mod = lm(log(l$tnlc)~log(l$area))
-summary(mod)
-plot(x=log(l$area), y=log(l$tnlc), cex=log(l$dbh/1000+1), xlab = "logged leaf area", ylab = "leaf number", 
+qq= summary(mod)
+plot(x=log(l$area), y=log(l$tnlc), cex=log(l$dbh/1000+1), xlab = "logged leaf area", ylab = "logged leaf number", 
      pch=16, col=round(l$cii))
 ##to filter out the plants based on the dbh, change the label and round the number and change the color points
 legend( "topright",pch = 16, col=1:3,legend=1:3, title = "Light")
-legend("bottomleft", pch=1, col=1, legend=1:4, cex = 1:4)
+legend("bottomleft", pch=1, col=1, legend=1:4, pt.cex=log((2:5)), title="DBH")
+
+##to find the intercept and coeeficient
+mod$coefficients
+intercept= mod$coefficients[1]
+slope= mod$coefficients[2]
+##how many we have as a function of the leave
+exp(intercept+ slope*log(700))
+
+##to understand the relationship between leaf size and leaf number
+curve(exp(intercept+ slope*log(x)), xlim = range(l$area), ylim = range(l$tnlc), to = 1000, from = 0.99,  xlab = "Leaf Area (cm^2)",  ylab = "Number of Leaves")
+range(l$area)
+
 
 range(l$dbh/1000)
 abline(mod)
