@@ -35,8 +35,15 @@ l$dbh = l$dbh/1000 # rescale DBH to cm
 
 head(l)
 
+mod = lm(log(tnlc)~log(area),l); summary(mod)
 nd.mod = lm(log(tnlc)~log(dbh),l); summary(nd.mod)
 nda.mod = lm(nd.mod$residuals~log(l$area)); summary(nda.mod)
+
+curve(exp(mod$coef[1])*x^mod$coef[2],from=0.1,to=max(l$area),xlab=expression(paste("Leaf area (",cm^2,")")),ylab="Leaf number",log="xy")
+curve(median(l$tnlc*l$area)/x,add=T,col=2,from=0.1,to=max(l$area))
+
+curve(mod$coef[1]+x*mod$coef[2],from=min(log(l$area)),to=max(log(l$area)),xlab=expression(paste("Leaf area (",cm^2,")")),ylab="Leaf number",log="",ylim=c(0,10))
+curve(log(median(l$tnlc*l$area))-log(x),add=T,col=2)
 
 
 
@@ -55,5 +62,9 @@ ad.mod = lm(log(l$tnlc*l$area)~log(l$dbh)); summary(ad.mod)
 
 plot(x=log(l$dbh),y=log(l$tnlc*l$area))
 
+
+
+head(g)
+subset(g,plantID%in%c(230182,230303,230046,230441,230464,240266,220078,220212,15364,100790))
 
 
