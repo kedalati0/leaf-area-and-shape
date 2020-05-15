@@ -38,6 +38,39 @@ head(l)
 mod = lm(log(tnlc)~log(area),l); summary(mod)
 nd.mod = lm(log(tnlc)~log(dbh),l); summary(nd.mod)
 nda.mod = lm(nd.mod$residuals~log(l$area)); summary(nda.mod)
+m.mod = lm(log(tnlc*area)~log(dbh)+cii,l); summary(m.mod)
+tla.mod = lm(log(tnlc*area)~log(dbh),l); summary(tla.mod)
+
+range((l$tnlc*l$area))
+range(l$area)
+range(l$tnlc)
+
+plot(log(tnlc)~log(area),l)
+curve(log(80000)-log(x),add=T,col=2)
+
+
+
+
+plot((tnlc)~(area),l,log="xy",xlab=expression(paste("Leaf area (",cm^2,")")),ylab="Leaf number",pch=16,col=grey(.5,.7))
+curve(100/x,add=T,col=1,from=1,to=1000,lty=2)
+curve(1000/x,add=T,col=1,from=1,to=1000,lty=2)
+curve(10000/x,add=T,col=1,from=1,to=1000,lty=2)
+curve(100000/x,add=T,col=1,from=1,to=1000,lty=2)
+curve(exp(mod$coef[1])*x^mod$coef[2],add=T,col=2,lwd=2,from=1,to=1000)
+legend("topright",legend=c(paste0("slope = ",round(mod$coef[2],2),"***"),paste0("SE = ",round(summary(mod)$coef[2,2],2))),bty="n",text.col=2)
+text(expression(paste("0.01 ",m^2)),x=26,y=4.5,col=1,cex=.7,srt=-50)
+text(expression(paste("0.1 ",m^2)),x=255,y=4.5,col=1,cex=.7,srt=-50)
+text(expression(paste("1.0 ",m^2)),x=5,y=2321,col=1,cex=.7,srt=-50)
+text(expression(paste("Total leaf area = 10 ",m^2)),x=60,y=2000,col=1,cex=.7,srt=-50)
+
+
+
+
+
+
+plot(y=l$tnlc,x=l$dbh,log="xy",xlab="Sapling DBH (cm)",ylab="Total number of leaves")
+legend("topleft",text.col=2,c(expression(paste(R^2," = 0.09")),"p < 0.001"),bty="n")
+curve(exp(nd.mod$coef[1])*x^nd.mod$coef[2],add=T,col=2,lwd=2)
 
 curve(exp(mod$coef[1])*x^mod$coef[2],from=0.1,to=max(l$area),xlab=expression(paste("Leaf area (",cm^2,")")),ylab="Leaf number",log="xy")
 curve(median(l$tnlc*l$area)/x,add=T,col=2,from=0.1,to=max(l$area))
@@ -45,11 +78,10 @@ curve(median(l$tnlc*l$area)/x,add=T,col=2,from=0.1,to=max(l$area))
 curve(mod$coef[1]+x*mod$coef[2],from=min(log(l$area)),to=max(log(l$area)),xlab=expression(paste("Leaf area (",cm^2,")")),ylab="Leaf number",log="",ylim=c(0,10))
 curve(log(median(l$tnlc*l$area))-log(x),add=T,col=2)
 
+curve()
 
 
-plot(y=l$tnlc,x=l$dbh,log="xy",xlab="Sapling DBH (cm)",ylab="Total number of leaves")
-legend("topleft",text.col=2,c(expression(paste(R^2," = 0.09")),"p < 0.001"),bty="n")
-curve(exp(nd.mod$coef[1])*x^nd.mod$coef[2],add=T,col=2,lwd=2)
+
 
 traits = read.csv("traits.csv") # load raw trait data frame
 
