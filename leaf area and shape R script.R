@@ -54,7 +54,7 @@ f[f=="230182POUFUL"]= 230182
 
 f[f=="230378LACSP1"]= 230378
 
-f= as.numeric(f)
+f = as.numeric(f)
 
 f
 
@@ -69,6 +69,7 @@ tail (c)
 k = aggregate(Area.pred..cm.2.~plant.ID,c,mean)
 
 read.csv("architect.csv")
+
 
 architect = read.csv("architect.csv")
 
@@ -96,19 +97,35 @@ l= subset(l, !is.na(dbh) & !is.na(tnlc) & !is.na(cii))
 
 ## use this function to get rid of the NA 
 
-hist(l$area)
+##use this function to add two graphs on top of each other
+par(mfrow=c(1,1))
+par(bg="transparent")
 
-##create a histogram
+##the histogram of leaf area distribution and the log
+hist((l$area), main="Distribution of Leaf Area", cex.main=2, xlab=expression(paste("Leaf Area(", cm^2,")")), 
+     ylab="Number of Saplings", cex.lab=1.5, border="dark blue", col="chartreuse3",  
+     breaks=20, ylim=c(0,200), xlim=c(0,800), las=1, fontsize=c(30))
 
-hist(log(l$area))
+hist(log(l$area), main="", ylab="Number of Saplings", xlab="Log Leaf Area", cex.lab=1.5, 
+     border="dark blue", col="chartreuse3", breaks=20, las=1, ylim=c(0,60), xlim=c(1,7), fontsize=c(30))
+
+##create a histogram after log
+
+
+hist((l$tnlc), main="Distribution of Leaf Number", cex.main=2, xlab="Total leaf number per individual",
+     ylab="Number of Saplings", cex.lab=1.5, border="dark blue", col="chartreuse3", nclass=20, ylim=c(0,250), xlim=c(0,2500), las=1, fontsize=c(30))
+
+hist(log(l$tnlc), main="", xlab="Log Leaf Number", ylab="Number of Saplings", cex.lab=1.5, 
+     border="dark blue", col="chartreuse3", breaks=20, las=1)
 
 ## the data is in logarithmic form
 
-hist(l$tnlc)
 
-hist(log(l$tnlc))
 
-plot(area~tnlc, l, log="xy")
+plot(area~tnlc, l, log="xy", main= "Leaf Area/Number Before Log Transformation", ylab= "Leaf Area", xlab= "Total Number of Leaf Count")
+
+## to make histogram for leaf size histogram
+hist(log(l$area))
 
 ##to create a logarithmic plot 
 
@@ -118,14 +135,15 @@ mod = lm(log(l$tnlc)~log(l$area))
 
 summary(mod)
 
-plot(x=log(l$area), y=log(l$tnlc), cex=log(l$dbh/1000+1), xlab = "logged leaf area", ylab = "logged leaf number", 
-     pch=16, col=round(l$cii))
+plot(x=log(l$area), y=log(l$tnlc), main="Logged Linear Regression Model for Leaf Size & Leaf Number", cex.main=1.65, cex=log(l$dbh/500+0.5),
+     xlab = "Leaf Area", ylab = "Leaf Number", cex.lab=1.5,
+     pch=16, col=round(l$cii), las=1)
 
 ##to filter out the plants based on the dbh, change the label and round the number and change the color points
 
 legend( "topright",pch = 16, col=1:3,legend=1:3, title = "Light")
 
-legend("bottomleft", pch=1, col=1, legend=1:4, pt.cex=log((2:5)), title="DBH")
+legend("bottomleft", pch=1, col=1, legend=1:4, pt.cex=log((3:6)), title="DBH")
 
 intercept= mod$coefficients[1]
 
