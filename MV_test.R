@@ -13,27 +13,35 @@ f = unlist(e) # coerce the list into a vector
 f[f=="230182POUFUL"]= 230182 
 f[f=="230378LACSP1"]= 230378
 
-f= as.numeric(f) # coerce a character vector into a numeric one (plants without a valid ID will be assigned NAs)
+f = as.numeric(f) # coerce a character vector into a numeric one (plants without a valid ID will be assigned NAs)
 
-c $plant.ID = f # fill plant ID column in the original data frame
+c$plant.ID = f # fill plant ID column in the original data frame
+d = subset(c,select=c("plant.ID","Area.pred..cm.2."))
+names(d) = c("id","area")
 
-k = aggregate(Area.pred..cm.2.~plant.ID,c,mean) # claculate mean leaf size per plant
+k = aggregate(area~id,d,mean) # calculate mean leaf size per plant
+k2 = aggregate(area~id,d,length) # sum number of scanned leaves per plant
+k = merge(x=k,y=k2,by="id"); names(k) = c("id","area","nsl") ; head(k)
 
 architect = read.csv("architect.csv") # load raw architecture data
 
-architect= subset(architect, select = c("plantID", "dbh", "tnlc", "cii")) # simplify architecture data frame
+architect= subset(architect, select = c("trip","mm","dd","plantID", "dbh", "tnlc", "cii", "nl", "lblade")) # simplify architecture data frame
+names(architect)[4] = "id"
 
-# Change column names
-names(k)[1] = "plantID"
-names(k)[2] = "area"
-
-l= merge(architect, k, by = "plantID") # combine architecture and leaf size data frames
+l= merge(architect, k, by = "id"); head(l) # combine architecture and leaf size data frames
 
 l= subset(l, !is.na(dbh) & !is.na(tnlc) & !is.na(cii)) # remove NAs
 
 l$dbh = l$dbh/1000 # rescale DBH to cm
 
 head(l)
+
+# Check simple leaves count (whether number of leaves scanned matches with number of leaves collected)
+write.csv(subset(l,lblade=="simple" & nl!=nsl),"prob_simple.csv",row.names=F)
+
+# Fix total number of leaves for compound leaves
+l[l$lblade!="simple","tnlc"] = l[l$lblade!="simple","tnlc"]*l[l$lblade!="simple","nsl"]/l[l$lblade!="simple","nl"]
+
 
 mod = lm(log(tnlc)~log(area),l); summary(mod)
 nd.mod = lm(log(tnlc)~log(dbh),l); summary(nd.mod)
@@ -72,13 +80,6 @@ plot(y=l$tnlc,x=l$dbh,log="xy",xlab="Sapling DBH (cm)",ylab="Total number of lea
 legend("topleft",text.col=2,c(expression(paste(R^2," = 0.09")),"p < 0.001"),bty="n")
 curve(exp(nd.mod$coef[1])*x^nd.mod$coef[2],add=T,col=2,lwd=2)
 
-curve(exp(mod$coef[1])*x^mod$coef[2],from=0.1,to=max(l$area),xlab=expression(paste("Leaf area (",cm^2,")")),ylab="Leaf number",log="xy")
-curve(median(l$tnlc*l$area)/x,add=T,col=2,from=0.1,to=max(l$area))
-
-curve(mod$coef[1]+x*mod$coef[2],from=min(log(l$area)),to=max(log(l$area)),xlab=expression(paste("Leaf area (",cm^2,")")),ylab="Leaf number",log="",ylim=c(0,10))
-curve(log(median(l$tnlc*l$area))-log(x),add=T,col=2)
-
-curve()
 
 
 
