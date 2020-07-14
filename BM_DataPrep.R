@@ -39,15 +39,17 @@ head(mao)
 # Putting things together...
 am = merge(arch,mass,by="id"); nrow(am) # merge arch and mass (individual level data)
 am = merge(am,mao[,c("id","sp","dbh0")],by="id"); nrow(am) # add species identities and plant initial size
-#am = merge(am,area); nrow(am) # add mean leaf area per plant
+am = merge(am,area); nrow(am) # add mean leaf area per plant
 am = am[order(am$sp,am$id),] # organize by species, then by id
 am = subset(am,!sp==" " & !sp=="NA NA" & !is.na(ldm) & !is.na(tnlc) & !is.na(cii) & !is.na(dbh) & !is.na(dbh0)) # remove non-identified saplings and entries with missing data
 head(am); nrow(am) # 442 -> it could be 733
 hist(table(am$sp))
+write.csv(am,"DATA.csv",row.names=F)
 
 
-write.csv(am[which(!am$id%in%area$id),],"missingIDs.csv",row.names=F)
+#write.csv(am[which(!am$id%in%area$id),],"missingIDs.csv",row.names=F)
 
+# FIND delta t DAATA
 
 
   
