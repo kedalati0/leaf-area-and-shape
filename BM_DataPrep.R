@@ -1,21 +1,20 @@
 # Leaf area
-area = read.csv("Leaf Area and Shape From Trip5-10.csv", stringsAsFactors = FALSE) # load raw leaf area data
-head(area); str(area)
-area  = area[215:4540,] # remove empty lines
-tmp = strsplit(area$file.name, "_") # split file name in order to extract plant ID
-tmp = lapply(tmp, function(x) x[1]) # extract plant ID
-tmp = unlist(tmp) # coerce the list into a vector
-head(tmp)
+area = read.csv("RAW_leafSize.csv", stringsAsFactors = FALSE) # load raw leaf area data
+names(area)[4] = "id"
+head(area); tail(area); str(area) # check data
+nrow(area) # 21069
 
-# Some small fixs to plant ids
-tmp[tmp=="230182POUFUL"]= 230182 
-tmp[tmp=="230378LACSP1"]= 230378
-tmp = as.numeric(tmp) # coerce a character vector into a numeric one (plants without a valid ID will be assigned NAs)
-area$plant.ID = tmp # fill plant ID column in the original data frame
-area = subset(area,select=c("plant.ID","Area.pred..cm.2.")) # reduce table
-names(area) = c("id","area") # fix some column names
-area = aggregate(area~id,area,mean) # average leaf area per plant
-head(area); nrow(area)
+# Get rid of non-identified entries
+area = area[which(!is.na(as.numeric(area$id))),] # exclude problematic ids
+nrow(area) # 20624
+
+# Convert leaf area into cm^2
+area$area.cm2 = area$Area/13819.17803
+head(area)
+
+# Calculate the average per plant
+aarea = aggregate(area.cm2~id,area,mean) # average leaf area per plant
+head(aarea); nrow(aarea) # 2798
 
 # Sapling architecture
 arch = read.csv("architect.csv") # load raw architecture data
@@ -25,7 +24,6 @@ head(arch)
 
 # Leaf mass 
 mass = read.csv("traits.csv") # load raw trait data frame
-mass$sp = paste(mass$gen,mass$epi) # create new column with species names
 mass = subset(mass,select=c("plantID","ldm"))
 names(mass)[1] = "id"
 head(mass)
@@ -39,11 +37,12 @@ head(mao)
 # Putting things together...
 am = merge(arch,mass,by="id"); nrow(am) # merge arch and mass (individual level data)
 am = merge(am,mao[,c("id","sp","dbh0")],by="id"); nrow(am) # add species identities and plant initial size
-am = merge(am,area); nrow(am) # add mean leaf area per plant
+am = merge(am,aarea); nrow(am) # add mean leaf area per plant
 am = am[order(am$sp,am$id),] # organize by species, then by id
 am = subset(am,!sp==" " & !sp=="NA NA" & !is.na(ldm) & !is.na(tnlc) & !is.na(cii) & !is.na(dbh) & !is.na(dbh0)) # remove non-identified saplings and entries with missing data
-head(am); nrow(am) # 442 -> it could be 733
-hist(table(am$sp))
+head(am); nrow(am) # 658
+length(unique(am$sp)) # 378
+hist(table(am$sp)) # sample size per species
 write.csv(am,"DATA.csv",row.names=F)
 
 
