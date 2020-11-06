@@ -1,0 +1,26 @@
+model{
+    
+    ### Likelihood
+    ## Individual level
+    for(i in 1:N){
+      # Size and illumination effects on leaf size/number
+      MA[i,1:3] = alpha[1:3] + alpha[4:6]*D[i] + alpha[7:9]*L[i] # size and light effects
+      A[i,1:3] ~ dmnorm(MA[i,1:3],PA[1:3,1:3]) # sampling error for response variables
+      }
+
+    alpha[1:9] ~ dmnorm(ma[1:9],pa[1:9,1:9])
+
+    ### Priors
+    # Inverse of var-covariance matrices
+    PA ~ dwish(priPA,3+1) # individual traits (Sigma)
+    pa ~ dwish(pripa,9+1) # parameters (Sigma)
+    
+    # Alphas
+    ma ~ dmnorm(prim,pripa) # Hmax effects on architectural parameters
+    
+    ### Statistics
+    # Variances and covariances
+    VA = inverse(PA) # Covariances among response variables (after accounting for size and light effects)
+    va = inverse(pa) # Covariances among alphas
+      
+    }
