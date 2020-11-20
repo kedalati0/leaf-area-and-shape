@@ -40,15 +40,15 @@ am = merge(am,mao[,c("id","sp","dbh0")],by="id"); nrow(am) # add species identit
 am = merge(am,aarea); nrow(am) # add mean leaf area per plant
 am = am[order(am$sp,am$id),] # organize by species, then by id
 am = subset(am,!sp==" " & !sp=="NA NA" & !is.na(ldm) & !is.na(tnlc) & !is.na(cii) & !is.na(dbh) & !is.na(dbh0)) # remove non-identified saplings and entries with missing data
+am$dbh = am$dbh/1000 # convert dbh to cm
+### FIX! #### nl refers to number of leaves scanned, not leaf units!
+am$aldm = am$ldm/am$nl # calculates mean leaf dry mass per plant
+#############
 head(am); nrow(am) # 658
 length(unique(am$sp)) # 378
 hist(table(am$sp)) # sample size per species
 write.csv(am,"DATA.csv",row.names=F)
 
-
-#write.csv(am[which(!am$id%in%area$id),],"missingIDs.csv",row.names=F)
-
-# FIND delta t DAATA
 
 
   

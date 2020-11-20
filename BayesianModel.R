@@ -17,15 +17,14 @@ data = subset(data,lblade=="simple")
 head(data); table(data$lblade)
 
 # Load priors for the model (deal with it later...)
-sinds = cbind(log(data[,c("nl","ldm","area.cm2")]))
-refD = median(data$dbh/1000) # median DBH
-
+sinds = log(data[,c("tnlc","aldm","area.cm2")])
+refD = log(median(data$dbh)) # median DBH
 
 # Basic model input and parameters
 dat = list(
   N = nrow(data), #S = length(unique(data$sp)), sp = as.numeric(factor(data$sp)), # metadata
   A = sinds, # leaf data (individual level)
-  D = log(data$dbh/1000)-refD, L = data$cii-1, # covariates (individual level)
+  D = log(data$dbh)-refD, L = data$cii-1, # covariates (individual level)
   priPA = diag(rep(.001,3)), pripa = diag(rep(.001,9)), prim = rep(0,9)  # priors for sampling error model (alphas)
   #Hmax=hmax$Hmax-refHmax, # predictor (species level)
   #prit=prit, priPt=solve(priVt), # priors for Hmax effects
@@ -77,11 +76,34 @@ res = coda.samples(mod,params,n.iter=6680*4,thin=20)
 dim(res[[1]]) # one of the chains
 res2 = as.matrix(res)
 dim(res2)
-hist(res2[,"alpha[4]"],main="D effect on LN"); abline(v=0,col=2,lwd=2,lty=3)
-hist(res2[,"alpha[5]"],main="D effect on LDM"); abline(v=0,col=2,lwd=2,lty=3)
-hist(res2[,"alpha[6]"],main="D effect on LA"); abline(v=0,col=2,lwd=2,lty=3)
-sum(res2[,"alpha[6]"]>0)/length(res2[,"alpha[6]"]>0)
 
-plot(res2[,"alpha[1]"],res2[,"alpha[3]"])
+hist(res2[,"alpha[4]"],main="D effect on LN"); abline(v=0,col=2,lwd=2,lty=3); 
+median(res2[,"alpha[4]"]); sum(res2[,"alpha[4]"]>0)/length(res2[,"alpha[4]"]>0)
+
+hist(res2[,"alpha[5]"],main="D effect on LDM"); abline(v=0,col=2,lwd=2,lty=3)
+median(res2[,"alpha[5]"]); sum(res2[,"alpha[5]"]>0)/length(res2[,"alpha[5]"]>0)
+
+hist(res2[,"alpha[6]"],main="D effect on LA"); abline(v=0,col=2,lwd=2,lty=3)
+median(res2[,"alpha[6]"]); sum(res2[,"alpha[6]"]>0)/length(res2[,"alpha[6]"]>0)
+
+hist(res2[,"VA[1,2]"],main="trade-off between LN and LDM")
+
+curve(exp(median(res2[,"alpha[1]"]) + median(res2[,"alpha[4]"])*(log(x)-refD)),from=1,to=4,ylab="Number of leaves per plant",xlab="DBH (cm)")
+points(tnlc~dbh,data,col=gray(.5,.5),pch=16)
+curve(exp(median(res2[,"alpha[2]"]) + median(res2[,"alpha[5]"])*(log(x)-refD)),from=1,to=4,ylab="Mean leaf dry mass (mg)",xlab="DBH (cm)")
+points(aldm~dbh,data,col=gray(.5,.5),pch=16)
+curve(exp(median(res2[,"alpha[3]"]) + median(res2[,"alpha[6]"])*(log(x)-refD)),from=1,to=4,ylab="Mean leaf area (cm^2)",xlab="DBH (cm)")
+points(area.cm2~dbh,data,col=gray(.5,.5),pch=16)
+
+bn = median(res2[,"alpha[1]"]) # intercept for # leaves
+ba = median(res2[,"alpha[3]"]) # intercept for leaf area
+an = median(res2[,"alpha[4]"]) # slope for NL*D
+aa = median(res2[,"alpha[6]"]) # slope for A*D
+
+curve(exp(bn*ba + (bn*aa+ba*an)*(log(x)-refD) + an*aa*(log(x)-refD)^2),from=1,to=4,ylab="Total leaf area per plant (cm^2)",xlab="DBH (cm)")
+points(y=data$area.cm2*data$tnlc,x=data$dbh,col=gray(.5,.5),pch=16)
+
+
+
 
 
