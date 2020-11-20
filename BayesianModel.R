@@ -17,18 +17,17 @@ data = subset(data,lblade=="simple")
 head(data); table(data$lblade)
 
 # Load priors for the model (deal with it later...)
-sinds = log(data[,c("tnlc","aldm","area.cm2")])
+sinds = log(data[,c("tnlc","aldm","area.cm2")]) # log-transform response variables
 refD = log(median(data$dbh)) # median DBH
+preD = log(seq(1,4,l=20)) # DBH used for predictions
 
 # Basic model input and parameters
 dat = list(
   N = nrow(data), #S = length(unique(data$sp)), sp = as.numeric(factor(data$sp)), # metadata
   A = sinds, # leaf data (individual level)
   D = log(data$dbh)-refD, L = data$cii-1, # covariates (individual level)
+  preD=preD-refD, # predictions' parameters
   priPA = diag(rep(.001,3)), pripa = diag(rep(.001,9)), prim = rep(0,9)  # priors for sampling error model (alphas)
-  #Hmax=hmax$Hmax-refHmax, # predictor (species level)
-  #prit=prit, priPt=solve(priVt), # priors for Hmax effects
-  #preD=preD2-refD, preL=preL, preHmax=preHmax-refHmax, presp=presp # predictions' parameters
   )
 
 ## MODEL
@@ -41,6 +40,11 @@ cat("model{
       # Size and illumination effects on leaf size/number
       MA[i,1:3] = alpha[1:3] + alpha[4:6]*D[i] + alpha[7:9]*L[i] # size and light effects
       A[i,1:3] ~ dmnorm(MA[i,1:3],PA[1:3,1:3]) # sampling error for response variables
+      
+      ## Posterior preditions
+      for(k in 1:length(preD)){
+        pre[i,1:3,k] = alpha[1:3] + alpha[4:6]*preD[k]
+        }
       }
 
     alpha[1:9] ~ dmnorm(ma[1:9],pa[1:9,1:9])
@@ -71,11 +75,13 @@ update(mod,n.iter=10000)
 
 # JAGS output
 params = c("alpha","ma", # effects (size, light)
+           "pre", # posterior predictions
            "VA","va") # covariances matrices
 res = coda.samples(mod,params,n.iter=6680*4,thin=20)
 dim(res[[1]]) # one of the chains
 res2 = as.matrix(res)
 dim(res2)
+
 
 hist(res2[,"alpha[4]"],main="D effect on LN"); abline(v=0,col=2,lwd=2,lty=3); 
 median(res2[,"alpha[4]"]); sum(res2[,"alpha[4]"]>0)/length(res2[,"alpha[4]"]>0)

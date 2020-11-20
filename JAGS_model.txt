@@ -6,6 +6,11 @@ model{
       # Size and illumination effects on leaf size/number
       MA[i,1:3] = alpha[1:3] + alpha[4:6]*D[i] + alpha[7:9]*L[i] # size and light effects
       A[i,1:3] ~ dmnorm(MA[i,1:3],PA[1:3,1:3]) # sampling error for response variables
+      
+      ## Posterior preditions
+      for(k in 1:length(preD)){
+        pre[i,1:3,k] = alpha[1:3] + alpha[4:6]*preD[k]
+        }
       }
 
     alpha[1:9] ~ dmnorm(ma[1:9],pa[1:9,1:9])
