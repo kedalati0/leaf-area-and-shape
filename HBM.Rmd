@@ -1,0 +1,34 @@
+---
+title: "HB Model"
+author: "M. Vaz"
+date: "`r Sys.time()`"
+output: pdf_document
+---
+
+# Leaf level {-}
+In order to model leaf size variation within plants, we model each leaf $k$ form plant $i$ and species $j$ as a random sample from a lognormal distribution centered at $a_{ij}$ (mean leaf size for plant $i$), as follows:
+$$\log_eA_{kij} \sim N(a_{ij},\sigma^2_{A})$$
+where $\sigma^2_A$ is the leaf size variation within plant $i$. The estimate $a_{ij}$ was later used as a predictor of the total leaf surface area for each of the sampled plants.
+
+# Individual level {-}
+In order to model intraspecific variation in the total number of leaves per plant ($N_{ij}$), and thus total leaf surface area per plant ($a_{ij}*N_{ij}$), we assumed $N_{ij}$ to be a random sample of a lognormal distribution as follows:
+$$\log_eN_{ij} \sim N(\beta_j+\alpha_j*D_{ij}+\phi_j*L_{ij}+\gamma_j*m_{ij},\sigma^2_N)$$
+where $\sigma^2_N$ is the intra-specific residual variation of $N$ and $\beta$, $\alpha$, $\phi$, and $\gamma$ are species-specific parameters that estimate, respectively: the number of leaves of an average-sized sapling growing in the shade ($L=1$); the effect of sapling size ($D$) on $N$; the effect of light on $N$; and the effect of leaf mean size ($m$) on $N$.
+
+Now, to model the relationship between mean leaf mass ($m$) and mean leaf area ($a$) per plant we modeled $a_{ij}$ as a function of $m_{ij}$ as follows:
+$$a_{ij} \sim N(SLA_j*m_{ij},\sigma^2_a)$$
+where $SLA_j$ is the specific leaf area for species $j$ and $\sigma^2_a$ is the intraspecific variance in mean leaf area.
+
+
+# Species level {-}
+Finally, to model the interspecific variation in $N$ we modeled all species-specific parameters ($\beta_j$, $\alpha_j$, $\phi_j$, and $\gamma_j$, or simply $\Gamma_j$) as samples from a multivariate normal distribution as follows:
+$$\Gamma_j \sim N_3(\mu,\Sigma_\Gamma)$$
+
+
+
+
+
+
+
+
+
