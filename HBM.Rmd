@@ -4,26 +4,32 @@ author: "M. Vaz"
 date: "`r Sys.time()`"
 output: pdf_document
 ---
-
-# Leaf level {-}
+# Methods {-}
+## Statistical Analysis {-}
+### Leaf level {-}
 In order to model leaf size variation within plants, we model each leaf $k$ form plant $i$ and species $j$ as a random sample from a lognormal distribution centered at $a_{ij}$ (mean leaf size for plant $i$), as follows:
-$$\log_eA_{kij} \sim N(a_{ij},\sigma^2_{A})$$
+$$\log_eA_{kij} \sim \mathcal{N}(a_{ij},\sigma^2_{A})$$
 where $\sigma^2_A$ is the leaf size variation within plant $i$. The estimate $a_{ij}$ was later used as a predictor of the total leaf surface area for each of the sampled plants.
 
-# Individual level {-}
-In order to model intraspecific variation in the total number of leaves per plant ($N_{ij}$), and thus total leaf surface area per plant ($a_{ij}*N_{ij}$), we assumed $N_{ij}$ to be a random sample of a lognormal distribution as follows:
-$$\log_eN_{ij} \sim N(\beta_j+\alpha_j*D_{ij}+\phi_j*L_{ij}+\gamma_j*m_{ij},\sigma^2_N)$$
-where $\sigma^2_N$ is the intra-specific residual variation of $N$ and $\beta$, $\alpha$, $\phi$, and $\gamma$ are species-specific parameters that estimate, respectively: the number of leaves of an average-sized sapling growing in the shade ($L=1$); the effect of sapling size ($D$) on $N$; the effect of light on $N$; and the effect of leaf mean size ($m$) on $N$.
+### Individual level {-}
+In order to model intraspecific variation in the total number of leaves per plant ($N_{ij}$; log-transformed), we assumed $N_{ij}$ to be a random sample of a normal distribution as follows:
+$$N_{ij} \sim \mathcal{N}(\beta_j+\delta_j*D_{ij}+\phi_j*L_{ij}+\mu_j*M_{ij},\sigma^2_N)$$
+where $\sigma^2_N$ is the intra-specific residual variation of $N$ and $\beta$, $\delta$, $\phi$, and $\mu$ are species-specific parameters that estimate, respectively: the number of leaves of an average-sized sapling growing in the shade ($L=1$); the effect of sapling size ($D$; centered and log-transformed) on $N$; the effect of light on $N$; and the effect of leaf mean dry mass ($M$; log-transformed) on $N$.
 
-Now, to model the relationship between mean leaf mass ($m$) and mean leaf area ($a$) per plant we modeled $a_{ij}$ as a function of $m_{ij}$ as follows:
-$$a_{ij} \sim N(SLA_j*m_{ij},\sigma^2_a)$$
-where $SLA_j$ is the specific leaf area for species $j$ and $\sigma^2_a$ is the intraspecific variance in mean leaf area.
+Now, to model the relationship between mean leaf mass ($M$) and mean leaf area ($a$) per plant we modeled $a_{ij}$ as a function of $m_{ij}$ as $a_{ij} \sim \mathcal{N}(SLA_j+M_{ij},\sigma^2_a)$, where $SLA_j$ is the log-transformed specific leaf area for species $j$ and $\sigma^2_a$ is the intraspecific variance in mean leaf area. Additionally, to estimate species average leaf mass we modeled $M_{ij}$ as $M_{ij} \sim \mathcal{N}(m_j,\sigma^2_M)$, where $m_j$ is the species-specific mean leaf mass and $\sigma^2_M$ is the intraspecific variance in mean leaf mass. Of course, to estimate species-specific mean leaf area we can just sum $SLA_j$ and $m_j$.
 
 
-# Species level {-}
-Finally, to model the interspecific variation in $N$ we modeled all species-specific parameters ($\beta_j$, $\alpha_j$, $\phi_j$, and $\gamma_j$, or simply $\Gamma_j$) as samples from a multivariate normal distribution as follows:
-$$\Gamma_j \sim N_3(\mu,\Sigma_\Gamma)$$
+### Species level {-}
+Finally, to model the interspecific variation in $N$ we modeled all species-specific parameters ($\beta_j$, $\delta_j$, $\phi_j$, and $\mu_j$, or simply $\Gamma_j$) as samples from a multivariate normal distribution as follows:
+$$\Gamma_j \sim \mathcal{N}_4(\gamma,\Sigma_\Gamma)$$
+where $\gamma$ is the vector with the means of the hyperparameter distributions for each species-specific parameter and $\Sigma_\Gamma$ is the variance-covariance matrix containing the interspecific variations and correlations among these parameters.
 
+We also modeled the across-species distribution of leaf sizes ($m_j$) and specific leaf area ($SLA_j$) respectively as $m_j \sim \mathcal{N}(\bar{m},\sigma^2_m)$ and $SLA_j \sim \mathcal{N}(sla,\sigma^2_{SLA})$.
+
+### Posterior predictions {-}
+Finally, to compare the growth strategies of large- and small-leafed saplings, we estimated total leaf surface area per plant ($A_T$; log-transformed) for standardized plants (i.e., medium-sized $[D=0]$, grown in the shade $[L=0]$) of species mean leaf mass ($m_j$) and specific leaf area ($SLA_j$) as follows:
+$$A_{T_j} = \hat{N_j}+\hat{a_j} = (\beta_j+\mu_j*m_j)+(SLA_j+m_j)$$
+thus $A_T = (\beta_j+SLA_j)+(1+\mu_j)*m_j$
 
 
 
