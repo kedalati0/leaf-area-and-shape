@@ -6,14 +6,19 @@ model{
       # Size and illumination effects on leaf size/number
       c[i] = alpha[1] + alpha[2]*D[i] + alpha[3]*L[i] + alpha[4]*M[i] + alpha[5]*SLA[i] # size, light, leaf mass, and SLA effects
       C[i] ~ dnorm(c[i],PC) # sampling error for response variables
-      
-      ## Posterior predictions
-      # Growth curves
-      for(k in 1:length(preD)){
-        pre[i,k] = alpha[1] + alpha[2]*D[k] + alpha[3]*L[i] + alpha[4]*4.67
-        }
       }
 
+      ## Posterior predictions
+      # Growth curves
+      for(d in 1:length(preD)){
+        for(m in 1:length(preM)){
+          for(s in 1:length(preSLA)){
+            pre[d,m,s] = alpha[1] + alpha[2]*preD[d] + alpha[4]*preM[m] + alpha[5]*preSLA[s]
+            }
+          }
+        }
+
+    # Parameters
     alpha[1:5] ~ dmnorm(ma[1:5],pa[1:5,1:5])
 
     ### Priors
