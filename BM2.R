@@ -168,6 +168,7 @@ tmp = exp(res2[,paste0("pre[",6,",",1:length(preM),",",3,"]")]) # medians
 tt = apply(tmp,2,quantile,c(.025,.975)) # credible intervals
 plot(apply(tmp,2,median),x=exp(preM),log="xy",type="l",xlab="Average mass per leaf (g)",ylab="Number of leaves per plant")
 polygon(y=c(tt[1,],rev(tt[2,])),x=exp(c(preM,rev(preM))),col=grey(.5,.5),border=NA)
+points(tnlc~aldm,data,col=gray(.5,.5),pch=16)
 
 ## Predicted vs. observed (model fit)
 pred = exp(m1 + m2*(log(data$dbh)-refD) + m3*(data$cii-1) + m4*log(data$aldm) + m5*data$sla2)
@@ -183,7 +184,7 @@ quantile(res,c(.025,.975)) # credible interval
 
 ## Total leaf surface area
 parea = exp(mod2$coef[1]+mod2$coef[2]*log(data$aldm))
-plot(parea,data$larea,log="xy")
+plot(parea,data$larea,log="xy"); abline(0,1)
 # as a function of leaf size, but constant SLA
 curve(exp(m1+m2*(log(x)-refD))*exp(mod2$coef[1]+mod2$coef[2]*log(1))/10000,
       ylab="Total leaf surface (m2)",xlab="DBH (cm)")
@@ -217,5 +218,35 @@ curve(exp(m1+m2*(log(x)-refD)+m4*log(.1)+m5*1)*(exp(mod2$coef[1]+mod2$coef[2]*lo
       lty=3,add=T)
 legend("topleft",leg=c("M = 1; SLA = 0","M = 10; SLA = -1","M = 0.1; SLA = 1"),lty=1:3,bty="n")
 
+# tradeoff with predicted values (standardized saplings: same DBH, CII, and SLA)
+tmp = aggregate(cbind(aldm,sla2,larea)~sp,data,median)
+tmp$aldm = log(tmp$aldm)
+tmp$larea = log(tmp$larea)
+tmp2 = matrix(NA,nrow=length(a1),ncol=nrow(tmp))
+for(j in 1:nrow(tmp)){
+  for(i in 1:length(a1)){
+    tmp2[i,j] = exp(a1[i]+a4[i]*tmp[j,"aldm"]+a5[i]*tmp[j,"sla2"])
+    }
+  }
+tmp2[1:5,1:5]
+tmp$enl = apply(tmp2,2,median)
+plot(enl~aldm,tmp,log="y")
+cor(log(tmp$enl),tmp$aldm) # median correlation
+tmp3 = numeric()
+for(i in 1:length(a1)){ tmp3[i] = cor(log(tmp2[i,]),tmp$aldm) }
+quantile(tmp3,c(.025,.975))
 
+plot(enl~sla2,tmp,log="y")
+cor.test(log(tmp$enl),tmp$sla2) # median correlation
+
+plot(enl~larea,tmp,log="y")
+plot(enl~exp(larea),tmp)
+cor.test(log(tmp$enl),tmp$larea) # median correlation
+tmp3 = numeric()
+for(i in 1:length(a1)){ tmp3[i] = cor(log(tmp2[i,]),tmp$larea) }
+quantile(tmp3,c(.025,.975))
+
+
+# center SLA and M too?
+# rethink total leaf area predictions as a function of SLA...
 
