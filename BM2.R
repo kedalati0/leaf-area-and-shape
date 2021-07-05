@@ -16,7 +16,7 @@ table(data$lblade)
 data = subset(data,lblade=="simple") # select only simple-leafed species
 head(data) # check
 
-# Load priors for the model (deal with it later...)
+# Load priors for the model -> ##FIX!## (deal with it later...)
 refD = log(median(data$dbh)); refM = log(median(data$aldm)) # median DBH and LDM
 preD = log(seq(1,4,l=20)); preM = seq(-4.6,2.3,len=20); preSLA = seq(-1,1,len=5) # DBH, LDM, and SLA used for predictions
 data$sla = data$larea/data$aldm # calculate SLA
@@ -26,7 +26,7 @@ cor.test(log(data$aldm),log(data$larea)) # 0.96
 cor.test(log(data$aldm),log(data$sla)) # -0.54
 cor.test(log(data$aldm),data$sla2) # 0
 cor.test(log(data$sla),data$sla2) # 0.85
-plot(sla2~sla,data,log="x")
+plot(sla2~sla,data,log="x") # conclusion: SLA estimated as residuals is tightly correlated to SLA calculated the old-fashioned way, but it has the benefit of being independent from leaf mass
 
 # Basic model input and parameters
 dat = list(
@@ -146,7 +146,7 @@ curve(exp(m1 + m4*log(x) + m2*(log(1)-refD)),add=T,from=.05,to=10,lwd=.5) # D =
 curve(exp(m1 + m4*log(x) + m2*(log(3)-refD)),add=T,from=.05,to=10,lwd=2) # D = 
 legend("topright",c("1","2","3"),title="DBH (cm)",bty="n",lwd=c(.5,1,2))
 
-# Observed tradeoff (as a function of L)
+# Observed tradeoff (as a function of L) -> n.s.
 curve(exp(m1 + m4*log(x)),from=.05,to=10,ylab="Number of leaves per plant",xlab="Leaf mass (g)",
       ylim=range(data$tnlc),log="xy",lwd=.5) # L = 1; D = 1.79 cm; SLA = 0
 points(tnlc~aldm,data,col=gray(.5,.5),pch=16)
@@ -179,8 +179,8 @@ for(i in 1:nrow(tmp)){
   pred = exp(a1[i] + a2[i]*(log(data$dbh)-refD) + a3[i]*(data$cii-1) + a4[i]*log(data$aldm) + a5[i]*data$sla2)
   res[i] = 1-sum((log(pred)-log(data$tnlc))^2)/sum((log(data$tnlc)-mean(log(data$tnlc)))^2)
   }
-hist(res)  
-quantile(res,c(.025,.975)) # credible interval
+hist(res,main="CI of R^2")  
+quantile(res,c(.025,.5,.975)) # credible interval
 
 ## Total leaf surface area
 parea = exp(mod2$coef[1]+mod2$coef[2]*log(data$aldm))
@@ -192,7 +192,7 @@ curve(exp(m1+m2*(log(x)-refD)+m4*log(10))*exp(mod2$coef[1]+mod2$coef[2]*log(10))
       lwd=2,add=T)
 curve(exp(m1+m2*(log(x)-refD)+m4*log(.1))*exp(mod2$coef[1]+mod2$coef[2]*log(.1))/10000,
       lwd=.5,add=T)
-legend("topleft",title="Leaf size (g)",c("0.1","1.0","10"),lwd=c(.5,1,2),bty="n")
+legend("topleft",title="Leaf mass (g)",c("0.1","1.0","10"),lwd=c(.5,1,2),bty="n")
 # as a function of SLA, but constant leaf size
 curve(exp(m1+m2*(log(x)-refD))*exp(mod2$coef[1]+mod2$coef[2]*log(1))/10000,
       ylab="Total leaf surface (m2)",xlab="DBH (cm)")
@@ -200,7 +200,7 @@ curve(exp(m1+m2*(log(x)-refD)+m5*-1)*(exp(mod2$coef[1]+mod2$coef[2]*log(1))+exp(
       lwd=.5,add=T)
 curve(exp(m1+m2*(log(x)-refD)+m5*1)*(exp(mod2$coef[1]+mod2$coef[2]*log(1))+exp(1))/10000,
       lwd=2,add=T)
-legend("topleft",title="SLA (?)",leg=c(-1,0,1),lwd=c(.5,1,2),bty="n")
+legend("topleft",title="SLA",leg=c(-1,0,1),lwd=c(.5,1,2),bty="n")
 # as a function of light
 curve(exp(m1+m2*(log(x)-refD))*exp(mod2$coef[1]+mod2$coef[2]*log(1))/10000,
       ylab="Total leaf surface (m2)",xlab="DBH (cm)",lwd=.5)
@@ -247,6 +247,16 @@ for(i in 1:length(a1)){ tmp3[i] = cor(log(tmp2[i,]),tmp$larea) }
 quantile(tmp3,c(.025,.975))
 
 
-# center SLA and M too?
+# trade-off between low leaf overshading (LAI) and total leaf area?
+data$tla = data$larea*data$tnlc
+data$lai = data$tla/data$cpa
+plot(lai~larea,data,log="xy",xlab="Leaf area (cm^2)",ylab="LAI")
+cor.test(data$lai,data$larea)
+summary(lm(lai~larea,data))
+legend("bottomright","R = 0.29 \n p<0.001",bty="n")
+cor.test(data$lai,data$aldm)
+
+
+# center SLA too?
 # rethink total leaf area predictions as a function of SLA...
 
